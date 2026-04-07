@@ -1,0 +1,79 @@
+cfp-448x448/f-h-176037_32.jpg,oct/o-h-176037_16.jpg	no_amd
+cfp-448x448/f-h-178190_32.jpg,oct/o-h-178190_16.jpg	no_amd
+cfp-448x448/f-h-179148_32.jpg,oct/o-h-179148_15.jpg	no_amd
+cfp-448x448/f-h-179217_32.jpg,oct/o-h-179217_15.jpg	no_amd
+cfp-448x448/f-h-179224_32.jpg,oct/o-h-179224_15.jpg	no_amd
+cfp-448x448/f-h-183919_32.jpg,oct/o-h-183919_17.jpg	no_amd
+cfp-448x448/f-h-185890_32.jpg,oct/o-h-185890_16.jpg	no_amd
+cfp-448x448/f-h-187853_32.jpg,oct/o-h-187853_16.jpg	no_amd
+cfp-448x448/f-h-188666_32.jpg,oct/o-h-188666_17.jpg	no_amd
+cfp-448x448/f-h-198865_32.jpg,oct/o-h-198865_16.jpg	no_amd
+cfp-448x448/f-h-199816_32.jpg,oct/o-h-199816_16.jpg	no_amd
+cfp-448x448/f-h-199974_32.jpg,oct/o-h-199974_15.jpg	no_amd
+cfp-448x448/f-h-201733_32.jpg,oct/o-h-201733_15.jpg	no_amd
+cfp-448x448/f-h-201768_32.jpg,oct/o-h-201768_20.jpg	no_amd
+cfp-448x448/f-h-203961_32.jpg,oct/o-h-203961_17.jpg	no_amd
+cfp-448x448/f-h-209615_32.jpg,oct/o-h-209615_14.jpg	no_amd
+cfp-448x448/f-h-214515_32.jpg,oct/o-h-214515_17.jpg	no_amd
+cfp-448x448/f-h-218824_32.jpg,oct/o-h-218824_15.jpg	no_amd
+cfp-448x448/f-h-219045_32.jpg,oct/o-h-219045_15.jpg	no_amd
+cfp-448x448/f-d-27003277-r.jpg,oct/o-d-27003277-r.jpg	dry_amd
+cfp-448x448/f-w-27003277-l.jpg,oct/o-w-27003277-l.jpg	wet_amd
+cfp-448x448/f-d-28559-l.jpg,oct/o-d-28559-l_001.jpg oct/o-d-28559-l_002.jpg	dry_amd
+cfp-448x448/f-w-28559-r.jpg,oct/o-w-28559-r_000.jpg oct/o-w-28559-r_002.jpg oct/o-w-28559-r_001.jpg	wet_amd
+cfp-448x448/f-d-43895994.jpg,oct/o-d-43895994_001.jpg oct/o-d-43895994_000.jpg	dry_amd
+cfp-448x448/f-p-43983698.jpg,oct/o-p-43983698.jpg	pcv
+cfp-448x448/f-p-44030531.jpg,oct/o-p-44030531_003.jpg oct/o-p-44030531_000.jpg oct/o-p-44030531_002.jpg oct/o-p-44030531_001.jpg	pcv
+cfp-448x448/f-w-44463719.jpg,oct/o-w-44463719.jpg	wet_amd
+cfp-448x448/f-h-97112_32.jpg,oct/o-h-97112_15.jpg	no_amd
+cfp-448x448/f-w-ICG-4126-l.jpg,oct/o-w-ICG-4126-l.jpg	wet_amd
+cfp-448x448/f-p-ICG-4126-r.jpg,oct/o-p-ICG-4126-r.jpg	pcv
+cfp-448x448/f-d-ICG-4671-l.jpg,oct/o-d-ICG-4671-l.jpg	dry_amd
+cfp-448x448/f-p-ICG-4671-r.jpg,oct/o-p-ICG-4671-r.jpg	pcv
+cfp-448x448/f-p-ICG-4699-r.jpg,oct/o-p-ICG-4699-r_001.jpg oct/o-p-ICG-4699-r_002.jpg oct/o-p-ICG-4699-r_000.jpg	pcv
+cfp-448x448/f-p-ICG-4707-r.jpg,oct/o-p-ICG-4707-r_000.jpg oct/o-p-ICG-4707-r_001.jpg oct/o-p-ICG-4707-r_002.jpg	pcv
+cfp-448x448/f-p-ICG-4713-l.jpg,oct/o-p-ICG-4713-l_000.jpg oct/o-p-ICG-4713-l_001.jpg	pcv
+cfp-448x448/f-w-ICG-4722-r.jpg,oct/o-w-ICG-4722-r.jpg	wet_amd
+cfp-448x448/f-p-ICG-4740-l.jpg,oct/o-p-ICG-4740-l_000.jpg oct/o-p-ICG-4740-l_002.jpg oct/o-p-ICG-4740-l_001.jpg	pcv
+cfp-448x448/f-d-ICG-4740-r.jpg,oct/o-d-ICG-4740-r_001.jpg oct/o-d-ICG-4740-r_000.jpg	dry_amd
+cfp-448x448/f-d-ICG-4894-l.jpg,oct/o-d-ICG-4894-l.jpg	dry_amd
+cfp-448x448/f-w-ICG-4894-r.jpg,oct/o-w-ICG-4894-r_000.jpg oct/o-w-ICG-4894-r_001.jpg	wet_amd
+cfp-448x448/f-p-ICG-4895-l.jpg,oct/o-p-ICG-4895-l.jpg	pcv
+cfp-448x448/f-d-ICG-4940-l.jpg,oct/o-d-ICG-4940-l.jpg	dry_amd
+cfp-448x448/f-p-ICG-4940-r.jpg,oct/o-p-ICG-4940-r.jpg	pcv
+cfp-448x448/f-w-ICG-5009-r.jpg,oct/o-w-ICG-5009-r.jpg	wet_amd
+cfp-448x448/f-w-ICG-5067-r.jpg,oct/o-w-ICG-5067-r_000.jpg oct/o-w-ICG-5067-r_002.jpg oct/o-w-ICG-5067-r_001.jpg	wet_amd
+cfp-448x448/f-w-ICG-5072-l.jpg,oct/o-w-ICG-5072-l_002.jpg oct/o-w-ICG-5072-l_001.jpg oct/o-w-ICG-5072-l_000.jpg	wet_amd
+cfp-448x448/f-p-ICG-5096-r.jpg,oct/o-p-ICG-5096-r.jpg	pcv
+cfp-448x448/f-w-ICG-5112-l.jpg,oct/o-w-ICG-5112-l_000.jpg oct/o-w-ICG-5112-l_001.jpg	wet_amd
+cfp-448x448/f-d-ICG-5112-r.jpg,oct/o-d-ICG-5112-r.jpg	dry_amd
+cfp-448x448/f-p-ICG-5139-r.jpg,oct/o-p-ICG-5139-r_000.jpg oct/o-p-ICG-5139-r_001.jpg	pcv
+cfp-448x448/f-w-ICG-5141-l.jpg,oct/o-w-ICG-5141-l_000.jpg oct/o-w-ICG-5141-l_001.jpg	wet_amd
+cfp-448x448/f-d-ICG-5142-r.jpg,oct/o-d-ICG-5142-r_001.jpg oct/o-d-ICG-5142-r_000.jpg	dry_amd
+cfp-448x448/f-p-ICG-5153-l.jpg,oct/o-p-ICG-5153-l_004.jpg oct/o-p-ICG-5153-l_000.jpg oct/o-p-ICG-5153-l_003.jpg oct/o-p-ICG-5153-l_002.jpg oct/o-p-ICG-5153-l_005.jpg oct/o-p-ICG-5153-l_001.jpg	pcv
+cfp-448x448/f-d-ICG-5153-r.jpg,oct/o-d-ICG-5153-r_001.jpg oct/o-d-ICG-5153-r_000.jpg	dry_amd
+cfp-448x448/f-d-ICG-5154-l.jpg,oct/o-d-ICG-5154-l_001.jpg oct/o-d-ICG-5154-l_000.jpg	dry_amd
+cfp-448x448/f-p-ICG-5154-r.jpg,oct/o-p-ICG-5154-r.jpg	pcv
+cfp-448x448/f-d-ICG-5174-l.jpg,oct/o-d-ICG-5174-l.jpg	dry_amd
+cfp-448x448/f-w-ICG-5174-r.jpg,oct/o-w-ICG-5174-r_001.jpg oct/o-w-ICG-5174-r_000.jpg	wet_amd
+cfp-448x448/f-p-ICG-5176-l.jpg,oct/o-p-ICG-5176-l_001.jpg oct/o-p-ICG-5176-l_000.jpg	pcv
+cfp-448x448/f-w-ICG-5233-r.jpg,oct/o-w-ICG-5233-r_000.jpg oct/o-w-ICG-5233-r_001.jpg	wet_amd
+cfp-448x448/f-p-ICG-5335-r.jpg,oct/o-p-ICG-5335-r.jpg	pcv
+cfp-448x448/f-w-ICG-5342-r.jpg,oct/o-w-ICG-5342-r_000.jpg oct/o-w-ICG-5342-r_001.jpg	wet_amd
+cfp-448x448/f-w-ICG-5354-l.jpg,oct/o-w-ICG-5354-l_001.jpg oct/o-w-ICG-5354-l_000.jpg	wet_amd
+cfp-448x448/f-d-ICG-5354-r.jpg,oct/o-d-ICG-5354-r.jpg	dry_amd
+cfp-448x448/f-w-ICG-5428-l.jpg,oct/o-w-ICG-5428-l.jpg	wet_amd
+cfp-448x448/f-d-ICG-5428-r.jpg,oct/o-d-ICG-5428-r.jpg	dry_amd
+cfp-448x448/f-p-ICG-5431.jpg,oct/o-p-ICG-5431_000.jpg oct/o-p-ICG-5431_001.jpg	pcv
+cfp-448x448/f-p-ICG-5525.jpg,oct/o-p-ICG-5525_002.jpg oct/o-p-ICG-5525_001.jpg oct/o-p-ICG-5525_000.jpg	pcv
+cfp-448x448/f-p-ICG-5684.jpg,oct/o-p-ICG-5684_001.jpg oct/o-p-ICG-5684_000.jpg oct/o-p-ICG-5684_002.jpg	pcv
+cfp-448x448/f-d-ICG-5742-r.jpg,oct/o-d-ICG-5742-r_000.jpg oct/o-d-ICG-5742-r_001.jpg	dry_amd
+cfp-448x448/f-w-ICG-5742-l.jpg,oct/o-w-ICG-5742-l_000.jpg oct/o-w-ICG-5742-l_001.jpg	wet_amd
+cfp-448x448/f-d-ICG-5760-r.jpg,oct/o-d-ICG-5760-r_000.jpg oct/o-d-ICG-5760-r_001.jpg	dry_amd
+cfp-448x448/f-p-ICG-5760-l.jpg,oct/o-p-ICG-5760-l_001.jpg oct/o-p-ICG-5760-l_000.jpg	pcv
+cfp-448x448/f-d-ICG-5791-l.jpg,oct/o-d-ICG-5791-l_000.jpg oct/o-d-ICG-5791-l_002.jpg oct/o-d-ICG-5791-l_001.jpg	dry_amd
+cfp-448x448/f-d-ICG-5791-r.jpg,oct/o-d-ICG-5791-r_001.jpg oct/o-d-ICG-5791-r_000.jpg	dry_amd
+cfp-448x448/f-d-ICG-5804.jpg,oct/o-d-ICG-5804_001.jpg oct/o-d-ICG-5804_002.jpg oct/o-d-ICG-5804_000.jpg oct/o-d-ICG-5804_003.jpg	dry_amd
+cfp-448x448/f-d-XH1370539-l.jpg,oct/o-d-XH1370539-l_000.jpg oct/o-d-XH1370539-l_001.jpg oct/o-d-XH1370539-l_002.jpg	dry_amd
+cfp-448x448/f-w-XH1370539-r.jpg,oct/o-w-XH1370539-r_000.jpg oct/o-w-XH1370539-r_001.jpg	wet_amd
+cfp-448x448/f-w-ICG-4875-l.jpg,oct/o-w-ICG-4875-l_000.jpg oct/o-w-ICG-4875-l_001.jpg	wet_amd

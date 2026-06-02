@@ -1,0 +1,120 @@
+valid/axial/1130.npy,valid/coronal/1130.npy,valid/sagittal/1130.npy	
+valid/axial/1131.npy,valid/coronal/1131.npy,valid/sagittal/1131.npy	
+valid/axial/1132.npy,valid/coronal/1132.npy,valid/sagittal/1132.npy	
+valid/axial/1133.npy,valid/coronal/1133.npy,valid/sagittal/1133.npy	
+valid/axial/1134.npy,valid/coronal/1134.npy,valid/sagittal/1134.npy	
+valid/axial/1135.npy,valid/coronal/1135.npy,valid/sagittal/1135.npy	
+valid/axial/1136.npy,valid/coronal/1136.npy,valid/sagittal/1136.npy	
+valid/axial/1137.npy,valid/coronal/1137.npy,valid/sagittal/1137.npy	
+valid/axial/1138.npy,valid/coronal/1138.npy,valid/sagittal/1138.npy	
+valid/axial/1139.npy,valid/coronal/1139.npy,valid/sagittal/1139.npy	
+valid/axial/1140.npy,valid/coronal/1140.npy,valid/sagittal/1140.npy	
+valid/axial/1141.npy,valid/coronal/1141.npy,valid/sagittal/1141.npy	
+valid/axial/1142.npy,valid/coronal/1142.npy,valid/sagittal/1142.npy	
+valid/axial/1143.npy,valid/coronal/1143.npy,valid/sagittal/1143.npy	
+valid/axial/1144.npy,valid/coronal/1144.npy,valid/sagittal/1144.npy	
+valid/axial/1145.npy,valid/coronal/1145.npy,valid/sagittal/1145.npy	
+valid/axial/1146.npy,valid/coronal/1146.npy,valid/sagittal/1146.npy	
+valid/axial/1147.npy,valid/coronal/1147.npy,valid/sagittal/1147.npy	
+valid/axial/1148.npy,valid/coronal/1148.npy,valid/sagittal/1148.npy	
+valid/axial/1149.npy,valid/coronal/1149.npy,valid/sagittal/1149.npy	
+valid/axial/1150.npy,valid/coronal/1150.npy,valid/sagittal/1150.npy	
+valid/axial/1151.npy,valid/coronal/1151.npy,valid/sagittal/1151.npy	
+valid/axial/1152.npy,valid/coronal/1152.npy,valid/sagittal/1152.npy	
+valid/axial/1153.npy,valid/coronal/1153.npy,valid/sagittal/1153.npy	
+valid/axial/1154.npy,valid/coronal/1154.npy,valid/sagittal/1154.npy	abnormal
+valid/axial/1155.npy,valid/coronal/1155.npy,valid/sagittal/1155.npy	abnormal
+valid/axial/1156.npy,valid/coronal/1156.npy,valid/sagittal/1156.npy	abnormal
+valid/axial/1157.npy,valid/coronal/1157.npy,valid/sagittal/1157.npy	abnormal
+valid/axial/1158.npy,valid/coronal/1158.npy,valid/sagittal/1158.npy	abnormal
+valid/axial/1159.npy,valid/coronal/1159.npy,valid/sagittal/1159.npy	abnormal
+valid/axial/1160.npy,valid/coronal/1160.npy,valid/sagittal/1160.npy	abnormal
+valid/axial/1161.npy,valid/coronal/1161.npy,valid/sagittal/1161.npy	abnormal
+valid/axial/1162.npy,valid/coronal/1162.npy,valid/sagittal/1162.npy	abnormal
+valid/axial/1163.npy,valid/coronal/1163.npy,valid/sagittal/1163.npy	abnormal
+valid/axial/1164.npy,valid/coronal/1164.npy,valid/sagittal/1164.npy	abnormal
+valid/axial/1165.npy,valid/coronal/1165.npy,valid/sagittal/1165.npy	abnormal
+valid/axial/1166.npy,valid/coronal/1166.npy,valid/sagittal/1166.npy	abnormal
+valid/axial/1167.npy,valid/coronal/1167.npy,valid/sagittal/1167.npy	abnormal
+valid/axial/1168.npy,valid/coronal/1168.npy,valid/sagittal/1168.npy	abnormal
+valid/axial/1169.npy,valid/coronal/1169.npy,valid/sagittal/1169.npy	abnormal
+valid/axial/1170.npy,valid/coronal/1170.npy,valid/sagittal/1170.npy	abnormal
+valid/axial/1171.npy,valid/coronal/1171.npy,valid/sagittal/1171.npy	abnormal
+valid/axial/1172.npy,valid/coronal/1172.npy,valid/sagittal/1172.npy	abnormal,acl,meniscus
+valid/axial/1173.npy,valid/coronal/1173.npy,valid/sagittal/1173.npy	abnormal,acl,meniscus
+valid/axial/1174.npy,valid/coronal/1174.npy,valid/sagittal/1174.npy	abnormal,acl,meniscus
+valid/axial/1175.npy,valid/coronal/1175.npy,valid/sagittal/1175.npy	abnormal,acl
+valid/axial/1176.npy,valid/coronal/1176.npy,valid/sagittal/1176.npy	abnormal,acl,meniscus
+valid/axial/1177.npy,valid/coronal/1177.npy,valid/sagittal/1177.npy	abnormal,acl
+valid/axial/1178.npy,valid/coronal/1178.npy,valid/sagittal/1178.npy	abnormal,acl
+valid/axial/1179.npy,valid/coronal/1179.npy,valid/sagittal/1179.npy	abnormal,acl
+valid/axial/1180.npy,valid/coronal/1180.npy,valid/sagittal/1180.npy	abnormal
+valid/axial/1181.npy,valid/coronal/1181.npy,valid/sagittal/1181.npy	abnormal,acl
+valid/axial/1182.npy,valid/coronal/1182.npy,valid/sagittal/1182.npy	abnormal,acl
+valid/axial/1183.npy,valid/coronal/1183.npy,valid/sagittal/1183.npy	abnormal,acl
+valid/axial/1184.npy,valid/coronal/1184.npy,valid/sagittal/1184.npy	abnormal,acl,meniscus
+valid/axial/1185.npy,valid/coronal/1185.npy,valid/sagittal/1185.npy	abnormal,acl
+valid/axial/1186.npy,valid/coronal/1186.npy,valid/sagittal/1186.npy	abnormal,acl,meniscus
+valid/axial/1187.npy,valid/coronal/1187.npy,valid/sagittal/1187.npy	abnormal,acl
+valid/axial/1188.npy,valid/coronal/1188.npy,valid/sagittal/1188.npy	abnormal,acl,meniscus
+valid/axial/1189.npy,valid/coronal/1189.npy,valid/sagittal/1189.npy	abnormal
+valid/axial/1190.npy,valid/coronal/1190.npy,valid/sagittal/1190.npy	abnormal,acl
+valid/axial/1191.npy,valid/coronal/1191.npy,valid/sagittal/1191.npy	abnormal,acl,meniscus
+valid/axial/1192.npy,valid/coronal/1192.npy,valid/sagittal/1192.npy	abnormal,acl,meniscus
+valid/axial/1193.npy,valid/coronal/1193.npy,valid/sagittal/1193.npy	abnormal,acl
+valid/axial/1194.npy,valid/coronal/1194.npy,valid/sagittal/1194.npy	abnormal,acl,meniscus
+valid/axial/1195.npy,valid/coronal/1195.npy,valid/sagittal/1195.npy	abnormal,acl,meniscus
+valid/axial/1196.npy,valid/coronal/1196.npy,valid/sagittal/1196.npy	abnormal,acl,meniscus
+valid/axial/1197.npy,valid/coronal/1197.npy,valid/sagittal/1197.npy	abnormal,acl,meniscus
+valid/axial/1198.npy,valid/coronal/1198.npy,valid/sagittal/1198.npy	abnormal,acl
+valid/axial/1199.npy,valid/coronal/1199.npy,valid/sagittal/1199.npy	abnormal,acl,meniscus
+valid/axial/1200.npy,valid/coronal/1200.npy,valid/sagittal/1200.npy	abnormal,acl
+valid/axial/1201.npy,valid/coronal/1201.npy,valid/sagittal/1201.npy	abnormal,acl,meniscus
+valid/axial/1202.npy,valid/coronal/1202.npy,valid/sagittal/1202.npy	abnormal,acl,meniscus
+valid/axial/1203.npy,valid/coronal/1203.npy,valid/sagittal/1203.npy	abnormal,acl,meniscus
+valid/axial/1204.npy,valid/coronal/1204.npy,valid/sagittal/1204.npy	abnormal,acl
+valid/axial/1205.npy,valid/coronal/1205.npy,valid/sagittal/1205.npy	abnormal,acl,meniscus
+valid/axial/1206.npy,valid/coronal/1206.npy,valid/sagittal/1206.npy	abnormal,acl
+valid/axial/1207.npy,valid/coronal/1207.npy,valid/sagittal/1207.npy	abnormal,acl,meniscus
+valid/axial/1208.npy,valid/coronal/1208.npy,valid/sagittal/1208.npy	abnormal,acl
+valid/axial/1209.npy,valid/coronal/1209.npy,valid/sagittal/1209.npy	abnormal,acl
+valid/axial/1210.npy,valid/coronal/1210.npy,valid/sagittal/1210.npy	abnormal,acl
+valid/axial/1211.npy,valid/coronal/1211.npy,valid/sagittal/1211.npy	abnormal,acl,meniscus
+valid/axial/1212.npy,valid/coronal/1212.npy,valid/sagittal/1212.npy	abnormal,acl
+valid/axial/1213.npy,valid/coronal/1213.npy,valid/sagittal/1213.npy	abnormal,acl,meniscus
+valid/axial/1214.npy,valid/coronal/1214.npy,valid/sagittal/1214.npy	abnormal,acl
+valid/axial/1215.npy,valid/coronal/1215.npy,valid/sagittal/1215.npy	abnormal,acl
+valid/axial/1216.npy,valid/coronal/1216.npy,valid/sagittal/1216.npy	abnormal,acl,meniscus
+valid/axial/1217.npy,valid/coronal/1217.npy,valid/sagittal/1217.npy	
+valid/axial/1218.npy,valid/coronal/1218.npy,valid/sagittal/1218.npy	abnormal,acl
+valid/axial/1219.npy,valid/coronal/1219.npy,valid/sagittal/1219.npy	abnormal,acl
+valid/axial/1220.npy,valid/coronal/1220.npy,valid/sagittal/1220.npy	abnormal,acl,meniscus
+valid/axial/1221.npy,valid/coronal/1221.npy,valid/sagittal/1221.npy	abnormal,meniscus
+valid/axial/1222.npy,valid/coronal/1222.npy,valid/sagittal/1222.npy	abnormal,meniscus
+valid/axial/1223.npy,valid/coronal/1223.npy,valid/sagittal/1223.npy	abnormal,meniscus
+valid/axial/1224.npy,valid/coronal/1224.npy,valid/sagittal/1224.npy	abnormal,acl,meniscus
+valid/axial/1225.npy,valid/coronal/1225.npy,valid/sagittal/1225.npy	abnormal,acl,meniscus
+valid/axial/1226.npy,valid/coronal/1226.npy,valid/sagittal/1226.npy	abnormal,meniscus
+valid/axial/1227.npy,valid/coronal/1227.npy,valid/sagittal/1227.npy	abnormal,meniscus
+valid/axial/1228.npy,valid/coronal/1228.npy,valid/sagittal/1228.npy	abnormal,acl,meniscus
+valid/axial/1229.npy,valid/coronal/1229.npy,valid/sagittal/1229.npy	abnormal,acl,meniscus
+valid/axial/1230.npy,valid/coronal/1230.npy,valid/sagittal/1230.npy	abnormal,meniscus
+valid/axial/1231.npy,valid/coronal/1231.npy,valid/sagittal/1231.npy	abnormal,meniscus
+valid/axial/1232.npy,valid/coronal/1232.npy,valid/sagittal/1232.npy	abnormal,meniscus
+valid/axial/1233.npy,valid/coronal/1233.npy,valid/sagittal/1233.npy	abnormal,meniscus
+valid/axial/1234.npy,valid/coronal/1234.npy,valid/sagittal/1234.npy	abnormal,meniscus
+valid/axial/1235.npy,valid/coronal/1235.npy,valid/sagittal/1235.npy	abnormal,meniscus
+valid/axial/1236.npy,valid/coronal/1236.npy,valid/sagittal/1236.npy	abnormal,meniscus
+valid/axial/1237.npy,valid/coronal/1237.npy,valid/sagittal/1237.npy	abnormal,acl,meniscus
+valid/axial/1238.npy,valid/coronal/1238.npy,valid/sagittal/1238.npy	abnormal,meniscus
+valid/axial/1239.npy,valid/coronal/1239.npy,valid/sagittal/1239.npy	abnormal,meniscus
+valid/axial/1240.npy,valid/coronal/1240.npy,valid/sagittal/1240.npy	abnormal,meniscus
+valid/axial/1241.npy,valid/coronal/1241.npy,valid/sagittal/1241.npy	abnormal,meniscus
+valid/axial/1242.npy,valid/coronal/1242.npy,valid/sagittal/1242.npy	abnormal,meniscus
+valid/axial/1243.npy,valid/coronal/1243.npy,valid/sagittal/1243.npy	abnormal,meniscus
+valid/axial/1244.npy,valid/coronal/1244.npy,valid/sagittal/1244.npy	abnormal,meniscus
+valid/axial/1245.npy,valid/coronal/1245.npy,valid/sagittal/1245.npy	abnormal,acl,meniscus
+valid/axial/1246.npy,valid/coronal/1246.npy,valid/sagittal/1246.npy	abnormal,acl,meniscus
+valid/axial/1247.npy,valid/coronal/1247.npy,valid/sagittal/1247.npy	abnormal,meniscus
+valid/axial/1248.npy,valid/coronal/1248.npy,valid/sagittal/1248.npy	abnormal,acl,meniscus
+valid/axial/1249.npy,valid/coronal/1249.npy,valid/sagittal/1249.npy	abnormal,meniscus

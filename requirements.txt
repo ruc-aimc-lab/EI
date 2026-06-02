@@ -1,0 +1,7 @@
+torch
+timm
+numpy
+tqdm
+scikit-learn
+opencv-python
+accelerate

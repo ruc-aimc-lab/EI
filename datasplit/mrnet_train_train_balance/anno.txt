@@ -1,0 +1,1899 @@
+train/axial/0001.npy,train/coronal/0001.npy,train/sagittal/0001.npy	abnormal,acl,meniscus
+train/axial/0018.npy,train/coronal/0018.npy,train/sagittal/0018.npy	abnormal,acl,meniscus
+train/axial/0037.npy,train/coronal/0037.npy,train/sagittal/0037.npy	abnormal,acl,meniscus
+train/axial/0059.npy,train/coronal/0059.npy,train/sagittal/0059.npy	abnormal,acl,meniscus
+train/axial/0072.npy,train/coronal/0072.npy,train/sagittal/0072.npy	abnormal,acl,meniscus
+train/axial/0080.npy,train/coronal/0080.npy,train/sagittal/0080.npy	abnormal,acl,meniscus
+train/axial/0105.npy,train/coronal/0105.npy,train/sagittal/0105.npy	abnormal,acl,meniscus
+train/axial/0109.npy,train/coronal/0109.npy,train/sagittal/0109.npy	abnormal,acl,meniscus
+train/axial/0113.npy,train/coronal/0113.npy,train/sagittal/0113.npy	abnormal,acl,meniscus
+train/axial/0126.npy,train/coronal/0126.npy,train/sagittal/0126.npy	abnormal,acl,meniscus
+train/axial/0138.npy,train/coronal/0138.npy,train/sagittal/0138.npy	abnormal,acl,meniscus
+train/axial/0140.npy,train/coronal/0140.npy,train/sagittal/0140.npy	abnormal,acl,meniscus
+train/axial/0150.npy,train/coronal/0150.npy,train/sagittal/0150.npy	abnormal,acl,meniscus
+train/axial/0168.npy,train/coronal/0168.npy,train/sagittal/0168.npy	abnormal,acl,meniscus
+train/axial/0174.npy,train/coronal/0174.npy,train/sagittal/0174.npy	abnormal,acl,meniscus
+train/axial/0176.npy,train/coronal/0176.npy,train/sagittal/0176.npy	abnormal,acl,meniscus
+train/axial/0178.npy,train/coronal/0178.npy,train/sagittal/0178.npy	abnormal,acl,meniscus
+train/axial/0179.npy,train/coronal/0179.npy,train/sagittal/0179.npy	abnormal,acl,meniscus
+train/axial/0188.npy,train/coronal/0188.npy,train/sagittal/0188.npy	abnormal,acl,meniscus
+train/axial/0191.npy,train/coronal/0191.npy,train/sagittal/0191.npy	abnormal,acl,meniscus
+train/axial/0198.npy,train/coronal/0198.npy,train/sagittal/0198.npy	abnormal,acl,meniscus
+train/axial/0208.npy,train/coronal/0208.npy,train/sagittal/0208.npy	abnormal,acl,meniscus
+train/axial/0248.npy,train/coronal/0248.npy,train/sagittal/0248.npy	abnormal,acl,meniscus
+train/axial/0253.npy,train/coronal/0253.npy,train/sagittal/0253.npy	abnormal,acl,meniscus
+train/axial/0259.npy,train/coronal/0259.npy,train/sagittal/0259.npy	abnormal,acl,meniscus
+train/axial/0265.npy,train/coronal/0265.npy,train/sagittal/0265.npy	abnormal,acl,meniscus
+train/axial/0270.npy,train/coronal/0270.npy,train/sagittal/0270.npy	abnormal,acl,meniscus
+train/axial/0285.npy,train/coronal/0285.npy,train/sagittal/0285.npy	abnormal,acl,meniscus
+train/axial/0298.npy,train/coronal/0298.npy,train/sagittal/0298.npy	abnormal,acl,meniscus
+train/axial/0302.npy,train/coronal/0302.npy,train/sagittal/0302.npy	abnormal,acl,meniscus
+train/axial/0303.npy,train/coronal/0303.npy,train/sagittal/0303.npy	abnormal,acl,meniscus
+train/axial/0305.npy,train/coronal/0305.npy,train/sagittal/0305.npy	abnormal,acl,meniscus
+train/axial/0311.npy,train/coronal/0311.npy,train/sagittal/0311.npy	abnormal,acl,meniscus
+train/axial/0312.npy,train/coronal/0312.npy,train/sagittal/0312.npy	abnormal,acl,meniscus
+train/axial/0313.npy,train/coronal/0313.npy,train/sagittal/0313.npy	abnormal,acl,meniscus
+train/axial/0314.npy,train/coronal/0314.npy,train/sagittal/0314.npy	abnormal,acl,meniscus
+train/axial/0315.npy,train/coronal/0315.npy,train/sagittal/0315.npy	abnormal,acl,meniscus
+train/axial/0316.npy,train/coronal/0316.npy,train/sagittal/0316.npy	abnormal,acl,meniscus
+train/axial/0318.npy,train/coronal/0318.npy,train/sagittal/0318.npy	abnormal,acl,meniscus
+train/axial/0319.npy,train/coronal/0319.npy,train/sagittal/0319.npy	abnormal,acl,meniscus
+train/axial/0320.npy,train/coronal/0320.npy,train/sagittal/0320.npy	abnormal,acl,meniscus
+train/axial/0321.npy,train/coronal/0321.npy,train/sagittal/0321.npy	abnormal,acl,meniscus
+train/axial/0323.npy,train/coronal/0323.npy,train/sagittal/0323.npy	abnormal,acl,meniscus
+train/axial/0324.npy,train/coronal/0324.npy,train/sagittal/0324.npy	abnormal,acl,meniscus
+train/axial/0325.npy,train/coronal/0325.npy,train/sagittal/0325.npy	abnormal,acl,meniscus
+train/axial/0328.npy,train/coronal/0328.npy,train/sagittal/0328.npy	abnormal,acl,meniscus
+train/axial/0329.npy,train/coronal/0329.npy,train/sagittal/0329.npy	abnormal,acl,meniscus
+train/axial/0331.npy,train/coronal/0331.npy,train/sagittal/0331.npy	abnormal,acl,meniscus
+train/axial/0355.npy,train/coronal/0355.npy,train/sagittal/0355.npy	abnormal,acl,meniscus
+train/axial/0374.npy,train/coronal/0374.npy,train/sagittal/0374.npy	abnormal,acl,meniscus
+train/axial/0380.npy,train/coronal/0380.npy,train/sagittal/0380.npy	abnormal,acl,meniscus
+train/axial/0392.npy,train/coronal/0392.npy,train/sagittal/0392.npy	abnormal,acl,meniscus
+train/axial/0421.npy,train/coronal/0421.npy,train/sagittal/0421.npy	abnormal,acl,meniscus
+train/axial/0447.npy,train/coronal/0447.npy,train/sagittal/0447.npy	abnormal,acl,meniscus
+train/axial/0456.npy,train/coronal/0456.npy,train/sagittal/0456.npy	abnormal,acl,meniscus
+train/axial/0458.npy,train/coronal/0458.npy,train/sagittal/0458.npy	abnormal,acl,meniscus
+train/axial/0469.npy,train/coronal/0469.npy,train/sagittal/0469.npy	abnormal,acl,meniscus
+train/axial/0488.npy,train/coronal/0488.npy,train/sagittal/0488.npy	abnormal,acl,meniscus
+train/axial/0494.npy,train/coronal/0494.npy,train/sagittal/0494.npy	abnormal,acl,meniscus
+train/axial/0501.npy,train/coronal/0501.npy,train/sagittal/0501.npy	abnormal,acl,meniscus
+train/axial/0506.npy,train/coronal/0506.npy,train/sagittal/0506.npy	abnormal,acl,meniscus
+train/axial/0517.npy,train/coronal/0517.npy,train/sagittal/0517.npy	abnormal,acl,meniscus
+train/axial/0522.npy,train/coronal/0522.npy,train/sagittal/0522.npy	abnormal,acl,meniscus
+train/axial/0528.npy,train/coronal/0528.npy,train/sagittal/0528.npy	abnormal,acl,meniscus
+train/axial/0551.npy,train/coronal/0551.npy,train/sagittal/0551.npy	abnormal,acl,meniscus
+train/axial/0557.npy,train/coronal/0557.npy,train/sagittal/0557.npy	abnormal,acl,meniscus
+train/axial/0607.npy,train/coronal/0607.npy,train/sagittal/0607.npy	abnormal,acl,meniscus
+train/axial/0619.npy,train/coronal/0619.npy,train/sagittal/0619.npy	abnormal,acl,meniscus
+train/axial/0620.npy,train/coronal/0620.npy,train/sagittal/0620.npy	abnormal,acl,meniscus
+train/axial/0624.npy,train/coronal/0624.npy,train/sagittal/0624.npy	abnormal,acl,meniscus
+train/axial/0631.npy,train/coronal/0631.npy,train/sagittal/0631.npy	abnormal,acl,meniscus
+train/axial/0645.npy,train/coronal/0645.npy,train/sagittal/0645.npy	abnormal,acl,meniscus
+train/axial/0660.npy,train/coronal/0660.npy,train/sagittal/0660.npy	abnormal,acl,meniscus
+train/axial/0688.npy,train/coronal/0688.npy,train/sagittal/0688.npy	abnormal,acl,meniscus
+train/axial/0692.npy,train/coronal/0692.npy,train/sagittal/0692.npy	abnormal,acl,meniscus
+train/axial/0701.npy,train/coronal/0701.npy,train/sagittal/0701.npy	abnormal,acl,meniscus
+train/axial/0721.npy,train/coronal/0721.npy,train/sagittal/0721.npy	abnormal,acl,meniscus
+train/axial/0724.npy,train/coronal/0724.npy,train/sagittal/0724.npy	abnormal,acl,meniscus
+train/axial/0740.npy,train/coronal/0740.npy,train/sagittal/0740.npy	abnormal,acl,meniscus
+train/axial/0752.npy,train/coronal/0752.npy,train/sagittal/0752.npy	abnormal,acl,meniscus
+train/axial/0761.npy,train/coronal/0761.npy,train/sagittal/0761.npy	abnormal,acl,meniscus
+train/axial/0773.npy,train/coronal/0773.npy,train/sagittal/0773.npy	abnormal,acl,meniscus
+train/axial/0776.npy,train/coronal/0776.npy,train/sagittal/0776.npy	abnormal,acl,meniscus
+train/axial/0778.npy,train/coronal/0778.npy,train/sagittal/0778.npy	abnormal,acl,meniscus
+train/axial/0793.npy,train/coronal/0793.npy,train/sagittal/0793.npy	abnormal,acl,meniscus
+train/axial/0810.npy,train/coronal/0810.npy,train/sagittal/0810.npy	abnormal,acl,meniscus
+train/axial/0812.npy,train/coronal/0812.npy,train/sagittal/0812.npy	abnormal,acl,meniscus
+train/axial/0842.npy,train/coronal/0842.npy,train/sagittal/0842.npy	abnormal,acl,meniscus
+train/axial/0846.npy,train/coronal/0846.npy,train/sagittal/0846.npy	abnormal,acl,meniscus
+train/axial/0870.npy,train/coronal/0870.npy,train/sagittal/0870.npy	abnormal,acl,meniscus
+train/axial/0871.npy,train/coronal/0871.npy,train/sagittal/0871.npy	abnormal,acl,meniscus
+train/axial/0881.npy,train/coronal/0881.npy,train/sagittal/0881.npy	abnormal,acl,meniscus
+train/axial/0892.npy,train/coronal/0892.npy,train/sagittal/0892.npy	abnormal,acl,meniscus
+train/axial/0913.npy,train/coronal/0913.npy,train/sagittal/0913.npy	abnormal,acl,meniscus
+train/axial/0920.npy,train/coronal/0920.npy,train/sagittal/0920.npy	abnormal,acl,meniscus
+train/axial/0922.npy,train/coronal/0922.npy,train/sagittal/0922.npy	abnormal,acl,meniscus
+train/axial/0927.npy,train/coronal/0927.npy,train/sagittal/0927.npy	abnormal,acl,meniscus
+train/axial/0932.npy,train/coronal/0932.npy,train/sagittal/0932.npy	abnormal,acl,meniscus
+train/axial/0945.npy,train/coronal/0945.npy,train/sagittal/0945.npy	abnormal,acl,meniscus
+train/axial/0964.npy,train/coronal/0964.npy,train/sagittal/0964.npy	abnormal,acl,meniscus
+train/axial/0969.npy,train/coronal/0969.npy,train/sagittal/0969.npy	abnormal,acl,meniscus
+train/axial/0970.npy,train/coronal/0970.npy,train/sagittal/0970.npy	abnormal,acl,meniscus
+train/axial/0977.npy,train/coronal/0977.npy,train/sagittal/0977.npy	abnormal,acl,meniscus
+train/axial/0978.npy,train/coronal/0978.npy,train/sagittal/0978.npy	abnormal,acl,meniscus
+train/axial/0999.npy,train/coronal/0999.npy,train/sagittal/0999.npy	abnormal,acl,meniscus
+train/axial/1001.npy,train/coronal/1001.npy,train/sagittal/1001.npy	abnormal,acl,meniscus
+train/axial/1002.npy,train/coronal/1002.npy,train/sagittal/1002.npy	abnormal,acl,meniscus
+train/axial/1041.npy,train/coronal/1041.npy,train/sagittal/1041.npy	abnormal,acl,meniscus
+train/axial/1059.npy,train/coronal/1059.npy,train/sagittal/1059.npy	abnormal,acl,meniscus
+train/axial/1061.npy,train/coronal/1061.npy,train/sagittal/1061.npy	abnormal,acl,meniscus
+train/axial/1062.npy,train/coronal/1062.npy,train/sagittal/1062.npy	abnormal,acl,meniscus
+train/axial/1078.npy,train/coronal/1078.npy,train/sagittal/1078.npy	abnormal,acl,meniscus
+train/axial/1088.npy,train/coronal/1088.npy,train/sagittal/1088.npy	abnormal,acl,meniscus
+train/axial/1096.npy,train/coronal/1096.npy,train/sagittal/1096.npy	abnormal,acl,meniscus
+train/axial/1101.npy,train/coronal/1101.npy,train/sagittal/1101.npy	abnormal,acl,meniscus
+train/axial/1107.npy,train/coronal/1107.npy,train/sagittal/1107.npy	abnormal,acl,meniscus
+train/axial/1117.npy,train/coronal/1117.npy,train/sagittal/1117.npy	abnormal,acl,meniscus
+train/axial/0001.npy,train/coronal/0001.npy,train/sagittal/0001.npy	abnormal,acl,meniscus
+train/axial/0018.npy,train/coronal/0018.npy,train/sagittal/0018.npy	abnormal,acl,meniscus
+train/axial/0037.npy,train/coronal/0037.npy,train/sagittal/0037.npy	abnormal,acl,meniscus
+train/axial/0059.npy,train/coronal/0059.npy,train/sagittal/0059.npy	abnormal,acl,meniscus
+train/axial/0072.npy,train/coronal/0072.npy,train/sagittal/0072.npy	abnormal,acl,meniscus
+train/axial/0080.npy,train/coronal/0080.npy,train/sagittal/0080.npy	abnormal,acl,meniscus
+train/axial/0105.npy,train/coronal/0105.npy,train/sagittal/0105.npy	abnormal,acl,meniscus
+train/axial/0109.npy,train/coronal/0109.npy,train/sagittal/0109.npy	abnormal,acl,meniscus
+train/axial/0113.npy,train/coronal/0113.npy,train/sagittal/0113.npy	abnormal,acl,meniscus
+train/axial/0126.npy,train/coronal/0126.npy,train/sagittal/0126.npy	abnormal,acl,meniscus
+train/axial/0138.npy,train/coronal/0138.npy,train/sagittal/0138.npy	abnormal,acl,meniscus
+train/axial/0140.npy,train/coronal/0140.npy,train/sagittal/0140.npy	abnormal,acl,meniscus
+train/axial/0150.npy,train/coronal/0150.npy,train/sagittal/0150.npy	abnormal,acl,meniscus
+train/axial/0168.npy,train/coronal/0168.npy,train/sagittal/0168.npy	abnormal,acl,meniscus
+train/axial/0174.npy,train/coronal/0174.npy,train/sagittal/0174.npy	abnormal,acl,meniscus
+train/axial/0176.npy,train/coronal/0176.npy,train/sagittal/0176.npy	abnormal,acl,meniscus
+train/axial/0178.npy,train/coronal/0178.npy,train/sagittal/0178.npy	abnormal,acl,meniscus
+train/axial/0179.npy,train/coronal/0179.npy,train/sagittal/0179.npy	abnormal,acl,meniscus
+train/axial/0188.npy,train/coronal/0188.npy,train/sagittal/0188.npy	abnormal,acl,meniscus
+train/axial/0191.npy,train/coronal/0191.npy,train/sagittal/0191.npy	abnormal,acl,meniscus
+train/axial/0198.npy,train/coronal/0198.npy,train/sagittal/0198.npy	abnormal,acl,meniscus
+train/axial/0208.npy,train/coronal/0208.npy,train/sagittal/0208.npy	abnormal,acl,meniscus
+train/axial/0248.npy,train/coronal/0248.npy,train/sagittal/0248.npy	abnormal,acl,meniscus
+train/axial/0253.npy,train/coronal/0253.npy,train/sagittal/0253.npy	abnormal,acl,meniscus
+train/axial/0259.npy,train/coronal/0259.npy,train/sagittal/0259.npy	abnormal,acl,meniscus
+train/axial/0265.npy,train/coronal/0265.npy,train/sagittal/0265.npy	abnormal,acl,meniscus
+train/axial/0270.npy,train/coronal/0270.npy,train/sagittal/0270.npy	abnormal,acl,meniscus
+train/axial/0285.npy,train/coronal/0285.npy,train/sagittal/0285.npy	abnormal,acl,meniscus
+train/axial/0298.npy,train/coronal/0298.npy,train/sagittal/0298.npy	abnormal,acl,meniscus
+train/axial/0302.npy,train/coronal/0302.npy,train/sagittal/0302.npy	abnormal,acl,meniscus
+train/axial/0303.npy,train/coronal/0303.npy,train/sagittal/0303.npy	abnormal,acl,meniscus
+train/axial/0305.npy,train/coronal/0305.npy,train/sagittal/0305.npy	abnormal,acl,meniscus
+train/axial/0311.npy,train/coronal/0311.npy,train/sagittal/0311.npy	abnormal,acl,meniscus
+train/axial/0312.npy,train/coronal/0312.npy,train/sagittal/0312.npy	abnormal,acl,meniscus
+train/axial/0313.npy,train/coronal/0313.npy,train/sagittal/0313.npy	abnormal,acl,meniscus
+train/axial/0314.npy,train/coronal/0314.npy,train/sagittal/0314.npy	abnormal,acl,meniscus
+train/axial/0315.npy,train/coronal/0315.npy,train/sagittal/0315.npy	abnormal,acl,meniscus
+train/axial/0316.npy,train/coronal/0316.npy,train/sagittal/0316.npy	abnormal,acl,meniscus
+train/axial/0318.npy,train/coronal/0318.npy,train/sagittal/0318.npy	abnormal,acl,meniscus
+train/axial/0319.npy,train/coronal/0319.npy,train/sagittal/0319.npy	abnormal,acl,meniscus
+train/axial/0320.npy,train/coronal/0320.npy,train/sagittal/0320.npy	abnormal,acl,meniscus
+train/axial/0321.npy,train/coronal/0321.npy,train/sagittal/0321.npy	abnormal,acl,meniscus
+train/axial/0323.npy,train/coronal/0323.npy,train/sagittal/0323.npy	abnormal,acl,meniscus
+train/axial/0324.npy,train/coronal/0324.npy,train/sagittal/0324.npy	abnormal,acl,meniscus
+train/axial/0325.npy,train/coronal/0325.npy,train/sagittal/0325.npy	abnormal,acl,meniscus
+train/axial/0328.npy,train/coronal/0328.npy,train/sagittal/0328.npy	abnormal,acl,meniscus
+train/axial/0329.npy,train/coronal/0329.npy,train/sagittal/0329.npy	abnormal,acl,meniscus
+train/axial/0331.npy,train/coronal/0331.npy,train/sagittal/0331.npy	abnormal,acl,meniscus
+train/axial/0355.npy,train/coronal/0355.npy,train/sagittal/0355.npy	abnormal,acl,meniscus
+train/axial/0374.npy,train/coronal/0374.npy,train/sagittal/0374.npy	abnormal,acl,meniscus
+train/axial/0380.npy,train/coronal/0380.npy,train/sagittal/0380.npy	abnormal,acl,meniscus
+train/axial/0392.npy,train/coronal/0392.npy,train/sagittal/0392.npy	abnormal,acl,meniscus
+train/axial/0421.npy,train/coronal/0421.npy,train/sagittal/0421.npy	abnormal,acl,meniscus
+train/axial/0447.npy,train/coronal/0447.npy,train/sagittal/0447.npy	abnormal,acl,meniscus
+train/axial/0456.npy,train/coronal/0456.npy,train/sagittal/0456.npy	abnormal,acl,meniscus
+train/axial/0458.npy,train/coronal/0458.npy,train/sagittal/0458.npy	abnormal,acl,meniscus
+train/axial/0469.npy,train/coronal/0469.npy,train/sagittal/0469.npy	abnormal,acl,meniscus
+train/axial/0488.npy,train/coronal/0488.npy,train/sagittal/0488.npy	abnormal,acl,meniscus
+train/axial/0494.npy,train/coronal/0494.npy,train/sagittal/0494.npy	abnormal,acl,meniscus
+train/axial/0501.npy,train/coronal/0501.npy,train/sagittal/0501.npy	abnormal,acl,meniscus
+train/axial/0506.npy,train/coronal/0506.npy,train/sagittal/0506.npy	abnormal,acl,meniscus
+train/axial/0517.npy,train/coronal/0517.npy,train/sagittal/0517.npy	abnormal,acl,meniscus
+train/axial/0522.npy,train/coronal/0522.npy,train/sagittal/0522.npy	abnormal,acl,meniscus
+train/axial/0528.npy,train/coronal/0528.npy,train/sagittal/0528.npy	abnormal,acl,meniscus
+train/axial/0551.npy,train/coronal/0551.npy,train/sagittal/0551.npy	abnormal,acl,meniscus
+train/axial/0557.npy,train/coronal/0557.npy,train/sagittal/0557.npy	abnormal,acl,meniscus
+train/axial/0607.npy,train/coronal/0607.npy,train/sagittal/0607.npy	abnormal,acl,meniscus
+train/axial/0619.npy,train/coronal/0619.npy,train/sagittal/0619.npy	abnormal,acl,meniscus
+train/axial/0620.npy,train/coronal/0620.npy,train/sagittal/0620.npy	abnormal,acl,meniscus
+train/axial/0624.npy,train/coronal/0624.npy,train/sagittal/0624.npy	abnormal,acl,meniscus
+train/axial/0631.npy,train/coronal/0631.npy,train/sagittal/0631.npy	abnormal,acl,meniscus
+train/axial/0645.npy,train/coronal/0645.npy,train/sagittal/0645.npy	abnormal,acl,meniscus
+train/axial/0660.npy,train/coronal/0660.npy,train/sagittal/0660.npy	abnormal,acl,meniscus
+train/axial/0688.npy,train/coronal/0688.npy,train/sagittal/0688.npy	abnormal,acl,meniscus
+train/axial/0692.npy,train/coronal/0692.npy,train/sagittal/0692.npy	abnormal,acl,meniscus
+train/axial/0701.npy,train/coronal/0701.npy,train/sagittal/0701.npy	abnormal,acl,meniscus
+train/axial/0721.npy,train/coronal/0721.npy,train/sagittal/0721.npy	abnormal,acl,meniscus
+train/axial/0724.npy,train/coronal/0724.npy,train/sagittal/0724.npy	abnormal,acl,meniscus
+train/axial/0740.npy,train/coronal/0740.npy,train/sagittal/0740.npy	abnormal,acl,meniscus
+train/axial/0752.npy,train/coronal/0752.npy,train/sagittal/0752.npy	abnormal,acl,meniscus
+train/axial/0761.npy,train/coronal/0761.npy,train/sagittal/0761.npy	abnormal,acl,meniscus
+train/axial/0773.npy,train/coronal/0773.npy,train/sagittal/0773.npy	abnormal,acl,meniscus
+train/axial/0776.npy,train/coronal/0776.npy,train/sagittal/0776.npy	abnormal,acl,meniscus
+train/axial/0778.npy,train/coronal/0778.npy,train/sagittal/0778.npy	abnormal,acl,meniscus
+train/axial/0793.npy,train/coronal/0793.npy,train/sagittal/0793.npy	abnormal,acl,meniscus
+train/axial/0810.npy,train/coronal/0810.npy,train/sagittal/0810.npy	abnormal,acl,meniscus
+train/axial/0812.npy,train/coronal/0812.npy,train/sagittal/0812.npy	abnormal,acl,meniscus
+train/axial/0842.npy,train/coronal/0842.npy,train/sagittal/0842.npy	abnormal,acl,meniscus
+train/axial/0846.npy,train/coronal/0846.npy,train/sagittal/0846.npy	abnormal,acl,meniscus
+train/axial/0870.npy,train/coronal/0870.npy,train/sagittal/0870.npy	abnormal,acl,meniscus
+train/axial/0871.npy,train/coronal/0871.npy,train/sagittal/0871.npy	abnormal,acl,meniscus
+train/axial/0881.npy,train/coronal/0881.npy,train/sagittal/0881.npy	abnormal,acl,meniscus
+train/axial/0892.npy,train/coronal/0892.npy,train/sagittal/0892.npy	abnormal,acl,meniscus
+train/axial/0913.npy,train/coronal/0913.npy,train/sagittal/0913.npy	abnormal,acl,meniscus
+train/axial/0920.npy,train/coronal/0920.npy,train/sagittal/0920.npy	abnormal,acl,meniscus
+train/axial/0922.npy,train/coronal/0922.npy,train/sagittal/0922.npy	abnormal,acl,meniscus
+train/axial/0927.npy,train/coronal/0927.npy,train/sagittal/0927.npy	abnormal,acl,meniscus
+train/axial/0932.npy,train/coronal/0932.npy,train/sagittal/0932.npy	abnormal,acl,meniscus
+train/axial/0945.npy,train/coronal/0945.npy,train/sagittal/0945.npy	abnormal,acl,meniscus
+train/axial/0964.npy,train/coronal/0964.npy,train/sagittal/0964.npy	abnormal,acl,meniscus
+train/axial/0969.npy,train/coronal/0969.npy,train/sagittal/0969.npy	abnormal,acl,meniscus
+train/axial/0970.npy,train/coronal/0970.npy,train/sagittal/0970.npy	abnormal,acl,meniscus
+train/axial/0977.npy,train/coronal/0977.npy,train/sagittal/0977.npy	abnormal,acl,meniscus
+train/axial/0978.npy,train/coronal/0978.npy,train/sagittal/0978.npy	abnormal,acl,meniscus
+train/axial/0999.npy,train/coronal/0999.npy,train/sagittal/0999.npy	abnormal,acl,meniscus
+train/axial/1001.npy,train/coronal/1001.npy,train/sagittal/1001.npy	abnormal,acl,meniscus
+train/axial/1002.npy,train/coronal/1002.npy,train/sagittal/1002.npy	abnormal,acl,meniscus
+train/axial/1041.npy,train/coronal/1041.npy,train/sagittal/1041.npy	abnormal,acl,meniscus
+train/axial/1059.npy,train/coronal/1059.npy,train/sagittal/1059.npy	abnormal,acl,meniscus
+train/axial/1061.npy,train/coronal/1061.npy,train/sagittal/1061.npy	abnormal,acl,meniscus
+train/axial/1062.npy,train/coronal/1062.npy,train/sagittal/1062.npy	abnormal,acl,meniscus
+train/axial/1078.npy,train/coronal/1078.npy,train/sagittal/1078.npy	abnormal,acl,meniscus
+train/axial/1088.npy,train/coronal/1088.npy,train/sagittal/1088.npy	abnormal,acl,meniscus
+train/axial/1096.npy,train/coronal/1096.npy,train/sagittal/1096.npy	abnormal,acl,meniscus
+train/axial/1101.npy,train/coronal/1101.npy,train/sagittal/1101.npy	abnormal,acl,meniscus
+train/axial/1107.npy,train/coronal/1107.npy,train/sagittal/1107.npy	abnormal,acl,meniscus
+train/axial/1117.npy,train/coronal/1117.npy,train/sagittal/1117.npy	abnormal,acl,meniscus
+train/axial/0001.npy,train/coronal/0001.npy,train/sagittal/0001.npy	abnormal,acl,meniscus
+train/axial/0018.npy,train/coronal/0018.npy,train/sagittal/0018.npy	abnormal,acl,meniscus
+train/axial/0037.npy,train/coronal/0037.npy,train/sagittal/0037.npy	abnormal,acl,meniscus
+train/axial/0059.npy,train/coronal/0059.npy,train/sagittal/0059.npy	abnormal,acl,meniscus
+train/axial/0072.npy,train/coronal/0072.npy,train/sagittal/0072.npy	abnormal,acl,meniscus
+train/axial/0080.npy,train/coronal/0080.npy,train/sagittal/0080.npy	abnormal,acl,meniscus
+train/axial/0105.npy,train/coronal/0105.npy,train/sagittal/0105.npy	abnormal,acl,meniscus
+train/axial/0109.npy,train/coronal/0109.npy,train/sagittal/0109.npy	abnormal,acl,meniscus
+train/axial/0113.npy,train/coronal/0113.npy,train/sagittal/0113.npy	abnormal,acl,meniscus
+train/axial/0126.npy,train/coronal/0126.npy,train/sagittal/0126.npy	abnormal,acl,meniscus
+train/axial/0138.npy,train/coronal/0138.npy,train/sagittal/0138.npy	abnormal,acl,meniscus
+train/axial/0140.npy,train/coronal/0140.npy,train/sagittal/0140.npy	abnormal,acl,meniscus
+train/axial/0150.npy,train/coronal/0150.npy,train/sagittal/0150.npy	abnormal,acl,meniscus
+train/axial/0168.npy,train/coronal/0168.npy,train/sagittal/0168.npy	abnormal,acl,meniscus
+train/axial/0174.npy,train/coronal/0174.npy,train/sagittal/0174.npy	abnormal,acl,meniscus
+train/axial/0176.npy,train/coronal/0176.npy,train/sagittal/0176.npy	abnormal,acl,meniscus
+train/axial/0178.npy,train/coronal/0178.npy,train/sagittal/0178.npy	abnormal,acl,meniscus
+train/axial/0179.npy,train/coronal/0179.npy,train/sagittal/0179.npy	abnormal,acl,meniscus
+train/axial/0188.npy,train/coronal/0188.npy,train/sagittal/0188.npy	abnormal,acl,meniscus
+train/axial/0191.npy,train/coronal/0191.npy,train/sagittal/0191.npy	abnormal,acl,meniscus
+train/axial/0198.npy,train/coronal/0198.npy,train/sagittal/0198.npy	abnormal,acl,meniscus
+train/axial/0208.npy,train/coronal/0208.npy,train/sagittal/0208.npy	abnormal,acl,meniscus
+train/axial/0248.npy,train/coronal/0248.npy,train/sagittal/0248.npy	abnormal,acl,meniscus
+train/axial/0253.npy,train/coronal/0253.npy,train/sagittal/0253.npy	abnormal,acl,meniscus
+train/axial/0259.npy,train/coronal/0259.npy,train/sagittal/0259.npy	abnormal,acl,meniscus
+train/axial/0265.npy,train/coronal/0265.npy,train/sagittal/0265.npy	abnormal,acl,meniscus
+train/axial/0270.npy,train/coronal/0270.npy,train/sagittal/0270.npy	abnormal,acl,meniscus
+train/axial/0285.npy,train/coronal/0285.npy,train/sagittal/0285.npy	abnormal,acl,meniscus
+train/axial/0298.npy,train/coronal/0298.npy,train/sagittal/0298.npy	abnormal,acl,meniscus
+train/axial/0302.npy,train/coronal/0302.npy,train/sagittal/0302.npy	abnormal,acl,meniscus
+train/axial/0303.npy,train/coronal/0303.npy,train/sagittal/0303.npy	abnormal,acl,meniscus
+train/axial/0305.npy,train/coronal/0305.npy,train/sagittal/0305.npy	abnormal,acl,meniscus
+train/axial/0311.npy,train/coronal/0311.npy,train/sagittal/0311.npy	abnormal,acl,meniscus
+train/axial/0312.npy,train/coronal/0312.npy,train/sagittal/0312.npy	abnormal,acl,meniscus
+train/axial/0313.npy,train/coronal/0313.npy,train/sagittal/0313.npy	abnormal,acl,meniscus
+train/axial/0314.npy,train/coronal/0314.npy,train/sagittal/0314.npy	abnormal,acl,meniscus
+train/axial/0315.npy,train/coronal/0315.npy,train/sagittal/0315.npy	abnormal,acl,meniscus
+train/axial/0316.npy,train/coronal/0316.npy,train/sagittal/0316.npy	abnormal,acl,meniscus
+train/axial/0318.npy,train/coronal/0318.npy,train/sagittal/0318.npy	abnormal,acl,meniscus
+train/axial/0319.npy,train/coronal/0319.npy,train/sagittal/0319.npy	abnormal,acl,meniscus
+train/axial/0320.npy,train/coronal/0320.npy,train/sagittal/0320.npy	abnormal,acl,meniscus
+train/axial/0321.npy,train/coronal/0321.npy,train/sagittal/0321.npy	abnormal,acl,meniscus
+train/axial/0323.npy,train/coronal/0323.npy,train/sagittal/0323.npy	abnormal,acl,meniscus
+train/axial/0324.npy,train/coronal/0324.npy,train/sagittal/0324.npy	abnormal,acl,meniscus
+train/axial/0325.npy,train/coronal/0325.npy,train/sagittal/0325.npy	abnormal,acl,meniscus
+train/axial/0328.npy,train/coronal/0328.npy,train/sagittal/0328.npy	abnormal,acl,meniscus
+train/axial/0329.npy,train/coronal/0329.npy,train/sagittal/0329.npy	abnormal,acl,meniscus
+train/axial/0331.npy,train/coronal/0331.npy,train/sagittal/0331.npy	abnormal,acl,meniscus
+train/axial/0355.npy,train/coronal/0355.npy,train/sagittal/0355.npy	abnormal,acl,meniscus
+train/axial/0374.npy,train/coronal/0374.npy,train/sagittal/0374.npy	abnormal,acl,meniscus
+train/axial/0380.npy,train/coronal/0380.npy,train/sagittal/0380.npy	abnormal,acl,meniscus
+train/axial/0392.npy,train/coronal/0392.npy,train/sagittal/0392.npy	abnormal,acl,meniscus
+train/axial/0421.npy,train/coronal/0421.npy,train/sagittal/0421.npy	abnormal,acl,meniscus
+train/axial/0447.npy,train/coronal/0447.npy,train/sagittal/0447.npy	abnormal,acl,meniscus
+train/axial/0456.npy,train/coronal/0456.npy,train/sagittal/0456.npy	abnormal,acl,meniscus
+train/axial/0458.npy,train/coronal/0458.npy,train/sagittal/0458.npy	abnormal,acl,meniscus
+train/axial/0469.npy,train/coronal/0469.npy,train/sagittal/0469.npy	abnormal,acl,meniscus
+train/axial/0488.npy,train/coronal/0488.npy,train/sagittal/0488.npy	abnormal,acl,meniscus
+train/axial/0494.npy,train/coronal/0494.npy,train/sagittal/0494.npy	abnormal,acl,meniscus
+train/axial/0501.npy,train/coronal/0501.npy,train/sagittal/0501.npy	abnormal,acl,meniscus
+train/axial/0506.npy,train/coronal/0506.npy,train/sagittal/0506.npy	abnormal,acl,meniscus
+train/axial/0517.npy,train/coronal/0517.npy,train/sagittal/0517.npy	abnormal,acl,meniscus
+train/axial/0522.npy,train/coronal/0522.npy,train/sagittal/0522.npy	abnormal,acl,meniscus
+train/axial/0528.npy,train/coronal/0528.npy,train/sagittal/0528.npy	abnormal,acl,meniscus
+train/axial/0551.npy,train/coronal/0551.npy,train/sagittal/0551.npy	abnormal,acl,meniscus
+train/axial/0557.npy,train/coronal/0557.npy,train/sagittal/0557.npy	abnormal,acl,meniscus
+train/axial/0607.npy,train/coronal/0607.npy,train/sagittal/0607.npy	abnormal,acl,meniscus
+train/axial/0619.npy,train/coronal/0619.npy,train/sagittal/0619.npy	abnormal,acl,meniscus
+train/axial/0620.npy,train/coronal/0620.npy,train/sagittal/0620.npy	abnormal,acl,meniscus
+train/axial/0624.npy,train/coronal/0624.npy,train/sagittal/0624.npy	abnormal,acl,meniscus
+train/axial/0631.npy,train/coronal/0631.npy,train/sagittal/0631.npy	abnormal,acl,meniscus
+train/axial/0645.npy,train/coronal/0645.npy,train/sagittal/0645.npy	abnormal,acl,meniscus
+train/axial/0660.npy,train/coronal/0660.npy,train/sagittal/0660.npy	abnormal,acl,meniscus
+train/axial/0688.npy,train/coronal/0688.npy,train/sagittal/0688.npy	abnormal,acl,meniscus
+train/axial/0692.npy,train/coronal/0692.npy,train/sagittal/0692.npy	abnormal,acl,meniscus
+train/axial/0701.npy,train/coronal/0701.npy,train/sagittal/0701.npy	abnormal,acl,meniscus
+train/axial/0721.npy,train/coronal/0721.npy,train/sagittal/0721.npy	abnormal,acl,meniscus
+train/axial/0724.npy,train/coronal/0724.npy,train/sagittal/0724.npy	abnormal,acl,meniscus
+train/axial/0740.npy,train/coronal/0740.npy,train/sagittal/0740.npy	abnormal,acl,meniscus
+train/axial/0752.npy,train/coronal/0752.npy,train/sagittal/0752.npy	abnormal,acl,meniscus
+train/axial/0761.npy,train/coronal/0761.npy,train/sagittal/0761.npy	abnormal,acl,meniscus
+train/axial/0773.npy,train/coronal/0773.npy,train/sagittal/0773.npy	abnormal,acl,meniscus
+train/axial/0776.npy,train/coronal/0776.npy,train/sagittal/0776.npy	abnormal,acl,meniscus
+train/axial/0778.npy,train/coronal/0778.npy,train/sagittal/0778.npy	abnormal,acl,meniscus
+train/axial/0793.npy,train/coronal/0793.npy,train/sagittal/0793.npy	abnormal,acl,meniscus
+train/axial/0810.npy,train/coronal/0810.npy,train/sagittal/0810.npy	abnormal,acl,meniscus
+train/axial/0812.npy,train/coronal/0812.npy,train/sagittal/0812.npy	abnormal,acl,meniscus
+train/axial/0842.npy,train/coronal/0842.npy,train/sagittal/0842.npy	abnormal,acl,meniscus
+train/axial/0846.npy,train/coronal/0846.npy,train/sagittal/0846.npy	abnormal,acl,meniscus
+train/axial/0870.npy,train/coronal/0870.npy,train/sagittal/0870.npy	abnormal,acl,meniscus
+train/axial/0871.npy,train/coronal/0871.npy,train/sagittal/0871.npy	abnormal,acl,meniscus
+train/axial/0881.npy,train/coronal/0881.npy,train/sagittal/0881.npy	abnormal,acl,meniscus
+train/axial/0892.npy,train/coronal/0892.npy,train/sagittal/0892.npy	abnormal,acl,meniscus
+train/axial/0913.npy,train/coronal/0913.npy,train/sagittal/0913.npy	abnormal,acl,meniscus
+train/axial/0920.npy,train/coronal/0920.npy,train/sagittal/0920.npy	abnormal,acl,meniscus
+train/axial/0922.npy,train/coronal/0922.npy,train/sagittal/0922.npy	abnormal,acl,meniscus
+train/axial/0927.npy,train/coronal/0927.npy,train/sagittal/0927.npy	abnormal,acl,meniscus
+train/axial/0932.npy,train/coronal/0932.npy,train/sagittal/0932.npy	abnormal,acl,meniscus
+train/axial/0945.npy,train/coronal/0945.npy,train/sagittal/0945.npy	abnormal,acl,meniscus
+train/axial/0964.npy,train/coronal/0964.npy,train/sagittal/0964.npy	abnormal,acl,meniscus
+train/axial/0969.npy,train/coronal/0969.npy,train/sagittal/0969.npy	abnormal,acl,meniscus
+train/axial/0970.npy,train/coronal/0970.npy,train/sagittal/0970.npy	abnormal,acl,meniscus
+train/axial/0977.npy,train/coronal/0977.npy,train/sagittal/0977.npy	abnormal,acl,meniscus
+train/axial/0978.npy,train/coronal/0978.npy,train/sagittal/0978.npy	abnormal,acl,meniscus
+train/axial/0999.npy,train/coronal/0999.npy,train/sagittal/0999.npy	abnormal,acl,meniscus
+train/axial/1001.npy,train/coronal/1001.npy,train/sagittal/1001.npy	abnormal,acl,meniscus
+train/axial/1002.npy,train/coronal/1002.npy,train/sagittal/1002.npy	abnormal,acl,meniscus
+train/axial/1041.npy,train/coronal/1041.npy,train/sagittal/1041.npy	abnormal,acl,meniscus
+train/axial/1059.npy,train/coronal/1059.npy,train/sagittal/1059.npy	abnormal,acl,meniscus
+train/axial/1061.npy,train/coronal/1061.npy,train/sagittal/1061.npy	abnormal,acl,meniscus
+train/axial/1062.npy,train/coronal/1062.npy,train/sagittal/1062.npy	abnormal,acl,meniscus
+train/axial/1078.npy,train/coronal/1078.npy,train/sagittal/1078.npy	abnormal,acl,meniscus
+train/axial/1088.npy,train/coronal/1088.npy,train/sagittal/1088.npy	abnormal,acl,meniscus
+train/axial/1096.npy,train/coronal/1096.npy,train/sagittal/1096.npy	abnormal,acl,meniscus
+train/axial/1101.npy,train/coronal/1101.npy,train/sagittal/1101.npy	abnormal,acl,meniscus
+train/axial/1107.npy,train/coronal/1107.npy,train/sagittal/1107.npy	abnormal,acl,meniscus
+train/axial/1117.npy,train/coronal/1117.npy,train/sagittal/1117.npy	abnormal,acl,meniscus
+train/axial/0265.npy,train/coronal/0265.npy,train/sagittal/0265.npy	abnormal,acl,meniscus
+train/axial/0721.npy,train/coronal/0721.npy,train/sagittal/0721.npy	abnormal,acl,meniscus
+train/axial/0176.npy,train/coronal/0176.npy,train/sagittal/0176.npy	abnormal,acl,meniscus
+train/axial/0150.npy,train/coronal/0150.npy,train/sagittal/0150.npy	abnormal,acl,meniscus
+train/axial/0315.npy,train/coronal/0315.npy,train/sagittal/0315.npy	abnormal,acl,meniscus
+train/axial/0140.npy,train/coronal/0140.npy,train/sagittal/0140.npy	abnormal,acl,meniscus
+train/axial/0969.npy,train/coronal/0969.npy,train/sagittal/0969.npy	abnormal,acl,meniscus
+train/axial/0374.npy,train/coronal/0374.npy,train/sagittal/0374.npy	abnormal,acl,meniscus
+train/axial/0188.npy,train/coronal/0188.npy,train/sagittal/0188.npy	abnormal,acl,meniscus
+train/axial/1002.npy,train/coronal/1002.npy,train/sagittal/1002.npy	abnormal,acl,meniscus
+train/axial/0528.npy,train/coronal/0528.npy,train/sagittal/0528.npy	abnormal,acl,meniscus
+train/axial/0871.npy,train/coronal/0871.npy,train/sagittal/0871.npy	abnormal,acl,meniscus
+train/axial/0198.npy,train/coronal/0198.npy,train/sagittal/0198.npy	abnormal,acl,meniscus
+train/axial/0168.npy,train/coronal/0168.npy,train/sagittal/0168.npy	abnormal,acl,meniscus
+train/axial/0316.npy,train/coronal/0316.npy,train/sagittal/0316.npy	abnormal,acl,meniscus
+train/axial/0458.npy,train/coronal/0458.npy,train/sagittal/0458.npy	abnormal,acl,meniscus
+train/axial/0392.npy,train/coronal/0392.npy,train/sagittal/0392.npy	abnormal,acl,meniscus
+train/axial/0113.npy,train/coronal/0113.npy,train/sagittal/0113.npy	abnormal,acl,meniscus
+train/axial/0469.npy,train/coronal/0469.npy,train/sagittal/0469.npy	abnormal,acl,meniscus
+train/axial/0325.npy,train/coronal/0325.npy,train/sagittal/0325.npy	abnormal,acl,meniscus
+train/axial/0456.npy,train/coronal/0456.npy,train/sagittal/0456.npy	abnormal,acl,meniscus
+train/axial/0778.npy,train/coronal/0778.npy,train/sagittal/0778.npy	abnormal,acl,meniscus
+train/axial/0999.npy,train/coronal/0999.npy,train/sagittal/0999.npy	abnormal,acl,meniscus
+train/axial/0323.npy,train/coronal/0323.npy,train/sagittal/0323.npy	abnormal,acl,meniscus
+train/axial/0927.npy,train/coronal/0927.npy,train/sagittal/0927.npy	abnormal,acl,meniscus
+train/axial/0773.npy,train/coronal/0773.npy,train/sagittal/0773.npy	abnormal,acl,meniscus
+train/axial/1001.npy,train/coronal/1001.npy,train/sagittal/1001.npy	abnormal,acl,meniscus
+train/axial/0208.npy,train/coronal/0208.npy,train/sagittal/0208.npy	abnormal,acl,meniscus
+train/axial/0631.npy,train/coronal/0631.npy,train/sagittal/0631.npy	abnormal,acl,meniscus
+train/axial/0557.npy,train/coronal/0557.npy,train/sagittal/0557.npy	abnormal,acl,meniscus
+train/axial/0355.npy,train/coronal/0355.npy,train/sagittal/0355.npy	abnormal,acl,meniscus
+train/axial/0913.npy,train/coronal/0913.npy,train/sagittal/0913.npy	abnormal,acl,meniscus
+train/axial/0892.npy,train/coronal/0892.npy,train/sagittal/0892.npy	abnormal,acl,meniscus
+train/axial/0179.npy,train/coronal/0179.npy,train/sagittal/0179.npy	abnormal,acl,meniscus
+train/axial/0776.npy,train/coronal/0776.npy,train/sagittal/0776.npy	abnormal,acl,meniscus
+train/axial/0620.npy,train/coronal/0620.npy,train/sagittal/0620.npy	abnormal,acl,meniscus
+train/axial/0978.npy,train/coronal/0978.npy,train/sagittal/0978.npy	abnormal,acl,meniscus
+train/axial/0002.npy,train/coronal/0002.npy,train/sagittal/0002.npy	abnormal
+train/axial/0004.npy,train/coronal/0004.npy,train/sagittal/0004.npy	abnormal
+train/axial/0006.npy,train/coronal/0006.npy,train/sagittal/0006.npy	abnormal
+train/axial/0007.npy,train/coronal/0007.npy,train/sagittal/0007.npy	abnormal
+train/axial/0008.npy,train/coronal/0008.npy,train/sagittal/0008.npy	abnormal
+train/axial/0009.npy,train/coronal/0009.npy,train/sagittal/0009.npy	abnormal
+train/axial/0013.npy,train/coronal/0013.npy,train/sagittal/0013.npy	abnormal
+train/axial/0015.npy,train/coronal/0015.npy,train/sagittal/0015.npy	abnormal
+train/axial/0024.npy,train/coronal/0024.npy,train/sagittal/0024.npy	abnormal
+train/axial/0031.npy,train/coronal/0031.npy,train/sagittal/0031.npy	abnormal
+train/axial/0034.npy,train/coronal/0034.npy,train/sagittal/0034.npy	abnormal
+train/axial/0041.npy,train/coronal/0041.npy,train/sagittal/0041.npy	abnormal
+train/axial/0050.npy,train/coronal/0050.npy,train/sagittal/0050.npy	abnormal
+train/axial/0055.npy,train/coronal/0055.npy,train/sagittal/0055.npy	abnormal
+train/axial/0056.npy,train/coronal/0056.npy,train/sagittal/0056.npy	abnormal
+train/axial/0058.npy,train/coronal/0058.npy,train/sagittal/0058.npy	abnormal
+train/axial/0064.npy,train/coronal/0064.npy,train/sagittal/0064.npy	abnormal
+train/axial/0065.npy,train/coronal/0065.npy,train/sagittal/0065.npy	abnormal
+train/axial/0068.npy,train/coronal/0068.npy,train/sagittal/0068.npy	abnormal
+train/axial/0069.npy,train/coronal/0069.npy,train/sagittal/0069.npy	abnormal
+train/axial/0073.npy,train/coronal/0073.npy,train/sagittal/0073.npy	abnormal
+train/axial/0075.npy,train/coronal/0075.npy,train/sagittal/0075.npy	abnormal
+train/axial/0076.npy,train/coronal/0076.npy,train/sagittal/0076.npy	abnormal
+train/axial/0081.npy,train/coronal/0081.npy,train/sagittal/0081.npy	abnormal
+train/axial/0083.npy,train/coronal/0083.npy,train/sagittal/0083.npy	abnormal
+train/axial/0086.npy,train/coronal/0086.npy,train/sagittal/0086.npy	abnormal
+train/axial/0093.npy,train/coronal/0093.npy,train/sagittal/0093.npy	abnormal
+train/axial/0095.npy,train/coronal/0095.npy,train/sagittal/0095.npy	abnormal
+train/axial/0097.npy,train/coronal/0097.npy,train/sagittal/0097.npy	abnormal
+train/axial/0100.npy,train/coronal/0100.npy,train/sagittal/0100.npy	abnormal
+train/axial/0102.npy,train/coronal/0102.npy,train/sagittal/0102.npy	abnormal
+train/axial/0103.npy,train/coronal/0103.npy,train/sagittal/0103.npy	abnormal
+train/axial/0107.npy,train/coronal/0107.npy,train/sagittal/0107.npy	abnormal
+train/axial/0115.npy,train/coronal/0115.npy,train/sagittal/0115.npy	abnormal
+train/axial/0121.npy,train/coronal/0121.npy,train/sagittal/0121.npy	abnormal
+train/axial/0129.npy,train/coronal/0129.npy,train/sagittal/0129.npy	abnormal
+train/axial/0132.npy,train/coronal/0132.npy,train/sagittal/0132.npy	abnormal
+train/axial/0133.npy,train/coronal/0133.npy,train/sagittal/0133.npy	abnormal
+train/axial/0134.npy,train/coronal/0134.npy,train/sagittal/0134.npy	abnormal
+train/axial/0136.npy,train/coronal/0136.npy,train/sagittal/0136.npy	abnormal
+train/axial/0139.npy,train/coronal/0139.npy,train/sagittal/0139.npy	abnormal
+train/axial/0141.npy,train/coronal/0141.npy,train/sagittal/0141.npy	abnormal
+train/axial/0145.npy,train/coronal/0145.npy,train/sagittal/0145.npy	abnormal
+train/axial/0146.npy,train/coronal/0146.npy,train/sagittal/0146.npy	abnormal
+train/axial/0148.npy,train/coronal/0148.npy,train/sagittal/0148.npy	abnormal
+train/axial/0151.npy,train/coronal/0151.npy,train/sagittal/0151.npy	abnormal
+train/axial/0156.npy,train/coronal/0156.npy,train/sagittal/0156.npy	abnormal
+train/axial/0160.npy,train/coronal/0160.npy,train/sagittal/0160.npy	abnormal
+train/axial/0161.npy,train/coronal/0161.npy,train/sagittal/0161.npy	abnormal
+train/axial/0165.npy,train/coronal/0165.npy,train/sagittal/0165.npy	abnormal
+train/axial/0167.npy,train/coronal/0167.npy,train/sagittal/0167.npy	abnormal
+train/axial/0169.npy,train/coronal/0169.npy,train/sagittal/0169.npy	abnormal
+train/axial/0172.npy,train/coronal/0172.npy,train/sagittal/0172.npy	abnormal
+train/axial/0173.npy,train/coronal/0173.npy,train/sagittal/0173.npy	abnormal
+train/axial/0175.npy,train/coronal/0175.npy,train/sagittal/0175.npy	abnormal
+train/axial/0184.npy,train/coronal/0184.npy,train/sagittal/0184.npy	abnormal
+train/axial/0187.npy,train/coronal/0187.npy,train/sagittal/0187.npy	abnormal
+train/axial/0189.npy,train/coronal/0189.npy,train/sagittal/0189.npy	abnormal
+train/axial/0190.npy,train/coronal/0190.npy,train/sagittal/0190.npy	abnormal
+train/axial/0192.npy,train/coronal/0192.npy,train/sagittal/0192.npy	abnormal
+train/axial/0195.npy,train/coronal/0195.npy,train/sagittal/0195.npy	abnormal
+train/axial/0197.npy,train/coronal/0197.npy,train/sagittal/0197.npy	abnormal
+train/axial/0200.npy,train/coronal/0200.npy,train/sagittal/0200.npy	abnormal
+train/axial/0202.npy,train/coronal/0202.npy,train/sagittal/0202.npy	abnormal
+train/axial/0206.npy,train/coronal/0206.npy,train/sagittal/0206.npy	abnormal
+train/axial/0207.npy,train/coronal/0207.npy,train/sagittal/0207.npy	abnormal
+train/axial/0209.npy,train/coronal/0209.npy,train/sagittal/0209.npy	abnormal
+train/axial/0211.npy,train/coronal/0211.npy,train/sagittal/0211.npy	abnormal
+train/axial/0212.npy,train/coronal/0212.npy,train/sagittal/0212.npy	abnormal
+train/axial/0213.npy,train/coronal/0213.npy,train/sagittal/0213.npy	abnormal
+train/axial/0216.npy,train/coronal/0216.npy,train/sagittal/0216.npy	abnormal
+train/axial/0218.npy,train/coronal/0218.npy,train/sagittal/0218.npy	abnormal
+train/axial/0219.npy,train/coronal/0219.npy,train/sagittal/0219.npy	abnormal
+train/axial/0221.npy,train/coronal/0221.npy,train/sagittal/0221.npy	abnormal
+train/axial/0223.npy,train/coronal/0223.npy,train/sagittal/0223.npy	abnormal
+train/axial/0224.npy,train/coronal/0224.npy,train/sagittal/0224.npy	abnormal
+train/axial/0226.npy,train/coronal/0226.npy,train/sagittal/0226.npy	abnormal
+train/axial/0229.npy,train/coronal/0229.npy,train/sagittal/0229.npy	abnormal
+train/axial/0232.npy,train/coronal/0232.npy,train/sagittal/0232.npy	abnormal
+train/axial/0233.npy,train/coronal/0233.npy,train/sagittal/0233.npy	abnormal
+train/axial/0237.npy,train/coronal/0237.npy,train/sagittal/0237.npy	abnormal
+train/axial/0241.npy,train/coronal/0241.npy,train/sagittal/0241.npy	abnormal
+train/axial/0242.npy,train/coronal/0242.npy,train/sagittal/0242.npy	abnormal
+train/axial/0246.npy,train/coronal/0246.npy,train/sagittal/0246.npy	abnormal
+train/axial/0249.npy,train/coronal/0249.npy,train/sagittal/0249.npy	abnormal
+train/axial/0250.npy,train/coronal/0250.npy,train/sagittal/0250.npy	abnormal
+train/axial/0254.npy,train/coronal/0254.npy,train/sagittal/0254.npy	abnormal
+train/axial/0257.npy,train/coronal/0257.npy,train/sagittal/0257.npy	abnormal
+train/axial/0261.npy,train/coronal/0261.npy,train/sagittal/0261.npy	abnormal
+train/axial/0262.npy,train/coronal/0262.npy,train/sagittal/0262.npy	abnormal
+train/axial/0269.npy,train/coronal/0269.npy,train/sagittal/0269.npy	abnormal
+train/axial/0271.npy,train/coronal/0271.npy,train/sagittal/0271.npy	abnormal
+train/axial/0273.npy,train/coronal/0273.npy,train/sagittal/0273.npy	abnormal
+train/axial/0274.npy,train/coronal/0274.npy,train/sagittal/0274.npy	abnormal
+train/axial/0276.npy,train/coronal/0276.npy,train/sagittal/0276.npy	abnormal
+train/axial/0278.npy,train/coronal/0278.npy,train/sagittal/0278.npy	abnormal
+train/axial/0279.npy,train/coronal/0279.npy,train/sagittal/0279.npy	abnormal
+train/axial/0284.npy,train/coronal/0284.npy,train/sagittal/0284.npy	abnormal
+train/axial/0287.npy,train/coronal/0287.npy,train/sagittal/0287.npy	abnormal
+train/axial/0288.npy,train/coronal/0288.npy,train/sagittal/0288.npy	abnormal
+train/axial/0289.npy,train/coronal/0289.npy,train/sagittal/0289.npy	abnormal
+train/axial/0290.npy,train/coronal/0290.npy,train/sagittal/0290.npy	abnormal
+train/axial/0292.npy,train/coronal/0292.npy,train/sagittal/0292.npy	abnormal
+train/axial/0293.npy,train/coronal/0293.npy,train/sagittal/0293.npy	abnormal
+train/axial/0295.npy,train/coronal/0295.npy,train/sagittal/0295.npy	abnormal
+train/axial/0300.npy,train/coronal/0300.npy,train/sagittal/0300.npy	abnormal
+train/axial/0304.npy,train/coronal/0304.npy,train/sagittal/0304.npy	abnormal
+train/axial/0307.npy,train/coronal/0307.npy,train/sagittal/0307.npy	abnormal
+train/axial/0330.npy,train/coronal/0330.npy,train/sagittal/0330.npy	abnormal
+train/axial/0334.npy,train/coronal/0334.npy,train/sagittal/0334.npy	abnormal
+train/axial/0335.npy,train/coronal/0335.npy,train/sagittal/0335.npy	abnormal
+train/axial/0336.npy,train/coronal/0336.npy,train/sagittal/0336.npy	abnormal
+train/axial/0338.npy,train/coronal/0338.npy,train/sagittal/0338.npy	abnormal
+train/axial/0339.npy,train/coronal/0339.npy,train/sagittal/0339.npy	abnormal
+train/axial/0345.npy,train/coronal/0345.npy,train/sagittal/0345.npy	abnormal
+train/axial/0346.npy,train/coronal/0346.npy,train/sagittal/0346.npy	abnormal
+train/axial/0349.npy,train/coronal/0349.npy,train/sagittal/0349.npy	abnormal
+train/axial/0351.npy,train/coronal/0351.npy,train/sagittal/0351.npy	abnormal
+train/axial/0352.npy,train/coronal/0352.npy,train/sagittal/0352.npy	abnormal
+train/axial/0353.npy,train/coronal/0353.npy,train/sagittal/0353.npy	abnormal
+train/axial/0354.npy,train/coronal/0354.npy,train/sagittal/0354.npy	abnormal
+train/axial/0357.npy,train/coronal/0357.npy,train/sagittal/0357.npy	abnormal
+train/axial/0358.npy,train/coronal/0358.npy,train/sagittal/0358.npy	abnormal
+train/axial/0359.npy,train/coronal/0359.npy,train/sagittal/0359.npy	abnormal
+train/axial/0364.npy,train/coronal/0364.npy,train/sagittal/0364.npy	abnormal
+train/axial/0365.npy,train/coronal/0365.npy,train/sagittal/0365.npy	abnormal
+train/axial/0367.npy,train/coronal/0367.npy,train/sagittal/0367.npy	abnormal
+train/axial/0369.npy,train/coronal/0369.npy,train/sagittal/0369.npy	abnormal
+train/axial/0371.npy,train/coronal/0371.npy,train/sagittal/0371.npy	abnormal
+train/axial/0375.npy,train/coronal/0375.npy,train/sagittal/0375.npy	abnormal
+train/axial/0376.npy,train/coronal/0376.npy,train/sagittal/0376.npy	abnormal
+train/axial/0389.npy,train/coronal/0389.npy,train/sagittal/0389.npy	abnormal
+train/axial/0393.npy,train/coronal/0393.npy,train/sagittal/0393.npy	abnormal
+train/axial/0394.npy,train/coronal/0394.npy,train/sagittal/0394.npy	abnormal
+train/axial/0395.npy,train/coronal/0395.npy,train/sagittal/0395.npy	abnormal
+train/axial/0396.npy,train/coronal/0396.npy,train/sagittal/0396.npy	abnormal
+train/axial/0398.npy,train/coronal/0398.npy,train/sagittal/0398.npy	abnormal
+train/axial/0401.npy,train/coronal/0401.npy,train/sagittal/0401.npy	abnormal
+train/axial/0402.npy,train/coronal/0402.npy,train/sagittal/0402.npy	abnormal
+train/axial/0403.npy,train/coronal/0403.npy,train/sagittal/0403.npy	abnormal
+train/axial/0405.npy,train/coronal/0405.npy,train/sagittal/0405.npy	abnormal
+train/axial/0412.npy,train/coronal/0412.npy,train/sagittal/0412.npy	abnormal
+train/axial/0413.npy,train/coronal/0413.npy,train/sagittal/0413.npy	abnormal
+train/axial/0418.npy,train/coronal/0418.npy,train/sagittal/0418.npy	abnormal
+train/axial/0422.npy,train/coronal/0422.npy,train/sagittal/0422.npy	abnormal
+train/axial/0424.npy,train/coronal/0424.npy,train/sagittal/0424.npy	abnormal
+train/axial/0436.npy,train/coronal/0436.npy,train/sagittal/0436.npy	abnormal
+train/axial/0443.npy,train/coronal/0443.npy,train/sagittal/0443.npy	abnormal
+train/axial/0445.npy,train/coronal/0445.npy,train/sagittal/0445.npy	abnormal
+train/axial/0449.npy,train/coronal/0449.npy,train/sagittal/0449.npy	abnormal
+train/axial/0451.npy,train/coronal/0451.npy,train/sagittal/0451.npy	abnormal
+train/axial/0454.npy,train/coronal/0454.npy,train/sagittal/0454.npy	abnormal
+train/axial/0455.npy,train/coronal/0455.npy,train/sagittal/0455.npy	abnormal
+train/axial/0464.npy,train/coronal/0464.npy,train/sagittal/0464.npy	abnormal
+train/axial/0468.npy,train/coronal/0468.npy,train/sagittal/0468.npy	abnormal
+train/axial/0479.npy,train/coronal/0479.npy,train/sagittal/0479.npy	abnormal
+train/axial/0480.npy,train/coronal/0480.npy,train/sagittal/0480.npy	abnormal
+train/axial/0481.npy,train/coronal/0481.npy,train/sagittal/0481.npy	abnormal
+train/axial/0483.npy,train/coronal/0483.npy,train/sagittal/0483.npy	abnormal
+train/axial/0484.npy,train/coronal/0484.npy,train/sagittal/0484.npy	abnormal
+train/axial/0485.npy,train/coronal/0485.npy,train/sagittal/0485.npy	abnormal
+train/axial/0493.npy,train/coronal/0493.npy,train/sagittal/0493.npy	abnormal
+train/axial/0496.npy,train/coronal/0496.npy,train/sagittal/0496.npy	abnormal
+train/axial/0497.npy,train/coronal/0497.npy,train/sagittal/0497.npy	abnormal
+train/axial/0505.npy,train/coronal/0505.npy,train/sagittal/0505.npy	abnormal
+train/axial/0510.npy,train/coronal/0510.npy,train/sagittal/0510.npy	abnormal
+train/axial/0514.npy,train/coronal/0514.npy,train/sagittal/0514.npy	abnormal
+train/axial/0516.npy,train/coronal/0516.npy,train/sagittal/0516.npy	abnormal
+train/axial/0519.npy,train/coronal/0519.npy,train/sagittal/0519.npy	abnormal
+train/axial/0523.npy,train/coronal/0523.npy,train/sagittal/0523.npy	abnormal
+train/axial/0529.npy,train/coronal/0529.npy,train/sagittal/0529.npy	abnormal
+train/axial/0534.npy,train/coronal/0534.npy,train/sagittal/0534.npy	abnormal
+train/axial/0536.npy,train/coronal/0536.npy,train/sagittal/0536.npy	abnormal
+train/axial/0537.npy,train/coronal/0537.npy,train/sagittal/0537.npy	abnormal
+train/axial/0538.npy,train/coronal/0538.npy,train/sagittal/0538.npy	abnormal
+train/axial/0540.npy,train/coronal/0540.npy,train/sagittal/0540.npy	abnormal
+train/axial/0541.npy,train/coronal/0541.npy,train/sagittal/0541.npy	abnormal
+train/axial/0545.npy,train/coronal/0545.npy,train/sagittal/0545.npy	abnormal
+train/axial/0550.npy,train/coronal/0550.npy,train/sagittal/0550.npy	abnormal
+train/axial/0556.npy,train/coronal/0556.npy,train/sagittal/0556.npy	abnormal
+train/axial/0560.npy,train/coronal/0560.npy,train/sagittal/0560.npy	abnormal
+train/axial/0562.npy,train/coronal/0562.npy,train/sagittal/0562.npy	abnormal
+train/axial/0566.npy,train/coronal/0566.npy,train/sagittal/0566.npy	abnormal
+train/axial/0567.npy,train/coronal/0567.npy,train/sagittal/0567.npy	abnormal
+train/axial/0568.npy,train/coronal/0568.npy,train/sagittal/0568.npy	abnormal
+train/axial/0574.npy,train/coronal/0574.npy,train/sagittal/0574.npy	abnormal
+train/axial/0576.npy,train/coronal/0576.npy,train/sagittal/0576.npy	abnormal
+train/axial/0578.npy,train/coronal/0578.npy,train/sagittal/0578.npy	abnormal
+train/axial/0584.npy,train/coronal/0584.npy,train/sagittal/0584.npy	abnormal
+train/axial/0587.npy,train/coronal/0587.npy,train/sagittal/0587.npy	abnormal
+train/axial/0590.npy,train/coronal/0590.npy,train/sagittal/0590.npy	abnormal
+train/axial/0591.npy,train/coronal/0591.npy,train/sagittal/0591.npy	abnormal
+train/axial/0593.npy,train/coronal/0593.npy,train/sagittal/0593.npy	abnormal
+train/axial/0595.npy,train/coronal/0595.npy,train/sagittal/0595.npy	abnormal
+train/axial/0603.npy,train/coronal/0603.npy,train/sagittal/0603.npy	abnormal
+train/axial/0606.npy,train/coronal/0606.npy,train/sagittal/0606.npy	abnormal
+train/axial/0609.npy,train/coronal/0609.npy,train/sagittal/0609.npy	abnormal
+train/axial/0610.npy,train/coronal/0610.npy,train/sagittal/0610.npy	abnormal
+train/axial/0613.npy,train/coronal/0613.npy,train/sagittal/0613.npy	abnormal
+train/axial/0615.npy,train/coronal/0615.npy,train/sagittal/0615.npy	abnormal
+train/axial/0616.npy,train/coronal/0616.npy,train/sagittal/0616.npy	abnormal
+train/axial/0618.npy,train/coronal/0618.npy,train/sagittal/0618.npy	abnormal
+train/axial/0622.npy,train/coronal/0622.npy,train/sagittal/0622.npy	abnormal
+train/axial/0623.npy,train/coronal/0623.npy,train/sagittal/0623.npy	abnormal
+train/axial/0626.npy,train/coronal/0626.npy,train/sagittal/0626.npy	abnormal
+train/axial/0627.npy,train/coronal/0627.npy,train/sagittal/0627.npy	abnormal
+train/axial/0630.npy,train/coronal/0630.npy,train/sagittal/0630.npy	abnormal
+train/axial/0632.npy,train/coronal/0632.npy,train/sagittal/0632.npy	abnormal
+train/axial/0638.npy,train/coronal/0638.npy,train/sagittal/0638.npy	abnormal
+train/axial/0642.npy,train/coronal/0642.npy,train/sagittal/0642.npy	abnormal
+train/axial/0643.npy,train/coronal/0643.npy,train/sagittal/0643.npy	abnormal
+train/axial/0647.npy,train/coronal/0647.npy,train/sagittal/0647.npy	abnormal
+train/axial/0650.npy,train/coronal/0650.npy,train/sagittal/0650.npy	abnormal
+train/axial/0652.npy,train/coronal/0652.npy,train/sagittal/0652.npy	abnormal
+train/axial/0659.npy,train/coronal/0659.npy,train/sagittal/0659.npy	abnormal
+train/axial/0663.npy,train/coronal/0663.npy,train/sagittal/0663.npy	abnormal
+train/axial/0664.npy,train/coronal/0664.npy,train/sagittal/0664.npy	abnormal
+train/axial/0665.npy,train/coronal/0665.npy,train/sagittal/0665.npy	abnormal
+train/axial/0667.npy,train/coronal/0667.npy,train/sagittal/0667.npy	abnormal
+train/axial/0668.npy,train/coronal/0668.npy,train/sagittal/0668.npy	abnormal
+train/axial/0669.npy,train/coronal/0669.npy,train/sagittal/0669.npy	abnormal
+train/axial/0673.npy,train/coronal/0673.npy,train/sagittal/0673.npy	abnormal
+train/axial/0681.npy,train/coronal/0681.npy,train/sagittal/0681.npy	abnormal
+train/axial/0682.npy,train/coronal/0682.npy,train/sagittal/0682.npy	abnormal
+train/axial/0686.npy,train/coronal/0686.npy,train/sagittal/0686.npy	abnormal
+train/axial/0690.npy,train/coronal/0690.npy,train/sagittal/0690.npy	abnormal
+train/axial/0694.npy,train/coronal/0694.npy,train/sagittal/0694.npy	abnormal
+train/axial/0695.npy,train/coronal/0695.npy,train/sagittal/0695.npy	abnormal
+train/axial/0696.npy,train/coronal/0696.npy,train/sagittal/0696.npy	abnormal
+train/axial/0705.npy,train/coronal/0705.npy,train/sagittal/0705.npy	abnormal
+train/axial/0706.npy,train/coronal/0706.npy,train/sagittal/0706.npy	abnormal
+train/axial/0709.npy,train/coronal/0709.npy,train/sagittal/0709.npy	abnormal
+train/axial/0713.npy,train/coronal/0713.npy,train/sagittal/0713.npy	abnormal
+train/axial/0717.npy,train/coronal/0717.npy,train/sagittal/0717.npy	abnormal
+train/axial/0719.npy,train/coronal/0719.npy,train/sagittal/0719.npy	abnormal
+train/axial/0725.npy,train/coronal/0725.npy,train/sagittal/0725.npy	abnormal
+train/axial/0728.npy,train/coronal/0728.npy,train/sagittal/0728.npy	abnormal
+train/axial/0730.npy,train/coronal/0730.npy,train/sagittal/0730.npy	abnormal
+train/axial/0731.npy,train/coronal/0731.npy,train/sagittal/0731.npy	abnormal
+train/axial/0732.npy,train/coronal/0732.npy,train/sagittal/0732.npy	abnormal
+train/axial/0737.npy,train/coronal/0737.npy,train/sagittal/0737.npy	abnormal
+train/axial/0738.npy,train/coronal/0738.npy,train/sagittal/0738.npy	abnormal
+train/axial/0739.npy,train/coronal/0739.npy,train/sagittal/0739.npy	abnormal
+train/axial/0741.npy,train/coronal/0741.npy,train/sagittal/0741.npy	abnormal
+train/axial/0743.npy,train/coronal/0743.npy,train/sagittal/0743.npy	abnormal
+train/axial/0746.npy,train/coronal/0746.npy,train/sagittal/0746.npy	abnormal
+train/axial/0747.npy,train/coronal/0747.npy,train/sagittal/0747.npy	abnormal
+train/axial/0748.npy,train/coronal/0748.npy,train/sagittal/0748.npy	abnormal
+train/axial/0754.npy,train/coronal/0754.npy,train/sagittal/0754.npy	abnormal
+train/axial/0755.npy,train/coronal/0755.npy,train/sagittal/0755.npy	abnormal
+train/axial/0757.npy,train/coronal/0757.npy,train/sagittal/0757.npy	abnormal
+train/axial/0758.npy,train/coronal/0758.npy,train/sagittal/0758.npy	abnormal
+train/axial/0762.npy,train/coronal/0762.npy,train/sagittal/0762.npy	abnormal
+train/axial/0764.npy,train/coronal/0764.npy,train/sagittal/0764.npy	abnormal
+train/axial/0770.npy,train/coronal/0770.npy,train/sagittal/0770.npy	abnormal
+train/axial/0771.npy,train/coronal/0771.npy,train/sagittal/0771.npy	abnormal
+train/axial/0774.npy,train/coronal/0774.npy,train/sagittal/0774.npy	abnormal
+train/axial/0780.npy,train/coronal/0780.npy,train/sagittal/0780.npy	abnormal
+train/axial/0782.npy,train/coronal/0782.npy,train/sagittal/0782.npy	abnormal
+train/axial/0787.npy,train/coronal/0787.npy,train/sagittal/0787.npy	abnormal
+train/axial/0790.npy,train/coronal/0790.npy,train/sagittal/0790.npy	abnormal
+train/axial/0794.npy,train/coronal/0794.npy,train/sagittal/0794.npy	abnormal
+train/axial/0795.npy,train/coronal/0795.npy,train/sagittal/0795.npy	abnormal
+train/axial/0796.npy,train/coronal/0796.npy,train/sagittal/0796.npy	abnormal
+train/axial/0798.npy,train/coronal/0798.npy,train/sagittal/0798.npy	abnormal
+train/axial/0800.npy,train/coronal/0800.npy,train/sagittal/0800.npy	abnormal
+train/axial/0803.npy,train/coronal/0803.npy,train/sagittal/0803.npy	abnormal
+train/axial/0804.npy,train/coronal/0804.npy,train/sagittal/0804.npy	abnormal
+train/axial/0805.npy,train/coronal/0805.npy,train/sagittal/0805.npy	abnormal
+train/axial/0809.npy,train/coronal/0809.npy,train/sagittal/0809.npy	abnormal
+train/axial/0811.npy,train/coronal/0811.npy,train/sagittal/0811.npy	abnormal
+train/axial/0816.npy,train/coronal/0816.npy,train/sagittal/0816.npy	abnormal
+train/axial/0826.npy,train/coronal/0826.npy,train/sagittal/0826.npy	abnormal
+train/axial/0827.npy,train/coronal/0827.npy,train/sagittal/0827.npy	abnormal
+train/axial/0828.npy,train/coronal/0828.npy,train/sagittal/0828.npy	abnormal
+train/axial/0829.npy,train/coronal/0829.npy,train/sagittal/0829.npy	abnormal
+train/axial/0831.npy,train/coronal/0831.npy,train/sagittal/0831.npy	abnormal
+train/axial/0832.npy,train/coronal/0832.npy,train/sagittal/0832.npy	abnormal
+train/axial/0834.npy,train/coronal/0834.npy,train/sagittal/0834.npy	abnormal
+train/axial/0837.npy,train/coronal/0837.npy,train/sagittal/0837.npy	abnormal
+train/axial/0838.npy,train/coronal/0838.npy,train/sagittal/0838.npy	abnormal
+train/axial/0839.npy,train/coronal/0839.npy,train/sagittal/0839.npy	abnormal
+train/axial/0840.npy,train/coronal/0840.npy,train/sagittal/0840.npy	abnormal
+train/axial/0844.npy,train/coronal/0844.npy,train/sagittal/0844.npy	abnormal
+train/axial/0848.npy,train/coronal/0848.npy,train/sagittal/0848.npy	abnormal
+train/axial/0849.npy,train/coronal/0849.npy,train/sagittal/0849.npy	abnormal
+train/axial/0851.npy,train/coronal/0851.npy,train/sagittal/0851.npy	abnormal
+train/axial/0852.npy,train/coronal/0852.npy,train/sagittal/0852.npy	abnormal
+train/axial/0855.npy,train/coronal/0855.npy,train/sagittal/0855.npy	abnormal
+train/axial/0856.npy,train/coronal/0856.npy,train/sagittal/0856.npy	abnormal
+train/axial/0861.npy,train/coronal/0861.npy,train/sagittal/0861.npy	abnormal
+train/axial/0865.npy,train/coronal/0865.npy,train/sagittal/0865.npy	abnormal
+train/axial/0875.npy,train/coronal/0875.npy,train/sagittal/0875.npy	abnormal
+train/axial/0877.npy,train/coronal/0877.npy,train/sagittal/0877.npy	abnormal
+train/axial/0888.npy,train/coronal/0888.npy,train/sagittal/0888.npy	abnormal
+train/axial/0889.npy,train/coronal/0889.npy,train/sagittal/0889.npy	abnormal
+train/axial/0893.npy,train/coronal/0893.npy,train/sagittal/0893.npy	abnormal
+train/axial/0896.npy,train/coronal/0896.npy,train/sagittal/0896.npy	abnormal
+train/axial/0898.npy,train/coronal/0898.npy,train/sagittal/0898.npy	abnormal
+train/axial/0901.npy,train/coronal/0901.npy,train/sagittal/0901.npy	abnormal
+train/axial/0903.npy,train/coronal/0903.npy,train/sagittal/0903.npy	abnormal
+train/axial/0905.npy,train/coronal/0905.npy,train/sagittal/0905.npy	abnormal
+train/axial/0906.npy,train/coronal/0906.npy,train/sagittal/0906.npy	abnormal
+train/axial/0907.npy,train/coronal/0907.npy,train/sagittal/0907.npy	abnormal
+train/axial/0908.npy,train/coronal/0908.npy,train/sagittal/0908.npy	abnormal
+train/axial/0915.npy,train/coronal/0915.npy,train/sagittal/0915.npy	abnormal
+train/axial/0918.npy,train/coronal/0918.npy,train/sagittal/0918.npy	abnormal
+train/axial/0925.npy,train/coronal/0925.npy,train/sagittal/0925.npy	abnormal
+train/axial/0935.npy,train/coronal/0935.npy,train/sagittal/0935.npy	abnormal
+train/axial/0939.npy,train/coronal/0939.npy,train/sagittal/0939.npy	abnormal
+train/axial/0940.npy,train/coronal/0940.npy,train/sagittal/0940.npy	abnormal
+train/axial/0942.npy,train/coronal/0942.npy,train/sagittal/0942.npy	abnormal
+train/axial/0943.npy,train/coronal/0943.npy,train/sagittal/0943.npy	abnormal
+train/axial/0946.npy,train/coronal/0946.npy,train/sagittal/0946.npy	abnormal
+train/axial/0951.npy,train/coronal/0951.npy,train/sagittal/0951.npy	abnormal
+train/axial/0952.npy,train/coronal/0952.npy,train/sagittal/0952.npy	abnormal
+train/axial/0953.npy,train/coronal/0953.npy,train/sagittal/0953.npy	abnormal
+train/axial/0954.npy,train/coronal/0954.npy,train/sagittal/0954.npy	abnormal
+train/axial/0956.npy,train/coronal/0956.npy,train/sagittal/0956.npy	abnormal
+train/axial/0958.npy,train/coronal/0958.npy,train/sagittal/0958.npy	abnormal
+train/axial/0962.npy,train/coronal/0962.npy,train/sagittal/0962.npy	abnormal
+train/axial/0965.npy,train/coronal/0965.npy,train/sagittal/0965.npy	abnormal
+train/axial/0966.npy,train/coronal/0966.npy,train/sagittal/0966.npy	abnormal
+train/axial/0967.npy,train/coronal/0967.npy,train/sagittal/0967.npy	abnormal
+train/axial/0968.npy,train/coronal/0968.npy,train/sagittal/0968.npy	abnormal
+train/axial/0971.npy,train/coronal/0971.npy,train/sagittal/0971.npy	abnormal
+train/axial/0973.npy,train/coronal/0973.npy,train/sagittal/0973.npy	abnormal
+train/axial/0974.npy,train/coronal/0974.npy,train/sagittal/0974.npy	abnormal
+train/axial/0975.npy,train/coronal/0975.npy,train/sagittal/0975.npy	abnormal
+train/axial/0976.npy,train/coronal/0976.npy,train/sagittal/0976.npy	abnormal
+train/axial/0979.npy,train/coronal/0979.npy,train/sagittal/0979.npy	abnormal
+train/axial/0981.npy,train/coronal/0981.npy,train/sagittal/0981.npy	abnormal
+train/axial/0987.npy,train/coronal/0987.npy,train/sagittal/0987.npy	abnormal
+train/axial/0988.npy,train/coronal/0988.npy,train/sagittal/0988.npy	abnormal
+train/axial/0991.npy,train/coronal/0991.npy,train/sagittal/0991.npy	abnormal
+train/axial/0995.npy,train/coronal/0995.npy,train/sagittal/0995.npy	abnormal
+train/axial/0996.npy,train/coronal/0996.npy,train/sagittal/0996.npy	abnormal
+train/axial/1012.npy,train/coronal/1012.npy,train/sagittal/1012.npy	abnormal
+train/axial/1013.npy,train/coronal/1013.npy,train/sagittal/1013.npy	abnormal
+train/axial/1015.npy,train/coronal/1015.npy,train/sagittal/1015.npy	abnormal
+train/axial/1016.npy,train/coronal/1016.npy,train/sagittal/1016.npy	abnormal
+train/axial/1017.npy,train/coronal/1017.npy,train/sagittal/1017.npy	abnormal
+train/axial/1018.npy,train/coronal/1018.npy,train/sagittal/1018.npy	abnormal
+train/axial/1022.npy,train/coronal/1022.npy,train/sagittal/1022.npy	abnormal
+train/axial/1023.npy,train/coronal/1023.npy,train/sagittal/1023.npy	abnormal
+train/axial/1029.npy,train/coronal/1029.npy,train/sagittal/1029.npy	abnormal
+train/axial/1032.npy,train/coronal/1032.npy,train/sagittal/1032.npy	abnormal
+train/axial/1033.npy,train/coronal/1033.npy,train/sagittal/1033.npy	abnormal
+train/axial/1035.npy,train/coronal/1035.npy,train/sagittal/1035.npy	abnormal
+train/axial/1036.npy,train/coronal/1036.npy,train/sagittal/1036.npy	abnormal
+train/axial/1039.npy,train/coronal/1039.npy,train/sagittal/1039.npy	abnormal
+train/axial/1040.npy,train/coronal/1040.npy,train/sagittal/1040.npy	abnormal
+train/axial/1042.npy,train/coronal/1042.npy,train/sagittal/1042.npy	abnormal
+train/axial/1043.npy,train/coronal/1043.npy,train/sagittal/1043.npy	abnormal
+train/axial/1044.npy,train/coronal/1044.npy,train/sagittal/1044.npy	abnormal
+train/axial/1045.npy,train/coronal/1045.npy,train/sagittal/1045.npy	abnormal
+train/axial/1047.npy,train/coronal/1047.npy,train/sagittal/1047.npy	abnormal
+train/axial/1048.npy,train/coronal/1048.npy,train/sagittal/1048.npy	abnormal
+train/axial/1050.npy,train/coronal/1050.npy,train/sagittal/1050.npy	abnormal
+train/axial/1055.npy,train/coronal/1055.npy,train/sagittal/1055.npy	abnormal
+train/axial/1058.npy,train/coronal/1058.npy,train/sagittal/1058.npy	abnormal
+train/axial/1063.npy,train/coronal/1063.npy,train/sagittal/1063.npy	abnormal
+train/axial/1066.npy,train/coronal/1066.npy,train/sagittal/1066.npy	abnormal
+train/axial/1067.npy,train/coronal/1067.npy,train/sagittal/1067.npy	abnormal
+train/axial/1069.npy,train/coronal/1069.npy,train/sagittal/1069.npy	abnormal
+train/axial/1073.npy,train/coronal/1073.npy,train/sagittal/1073.npy	abnormal
+train/axial/1075.npy,train/coronal/1075.npy,train/sagittal/1075.npy	abnormal
+train/axial/1084.npy,train/coronal/1084.npy,train/sagittal/1084.npy	abnormal
+train/axial/1087.npy,train/coronal/1087.npy,train/sagittal/1087.npy	abnormal
+train/axial/1089.npy,train/coronal/1089.npy,train/sagittal/1089.npy	abnormal
+train/axial/1091.npy,train/coronal/1091.npy,train/sagittal/1091.npy	abnormal
+train/axial/1092.npy,train/coronal/1092.npy,train/sagittal/1092.npy	abnormal
+train/axial/1094.npy,train/coronal/1094.npy,train/sagittal/1094.npy	abnormal
+train/axial/1095.npy,train/coronal/1095.npy,train/sagittal/1095.npy	abnormal
+train/axial/1097.npy,train/coronal/1097.npy,train/sagittal/1097.npy	abnormal
+train/axial/1098.npy,train/coronal/1098.npy,train/sagittal/1098.npy	abnormal
+train/axial/1099.npy,train/coronal/1099.npy,train/sagittal/1099.npy	abnormal
+train/axial/1103.npy,train/coronal/1103.npy,train/sagittal/1103.npy	abnormal
+train/axial/1104.npy,train/coronal/1104.npy,train/sagittal/1104.npy	abnormal
+train/axial/1106.npy,train/coronal/1106.npy,train/sagittal/1106.npy	abnormal
+train/axial/1109.npy,train/coronal/1109.npy,train/sagittal/1109.npy	abnormal
+train/axial/1113.npy,train/coronal/1113.npy,train/sagittal/1113.npy	abnormal
+train/axial/1114.npy,train/coronal/1114.npy,train/sagittal/1114.npy	abnormal
+train/axial/1118.npy,train/coronal/1118.npy,train/sagittal/1118.npy	abnormal
+train/axial/1121.npy,train/coronal/1121.npy,train/sagittal/1121.npy	abnormal
+train/axial/1122.npy,train/coronal/1122.npy,train/sagittal/1122.npy	abnormal
+train/axial/1124.npy,train/coronal/1124.npy,train/sagittal/1124.npy	abnormal
+train/axial/1128.npy,train/coronal/1128.npy,train/sagittal/1128.npy	abnormal
+train/axial/0003.npy,train/coronal/0003.npy,train/sagittal/0003.npy	abnormal,meniscus
+train/axial/0005.npy,train/coronal/0005.npy,train/sagittal/0005.npy	abnormal,meniscus
+train/axial/0010.npy,train/coronal/0010.npy,train/sagittal/0010.npy	abnormal,meniscus
+train/axial/0016.npy,train/coronal/0016.npy,train/sagittal/0016.npy	abnormal,meniscus
+train/axial/0019.npy,train/coronal/0019.npy,train/sagittal/0019.npy	abnormal,meniscus
+train/axial/0020.npy,train/coronal/0020.npy,train/sagittal/0020.npy	abnormal,meniscus
+train/axial/0022.npy,train/coronal/0022.npy,train/sagittal/0022.npy	abnormal,meniscus
+train/axial/0027.npy,train/coronal/0027.npy,train/sagittal/0027.npy	abnormal,meniscus
+train/axial/0028.npy,train/coronal/0028.npy,train/sagittal/0028.npy	abnormal,meniscus
+train/axial/0030.npy,train/coronal/0030.npy,train/sagittal/0030.npy	abnormal,meniscus
+train/axial/0032.npy,train/coronal/0032.npy,train/sagittal/0032.npy	abnormal,meniscus
+train/axial/0033.npy,train/coronal/0033.npy,train/sagittal/0033.npy	abnormal,meniscus
+train/axial/0035.npy,train/coronal/0035.npy,train/sagittal/0035.npy	abnormal,meniscus
+train/axial/0036.npy,train/coronal/0036.npy,train/sagittal/0036.npy	abnormal,meniscus
+train/axial/0039.npy,train/coronal/0039.npy,train/sagittal/0039.npy	abnormal,meniscus
+train/axial/0043.npy,train/coronal/0043.npy,train/sagittal/0043.npy	abnormal,meniscus
+train/axial/0045.npy,train/coronal/0045.npy,train/sagittal/0045.npy	abnormal,meniscus
+train/axial/0052.npy,train/coronal/0052.npy,train/sagittal/0052.npy	abnormal,meniscus
+train/axial/0054.npy,train/coronal/0054.npy,train/sagittal/0054.npy	abnormal,meniscus
+train/axial/0063.npy,train/coronal/0063.npy,train/sagittal/0063.npy	abnormal,meniscus
+train/axial/0070.npy,train/coronal/0070.npy,train/sagittal/0070.npy	abnormal,meniscus
+train/axial/0078.npy,train/coronal/0078.npy,train/sagittal/0078.npy	abnormal,meniscus
+train/axial/0079.npy,train/coronal/0079.npy,train/sagittal/0079.npy	abnormal,meniscus
+train/axial/0084.npy,train/coronal/0084.npy,train/sagittal/0084.npy	abnormal,meniscus
+train/axial/0089.npy,train/coronal/0089.npy,train/sagittal/0089.npy	abnormal,meniscus
+train/axial/0090.npy,train/coronal/0090.npy,train/sagittal/0090.npy	abnormal,meniscus
+train/axial/0091.npy,train/coronal/0091.npy,train/sagittal/0091.npy	abnormal,meniscus
+train/axial/0092.npy,train/coronal/0092.npy,train/sagittal/0092.npy	abnormal,meniscus
+train/axial/0094.npy,train/coronal/0094.npy,train/sagittal/0094.npy	abnormal,meniscus
+train/axial/0098.npy,train/coronal/0098.npy,train/sagittal/0098.npy	abnormal,meniscus
+train/axial/0108.npy,train/coronal/0108.npy,train/sagittal/0108.npy	abnormal,meniscus
+train/axial/0111.npy,train/coronal/0111.npy,train/sagittal/0111.npy	abnormal,meniscus
+train/axial/0116.npy,train/coronal/0116.npy,train/sagittal/0116.npy	abnormal,meniscus
+train/axial/0119.npy,train/coronal/0119.npy,train/sagittal/0119.npy	abnormal,meniscus
+train/axial/0125.npy,train/coronal/0125.npy,train/sagittal/0125.npy	abnormal,meniscus
+train/axial/0137.npy,train/coronal/0137.npy,train/sagittal/0137.npy	abnormal,meniscus
+train/axial/0142.npy,train/coronal/0142.npy,train/sagittal/0142.npy	abnormal,meniscus
+train/axial/0147.npy,train/coronal/0147.npy,train/sagittal/0147.npy	abnormal,meniscus
+train/axial/0152.npy,train/coronal/0152.npy,train/sagittal/0152.npy	abnormal,meniscus
+train/axial/0154.npy,train/coronal/0154.npy,train/sagittal/0154.npy	abnormal,meniscus
+train/axial/0155.npy,train/coronal/0155.npy,train/sagittal/0155.npy	abnormal,meniscus
+train/axial/0157.npy,train/coronal/0157.npy,train/sagittal/0157.npy	abnormal,meniscus
+train/axial/0162.npy,train/coronal/0162.npy,train/sagittal/0162.npy	abnormal,meniscus
+train/axial/0180.npy,train/coronal/0180.npy,train/sagittal/0180.npy	abnormal,meniscus
+train/axial/0183.npy,train/coronal/0183.npy,train/sagittal/0183.npy	abnormal,meniscus
+train/axial/0186.npy,train/coronal/0186.npy,train/sagittal/0186.npy	abnormal,meniscus
+train/axial/0194.npy,train/coronal/0194.npy,train/sagittal/0194.npy	abnormal,meniscus
+train/axial/0196.npy,train/coronal/0196.npy,train/sagittal/0196.npy	abnormal,meniscus
+train/axial/0203.npy,train/coronal/0203.npy,train/sagittal/0203.npy	abnormal,meniscus
+train/axial/0204.npy,train/coronal/0204.npy,train/sagittal/0204.npy	abnormal,meniscus
+train/axial/0220.npy,train/coronal/0220.npy,train/sagittal/0220.npy	abnormal,meniscus
+train/axial/0231.npy,train/coronal/0231.npy,train/sagittal/0231.npy	abnormal,meniscus
+train/axial/0234.npy,train/coronal/0234.npy,train/sagittal/0234.npy	abnormal,meniscus
+train/axial/0235.npy,train/coronal/0235.npy,train/sagittal/0235.npy	abnormal,meniscus
+train/axial/0240.npy,train/coronal/0240.npy,train/sagittal/0240.npy	abnormal,meniscus
+train/axial/0251.npy,train/coronal/0251.npy,train/sagittal/0251.npy	abnormal,meniscus
+train/axial/0260.npy,train/coronal/0260.npy,train/sagittal/0260.npy	abnormal,meniscus
+train/axial/0263.npy,train/coronal/0263.npy,train/sagittal/0263.npy	abnormal,meniscus
+train/axial/0277.npy,train/coronal/0277.npy,train/sagittal/0277.npy	abnormal,meniscus
+train/axial/0280.npy,train/coronal/0280.npy,train/sagittal/0280.npy	abnormal,meniscus
+train/axial/0281.npy,train/coronal/0281.npy,train/sagittal/0281.npy	abnormal,meniscus
+train/axial/0294.npy,train/coronal/0294.npy,train/sagittal/0294.npy	abnormal,meniscus
+train/axial/0326.npy,train/coronal/0326.npy,train/sagittal/0326.npy	abnormal,meniscus
+train/axial/0332.npy,train/coronal/0332.npy,train/sagittal/0332.npy	abnormal,meniscus
+train/axial/0333.npy,train/coronal/0333.npy,train/sagittal/0333.npy	abnormal,meniscus
+train/axial/0340.npy,train/coronal/0340.npy,train/sagittal/0340.npy	abnormal,meniscus
+train/axial/0343.npy,train/coronal/0343.npy,train/sagittal/0343.npy	abnormal,meniscus
+train/axial/0344.npy,train/coronal/0344.npy,train/sagittal/0344.npy	abnormal,meniscus
+train/axial/0347.npy,train/coronal/0347.npy,train/sagittal/0347.npy	abnormal,meniscus
+train/axial/0350.npy,train/coronal/0350.npy,train/sagittal/0350.npy	abnormal,meniscus
+train/axial/0360.npy,train/coronal/0360.npy,train/sagittal/0360.npy	abnormal,meniscus
+train/axial/0361.npy,train/coronal/0361.npy,train/sagittal/0361.npy	abnormal,meniscus
+train/axial/0370.npy,train/coronal/0370.npy,train/sagittal/0370.npy	abnormal,meniscus
+train/axial/0373.npy,train/coronal/0373.npy,train/sagittal/0373.npy	abnormal,meniscus
+train/axial/0378.npy,train/coronal/0378.npy,train/sagittal/0378.npy	abnormal,meniscus
+train/axial/0382.npy,train/coronal/0382.npy,train/sagittal/0382.npy	abnormal,meniscus
+train/axial/0383.npy,train/coronal/0383.npy,train/sagittal/0383.npy	abnormal,meniscus
+train/axial/0385.npy,train/coronal/0385.npy,train/sagittal/0385.npy	abnormal,meniscus
+train/axial/0386.npy,train/coronal/0386.npy,train/sagittal/0386.npy	abnormal,meniscus
+train/axial/0388.npy,train/coronal/0388.npy,train/sagittal/0388.npy	abnormal,meniscus
+train/axial/0397.npy,train/coronal/0397.npy,train/sagittal/0397.npy	abnormal,meniscus
+train/axial/0407.npy,train/coronal/0407.npy,train/sagittal/0407.npy	abnormal,meniscus
+train/axial/0408.npy,train/coronal/0408.npy,train/sagittal/0408.npy	abnormal,meniscus
+train/axial/0414.npy,train/coronal/0414.npy,train/sagittal/0414.npy	abnormal,meniscus
+train/axial/0416.npy,train/coronal/0416.npy,train/sagittal/0416.npy	abnormal,meniscus
+train/axial/0417.npy,train/coronal/0417.npy,train/sagittal/0417.npy	abnormal,meniscus
+train/axial/0419.npy,train/coronal/0419.npy,train/sagittal/0419.npy	abnormal,meniscus
+train/axial/0423.npy,train/coronal/0423.npy,train/sagittal/0423.npy	abnormal,meniscus
+train/axial/0426.npy,train/coronal/0426.npy,train/sagittal/0426.npy	abnormal,meniscus
+train/axial/0429.npy,train/coronal/0429.npy,train/sagittal/0429.npy	abnormal,meniscus
+train/axial/0431.npy,train/coronal/0431.npy,train/sagittal/0431.npy	abnormal,meniscus
+train/axial/0432.npy,train/coronal/0432.npy,train/sagittal/0432.npy	abnormal,meniscus
+train/axial/0433.npy,train/coronal/0433.npy,train/sagittal/0433.npy	abnormal,meniscus
+train/axial/0441.npy,train/coronal/0441.npy,train/sagittal/0441.npy	abnormal,meniscus
+train/axial/0444.npy,train/coronal/0444.npy,train/sagittal/0444.npy	abnormal,meniscus
+train/axial/0446.npy,train/coronal/0446.npy,train/sagittal/0446.npy	abnormal,meniscus
+train/axial/0452.npy,train/coronal/0452.npy,train/sagittal/0452.npy	abnormal,meniscus
+train/axial/0457.npy,train/coronal/0457.npy,train/sagittal/0457.npy	abnormal,meniscus
+train/axial/0463.npy,train/coronal/0463.npy,train/sagittal/0463.npy	abnormal,meniscus
+train/axial/0470.npy,train/coronal/0470.npy,train/sagittal/0470.npy	abnormal,meniscus
+train/axial/0474.npy,train/coronal/0474.npy,train/sagittal/0474.npy	abnormal,meniscus
+train/axial/0482.npy,train/coronal/0482.npy,train/sagittal/0482.npy	abnormal,meniscus
+train/axial/0487.npy,train/coronal/0487.npy,train/sagittal/0487.npy	abnormal,meniscus
+train/axial/0490.npy,train/coronal/0490.npy,train/sagittal/0490.npy	abnormal,meniscus
+train/axial/0500.npy,train/coronal/0500.npy,train/sagittal/0500.npy	abnormal,meniscus
+train/axial/0502.npy,train/coronal/0502.npy,train/sagittal/0502.npy	abnormal,meniscus
+train/axial/0507.npy,train/coronal/0507.npy,train/sagittal/0507.npy	abnormal,meniscus
+train/axial/0508.npy,train/coronal/0508.npy,train/sagittal/0508.npy	abnormal,meniscus
+train/axial/0511.npy,train/coronal/0511.npy,train/sagittal/0511.npy	abnormal,meniscus
+train/axial/0518.npy,train/coronal/0518.npy,train/sagittal/0518.npy	abnormal,meniscus
+train/axial/0524.npy,train/coronal/0524.npy,train/sagittal/0524.npy	abnormal,meniscus
+train/axial/0526.npy,train/coronal/0526.npy,train/sagittal/0526.npy	abnormal,meniscus
+train/axial/0530.npy,train/coronal/0530.npy,train/sagittal/0530.npy	abnormal,meniscus
+train/axial/0531.npy,train/coronal/0531.npy,train/sagittal/0531.npy	abnormal,meniscus
+train/axial/0535.npy,train/coronal/0535.npy,train/sagittal/0535.npy	abnormal,meniscus
+train/axial/0543.npy,train/coronal/0543.npy,train/sagittal/0543.npy	abnormal,meniscus
+train/axial/0544.npy,train/coronal/0544.npy,train/sagittal/0544.npy	abnormal,meniscus
+train/axial/0546.npy,train/coronal/0546.npy,train/sagittal/0546.npy	abnormal,meniscus
+train/axial/0547.npy,train/coronal/0547.npy,train/sagittal/0547.npy	abnormal,meniscus
+train/axial/0554.npy,train/coronal/0554.npy,train/sagittal/0554.npy	abnormal,meniscus
+train/axial/0561.npy,train/coronal/0561.npy,train/sagittal/0561.npy	abnormal,meniscus
+train/axial/0564.npy,train/coronal/0564.npy,train/sagittal/0564.npy	abnormal,meniscus
+train/axial/0569.npy,train/coronal/0569.npy,train/sagittal/0569.npy	abnormal,meniscus
+train/axial/0572.npy,train/coronal/0572.npy,train/sagittal/0572.npy	abnormal,meniscus
+train/axial/0573.npy,train/coronal/0573.npy,train/sagittal/0573.npy	abnormal,meniscus
+train/axial/0575.npy,train/coronal/0575.npy,train/sagittal/0575.npy	abnormal,meniscus
+train/axial/0577.npy,train/coronal/0577.npy,train/sagittal/0577.npy	abnormal,meniscus
+train/axial/0579.npy,train/coronal/0579.npy,train/sagittal/0579.npy	abnormal,meniscus
+train/axial/0581.npy,train/coronal/0581.npy,train/sagittal/0581.npy	abnormal,meniscus
+train/axial/0585.npy,train/coronal/0585.npy,train/sagittal/0585.npy	abnormal,meniscus
+train/axial/0586.npy,train/coronal/0586.npy,train/sagittal/0586.npy	abnormal,meniscus
+train/axial/0596.npy,train/coronal/0596.npy,train/sagittal/0596.npy	abnormal,meniscus
+train/axial/0601.npy,train/coronal/0601.npy,train/sagittal/0601.npy	abnormal,meniscus
+train/axial/0602.npy,train/coronal/0602.npy,train/sagittal/0602.npy	abnormal,meniscus
+train/axial/0604.npy,train/coronal/0604.npy,train/sagittal/0604.npy	abnormal,meniscus
+train/axial/0605.npy,train/coronal/0605.npy,train/sagittal/0605.npy	abnormal,meniscus
+train/axial/0617.npy,train/coronal/0617.npy,train/sagittal/0617.npy	abnormal,meniscus
+train/axial/0628.npy,train/coronal/0628.npy,train/sagittal/0628.npy	abnormal,meniscus
+train/axial/0629.npy,train/coronal/0629.npy,train/sagittal/0629.npy	abnormal,meniscus
+train/axial/0633.npy,train/coronal/0633.npy,train/sagittal/0633.npy	abnormal,meniscus
+train/axial/0635.npy,train/coronal/0635.npy,train/sagittal/0635.npy	abnormal,meniscus
+train/axial/0636.npy,train/coronal/0636.npy,train/sagittal/0636.npy	abnormal,meniscus
+train/axial/0646.npy,train/coronal/0646.npy,train/sagittal/0646.npy	abnormal,meniscus
+train/axial/0648.npy,train/coronal/0648.npy,train/sagittal/0648.npy	abnormal,meniscus
+train/axial/0649.npy,train/coronal/0649.npy,train/sagittal/0649.npy	abnormal,meniscus
+train/axial/0654.npy,train/coronal/0654.npy,train/sagittal/0654.npy	abnormal,meniscus
+train/axial/0655.npy,train/coronal/0655.npy,train/sagittal/0655.npy	abnormal,meniscus
+train/axial/0657.npy,train/coronal/0657.npy,train/sagittal/0657.npy	abnormal,meniscus
+train/axial/0661.npy,train/coronal/0661.npy,train/sagittal/0661.npy	abnormal,meniscus
+train/axial/0662.npy,train/coronal/0662.npy,train/sagittal/0662.npy	abnormal,meniscus
+train/axial/0666.npy,train/coronal/0666.npy,train/sagittal/0666.npy	abnormal,meniscus
+train/axial/0672.npy,train/coronal/0672.npy,train/sagittal/0672.npy	abnormal,meniscus
+train/axial/0677.npy,train/coronal/0677.npy,train/sagittal/0677.npy	abnormal,meniscus
+train/axial/0679.npy,train/coronal/0679.npy,train/sagittal/0679.npy	abnormal,meniscus
+train/axial/0680.npy,train/coronal/0680.npy,train/sagittal/0680.npy	abnormal,meniscus
+train/axial/0683.npy,train/coronal/0683.npy,train/sagittal/0683.npy	abnormal,meniscus
+train/axial/0691.npy,train/coronal/0691.npy,train/sagittal/0691.npy	abnormal,meniscus
+train/axial/0693.npy,train/coronal/0693.npy,train/sagittal/0693.npy	abnormal,meniscus
+train/axial/0698.npy,train/coronal/0698.npy,train/sagittal/0698.npy	abnormal,meniscus
+train/axial/0699.npy,train/coronal/0699.npy,train/sagittal/0699.npy	abnormal,meniscus
+train/axial/0707.npy,train/coronal/0707.npy,train/sagittal/0707.npy	abnormal,meniscus
+train/axial/0708.npy,train/coronal/0708.npy,train/sagittal/0708.npy	abnormal,meniscus
+train/axial/0716.npy,train/coronal/0716.npy,train/sagittal/0716.npy	abnormal,meniscus
+train/axial/0718.npy,train/coronal/0718.npy,train/sagittal/0718.npy	abnormal,meniscus
+train/axial/0720.npy,train/coronal/0720.npy,train/sagittal/0720.npy	abnormal,meniscus
+train/axial/0726.npy,train/coronal/0726.npy,train/sagittal/0726.npy	abnormal,meniscus
+train/axial/0736.npy,train/coronal/0736.npy,train/sagittal/0736.npy	abnormal,meniscus
+train/axial/0742.npy,train/coronal/0742.npy,train/sagittal/0742.npy	abnormal,meniscus
+train/axial/0749.npy,train/coronal/0749.npy,train/sagittal/0749.npy	abnormal,meniscus
+train/axial/0750.npy,train/coronal/0750.npy,train/sagittal/0750.npy	abnormal,meniscus
+train/axial/0751.npy,train/coronal/0751.npy,train/sagittal/0751.npy	abnormal,meniscus
+train/axial/0753.npy,train/coronal/0753.npy,train/sagittal/0753.npy	abnormal,meniscus
+train/axial/0760.npy,train/coronal/0760.npy,train/sagittal/0760.npy	abnormal,meniscus
+train/axial/0766.npy,train/coronal/0766.npy,train/sagittal/0766.npy	abnormal,meniscus
+train/axial/0768.npy,train/coronal/0768.npy,train/sagittal/0768.npy	abnormal,meniscus
+train/axial/0769.npy,train/coronal/0769.npy,train/sagittal/0769.npy	abnormal,meniscus
+train/axial/0775.npy,train/coronal/0775.npy,train/sagittal/0775.npy	abnormal,meniscus
+train/axial/0779.npy,train/coronal/0779.npy,train/sagittal/0779.npy	abnormal,meniscus
+train/axial/0784.npy,train/coronal/0784.npy,train/sagittal/0784.npy	abnormal,meniscus
+train/axial/0791.npy,train/coronal/0791.npy,train/sagittal/0791.npy	abnormal,meniscus
+train/axial/0817.npy,train/coronal/0817.npy,train/sagittal/0817.npy	abnormal,meniscus
+train/axial/0822.npy,train/coronal/0822.npy,train/sagittal/0822.npy	abnormal,meniscus
+train/axial/0830.npy,train/coronal/0830.npy,train/sagittal/0830.npy	abnormal,meniscus
+train/axial/0833.npy,train/coronal/0833.npy,train/sagittal/0833.npy	abnormal,meniscus
+train/axial/0835.npy,train/coronal/0835.npy,train/sagittal/0835.npy	abnormal,meniscus
+train/axial/0843.npy,train/coronal/0843.npy,train/sagittal/0843.npy	abnormal,meniscus
+train/axial/0847.npy,train/coronal/0847.npy,train/sagittal/0847.npy	abnormal,meniscus
+train/axial/0853.npy,train/coronal/0853.npy,train/sagittal/0853.npy	abnormal,meniscus
+train/axial/0854.npy,train/coronal/0854.npy,train/sagittal/0854.npy	abnormal,meniscus
+train/axial/0857.npy,train/coronal/0857.npy,train/sagittal/0857.npy	abnormal,meniscus
+train/axial/0862.npy,train/coronal/0862.npy,train/sagittal/0862.npy	abnormal,meniscus
+train/axial/0864.npy,train/coronal/0864.npy,train/sagittal/0864.npy	abnormal,meniscus
+train/axial/0884.npy,train/coronal/0884.npy,train/sagittal/0884.npy	abnormal,meniscus
+train/axial/0885.npy,train/coronal/0885.npy,train/sagittal/0885.npy	abnormal,meniscus
+train/axial/0887.npy,train/coronal/0887.npy,train/sagittal/0887.npy	abnormal,meniscus
+train/axial/0890.npy,train/coronal/0890.npy,train/sagittal/0890.npy	abnormal,meniscus
+train/axial/0891.npy,train/coronal/0891.npy,train/sagittal/0891.npy	abnormal,meniscus
+train/axial/0895.npy,train/coronal/0895.npy,train/sagittal/0895.npy	abnormal,meniscus
+train/axial/0897.npy,train/coronal/0897.npy,train/sagittal/0897.npy	abnormal,meniscus
+train/axial/0900.npy,train/coronal/0900.npy,train/sagittal/0900.npy	abnormal,meniscus
+train/axial/0902.npy,train/coronal/0902.npy,train/sagittal/0902.npy	abnormal,meniscus
+train/axial/0909.npy,train/coronal/0909.npy,train/sagittal/0909.npy	abnormal,meniscus
+train/axial/0910.npy,train/coronal/0910.npy,train/sagittal/0910.npy	abnormal,meniscus
+train/axial/0912.npy,train/coronal/0912.npy,train/sagittal/0912.npy	abnormal,meniscus
+train/axial/0914.npy,train/coronal/0914.npy,train/sagittal/0914.npy	abnormal,meniscus
+train/axial/0916.npy,train/coronal/0916.npy,train/sagittal/0916.npy	abnormal,meniscus
+train/axial/0919.npy,train/coronal/0919.npy,train/sagittal/0919.npy	abnormal,meniscus
+train/axial/0923.npy,train/coronal/0923.npy,train/sagittal/0923.npy	abnormal,meniscus
+train/axial/0931.npy,train/coronal/0931.npy,train/sagittal/0931.npy	abnormal,meniscus
+train/axial/0938.npy,train/coronal/0938.npy,train/sagittal/0938.npy	abnormal,meniscus
+train/axial/0941.npy,train/coronal/0941.npy,train/sagittal/0941.npy	abnormal,meniscus
+train/axial/0950.npy,train/coronal/0950.npy,train/sagittal/0950.npy	abnormal,meniscus
+train/axial/0955.npy,train/coronal/0955.npy,train/sagittal/0955.npy	abnormal,meniscus
+train/axial/0961.npy,train/coronal/0961.npy,train/sagittal/0961.npy	abnormal,meniscus
+train/axial/0963.npy,train/coronal/0963.npy,train/sagittal/0963.npy	abnormal,meniscus
+train/axial/0972.npy,train/coronal/0972.npy,train/sagittal/0972.npy	abnormal,meniscus
+train/axial/0982.npy,train/coronal/0982.npy,train/sagittal/0982.npy	abnormal,meniscus
+train/axial/0985.npy,train/coronal/0985.npy,train/sagittal/0985.npy	abnormal,meniscus
+train/axial/0993.npy,train/coronal/0993.npy,train/sagittal/0993.npy	abnormal,meniscus
+train/axial/0994.npy,train/coronal/0994.npy,train/sagittal/0994.npy	abnormal,meniscus
+train/axial/1010.npy,train/coronal/1010.npy,train/sagittal/1010.npy	abnormal,meniscus
+train/axial/1014.npy,train/coronal/1014.npy,train/sagittal/1014.npy	abnormal,meniscus
+train/axial/1026.npy,train/coronal/1026.npy,train/sagittal/1026.npy	abnormal,meniscus
+train/axial/1028.npy,train/coronal/1028.npy,train/sagittal/1028.npy	abnormal,meniscus
+train/axial/1031.npy,train/coronal/1031.npy,train/sagittal/1031.npy	abnormal,meniscus
+train/axial/1037.npy,train/coronal/1037.npy,train/sagittal/1037.npy	abnormal,meniscus
+train/axial/1038.npy,train/coronal/1038.npy,train/sagittal/1038.npy	abnormal,meniscus
+train/axial/1051.npy,train/coronal/1051.npy,train/sagittal/1051.npy	abnormal,meniscus
+train/axial/1053.npy,train/coronal/1053.npy,train/sagittal/1053.npy	abnormal,meniscus
+train/axial/1056.npy,train/coronal/1056.npy,train/sagittal/1056.npy	abnormal,meniscus
+train/axial/1065.npy,train/coronal/1065.npy,train/sagittal/1065.npy	abnormal,meniscus
+train/axial/1068.npy,train/coronal/1068.npy,train/sagittal/1068.npy	abnormal,meniscus
+train/axial/1077.npy,train/coronal/1077.npy,train/sagittal/1077.npy	abnormal,meniscus
+train/axial/1080.npy,train/coronal/1080.npy,train/sagittal/1080.npy	abnormal,meniscus
+train/axial/1083.npy,train/coronal/1083.npy,train/sagittal/1083.npy	abnormal,meniscus
+train/axial/1085.npy,train/coronal/1085.npy,train/sagittal/1085.npy	abnormal,meniscus
+train/axial/1100.npy,train/coronal/1100.npy,train/sagittal/1100.npy	abnormal,meniscus
+train/axial/1102.npy,train/coronal/1102.npy,train/sagittal/1102.npy	abnormal,meniscus
+train/axial/1105.npy,train/coronal/1105.npy,train/sagittal/1105.npy	abnormal,meniscus
+train/axial/1108.npy,train/coronal/1108.npy,train/sagittal/1108.npy	abnormal,meniscus
+train/axial/1110.npy,train/coronal/1110.npy,train/sagittal/1110.npy	abnormal,meniscus
+train/axial/1111.npy,train/coronal/1111.npy,train/sagittal/1111.npy	abnormal,meniscus
+train/axial/1116.npy,train/coronal/1116.npy,train/sagittal/1116.npy	abnormal,meniscus
+train/axial/1125.npy,train/coronal/1125.npy,train/sagittal/1125.npy	abnormal,meniscus
+train/axial/1126.npy,train/coronal/1126.npy,train/sagittal/1126.npy	abnormal,meniscus
+train/axial/0012.npy,train/coronal/0012.npy,train/sagittal/0012.npy	
+train/axial/0014.npy,train/coronal/0014.npy,train/sagittal/0014.npy	
+train/axial/0021.npy,train/coronal/0021.npy,train/sagittal/0021.npy	
+train/axial/0023.npy,train/coronal/0023.npy,train/sagittal/0023.npy	
+train/axial/0025.npy,train/coronal/0025.npy,train/sagittal/0025.npy	
+train/axial/0026.npy,train/coronal/0026.npy,train/sagittal/0026.npy	
+train/axial/0040.npy,train/coronal/0040.npy,train/sagittal/0040.npy	
+train/axial/0044.npy,train/coronal/0044.npy,train/sagittal/0044.npy	
+train/axial/0048.npy,train/coronal/0048.npy,train/sagittal/0048.npy	
+train/axial/0053.npy,train/coronal/0053.npy,train/sagittal/0053.npy	
+train/axial/0060.npy,train/coronal/0060.npy,train/sagittal/0060.npy	
+train/axial/0066.npy,train/coronal/0066.npy,train/sagittal/0066.npy	
+train/axial/0074.npy,train/coronal/0074.npy,train/sagittal/0074.npy	
+train/axial/0082.npy,train/coronal/0082.npy,train/sagittal/0082.npy	
+train/axial/0096.npy,train/coronal/0096.npy,train/sagittal/0096.npy	
+train/axial/0099.npy,train/coronal/0099.npy,train/sagittal/0099.npy	
+train/axial/0106.npy,train/coronal/0106.npy,train/sagittal/0106.npy	
+train/axial/0110.npy,train/coronal/0110.npy,train/sagittal/0110.npy	
+train/axial/0117.npy,train/coronal/0117.npy,train/sagittal/0117.npy	
+train/axial/0118.npy,train/coronal/0118.npy,train/sagittal/0118.npy	
+train/axial/0120.npy,train/coronal/0120.npy,train/sagittal/0120.npy	
+train/axial/0122.npy,train/coronal/0122.npy,train/sagittal/0122.npy	
+train/axial/0123.npy,train/coronal/0123.npy,train/sagittal/0123.npy	
+train/axial/0127.npy,train/coronal/0127.npy,train/sagittal/0127.npy	
+train/axial/0128.npy,train/coronal/0128.npy,train/sagittal/0128.npy	
+train/axial/0143.npy,train/coronal/0143.npy,train/sagittal/0143.npy	
+train/axial/0144.npy,train/coronal/0144.npy,train/sagittal/0144.npy	
+train/axial/0149.npy,train/coronal/0149.npy,train/sagittal/0149.npy	
+train/axial/0153.npy,train/coronal/0153.npy,train/sagittal/0153.npy	
+train/axial/0170.npy,train/coronal/0170.npy,train/sagittal/0170.npy	
+train/axial/0177.npy,train/coronal/0177.npy,train/sagittal/0177.npy	
+train/axial/0181.npy,train/coronal/0181.npy,train/sagittal/0181.npy	
+train/axial/0214.npy,train/coronal/0214.npy,train/sagittal/0214.npy	
+train/axial/0222.npy,train/coronal/0222.npy,train/sagittal/0222.npy	
+train/axial/0225.npy,train/coronal/0225.npy,train/sagittal/0225.npy	
+train/axial/0227.npy,train/coronal/0227.npy,train/sagittal/0227.npy	
+train/axial/0228.npy,train/coronal/0228.npy,train/sagittal/0228.npy	
+train/axial/0230.npy,train/coronal/0230.npy,train/sagittal/0230.npy	
+train/axial/0238.npy,train/coronal/0238.npy,train/sagittal/0238.npy	
+train/axial/0243.npy,train/coronal/0243.npy,train/sagittal/0243.npy	
+train/axial/0244.npy,train/coronal/0244.npy,train/sagittal/0244.npy	
+train/axial/0245.npy,train/coronal/0245.npy,train/sagittal/0245.npy	
+train/axial/0252.npy,train/coronal/0252.npy,train/sagittal/0252.npy	
+train/axial/0258.npy,train/coronal/0258.npy,train/sagittal/0258.npy	
+train/axial/0267.npy,train/coronal/0267.npy,train/sagittal/0267.npy	
+train/axial/0268.npy,train/coronal/0268.npy,train/sagittal/0268.npy	
+train/axial/0272.npy,train/coronal/0272.npy,train/sagittal/0272.npy	
+train/axial/0283.npy,train/coronal/0283.npy,train/sagittal/0283.npy	
+train/axial/0291.npy,train/coronal/0291.npy,train/sagittal/0291.npy	
+train/axial/0296.npy,train/coronal/0296.npy,train/sagittal/0296.npy	
+train/axial/0299.npy,train/coronal/0299.npy,train/sagittal/0299.npy	
+train/axial/0306.npy,train/coronal/0306.npy,train/sagittal/0306.npy	
+train/axial/0337.npy,train/coronal/0337.npy,train/sagittal/0337.npy	
+train/axial/0342.npy,train/coronal/0342.npy,train/sagittal/0342.npy	
+train/axial/0362.npy,train/coronal/0362.npy,train/sagittal/0362.npy	
+train/axial/0363.npy,train/coronal/0363.npy,train/sagittal/0363.npy	
+train/axial/0372.npy,train/coronal/0372.npy,train/sagittal/0372.npy	
+train/axial/0377.npy,train/coronal/0377.npy,train/sagittal/0377.npy	
+train/axial/0381.npy,train/coronal/0381.npy,train/sagittal/0381.npy	
+train/axial/0384.npy,train/coronal/0384.npy,train/sagittal/0384.npy	
+train/axial/0387.npy,train/coronal/0387.npy,train/sagittal/0387.npy	
+train/axial/0400.npy,train/coronal/0400.npy,train/sagittal/0400.npy	
+train/axial/0404.npy,train/coronal/0404.npy,train/sagittal/0404.npy	
+train/axial/0409.npy,train/coronal/0409.npy,train/sagittal/0409.npy	
+train/axial/0410.npy,train/coronal/0410.npy,train/sagittal/0410.npy	
+train/axial/0415.npy,train/coronal/0415.npy,train/sagittal/0415.npy	
+train/axial/0420.npy,train/coronal/0420.npy,train/sagittal/0420.npy	
+train/axial/0428.npy,train/coronal/0428.npy,train/sagittal/0428.npy	
+train/axial/0430.npy,train/coronal/0430.npy,train/sagittal/0430.npy	
+train/axial/0434.npy,train/coronal/0434.npy,train/sagittal/0434.npy	
+train/axial/0435.npy,train/coronal/0435.npy,train/sagittal/0435.npy	
+train/axial/0442.npy,train/coronal/0442.npy,train/sagittal/0442.npy	
+train/axial/0450.npy,train/coronal/0450.npy,train/sagittal/0450.npy	
+train/axial/0460.npy,train/coronal/0460.npy,train/sagittal/0460.npy	
+train/axial/0461.npy,train/coronal/0461.npy,train/sagittal/0461.npy	
+train/axial/0462.npy,train/coronal/0462.npy,train/sagittal/0462.npy	
+train/axial/0465.npy,train/coronal/0465.npy,train/sagittal/0465.npy	
+train/axial/0466.npy,train/coronal/0466.npy,train/sagittal/0466.npy	
+train/axial/0467.npy,train/coronal/0467.npy,train/sagittal/0467.npy	
+train/axial/0472.npy,train/coronal/0472.npy,train/sagittal/0472.npy	
+train/axial/0473.npy,train/coronal/0473.npy,train/sagittal/0473.npy	
+train/axial/0475.npy,train/coronal/0475.npy,train/sagittal/0475.npy	
+train/axial/0476.npy,train/coronal/0476.npy,train/sagittal/0476.npy	
+train/axial/0477.npy,train/coronal/0477.npy,train/sagittal/0477.npy	
+train/axial/0492.npy,train/coronal/0492.npy,train/sagittal/0492.npy	
+train/axial/0495.npy,train/coronal/0495.npy,train/sagittal/0495.npy	
+train/axial/0499.npy,train/coronal/0499.npy,train/sagittal/0499.npy	
+train/axial/0503.npy,train/coronal/0503.npy,train/sagittal/0503.npy	
+train/axial/0504.npy,train/coronal/0504.npy,train/sagittal/0504.npy	
+train/axial/0509.npy,train/coronal/0509.npy,train/sagittal/0509.npy	
+train/axial/0515.npy,train/coronal/0515.npy,train/sagittal/0515.npy	
+train/axial/0525.npy,train/coronal/0525.npy,train/sagittal/0525.npy	
+train/axial/0532.npy,train/coronal/0532.npy,train/sagittal/0532.npy	
+train/axial/0533.npy,train/coronal/0533.npy,train/sagittal/0533.npy	
+train/axial/0542.npy,train/coronal/0542.npy,train/sagittal/0542.npy	
+train/axial/0548.npy,train/coronal/0548.npy,train/sagittal/0548.npy	
+train/axial/0549.npy,train/coronal/0549.npy,train/sagittal/0549.npy	
+train/axial/0558.npy,train/coronal/0558.npy,train/sagittal/0558.npy	
+train/axial/0565.npy,train/coronal/0565.npy,train/sagittal/0565.npy	
+train/axial/0580.npy,train/coronal/0580.npy,train/sagittal/0580.npy	
+train/axial/0583.npy,train/coronal/0583.npy,train/sagittal/0583.npy	
+train/axial/0588.npy,train/coronal/0588.npy,train/sagittal/0588.npy	
+train/axial/0597.npy,train/coronal/0597.npy,train/sagittal/0597.npy	
+train/axial/0599.npy,train/coronal/0599.npy,train/sagittal/0599.npy	
+train/axial/0600.npy,train/coronal/0600.npy,train/sagittal/0600.npy	
+train/axial/0608.npy,train/coronal/0608.npy,train/sagittal/0608.npy	
+train/axial/0621.npy,train/coronal/0621.npy,train/sagittal/0621.npy	
+train/axial/0625.npy,train/coronal/0625.npy,train/sagittal/0625.npy	
+train/axial/0634.npy,train/coronal/0634.npy,train/sagittal/0634.npy	
+train/axial/0637.npy,train/coronal/0637.npy,train/sagittal/0637.npy	
+train/axial/0641.npy,train/coronal/0641.npy,train/sagittal/0641.npy	
+train/axial/0644.npy,train/coronal/0644.npy,train/sagittal/0644.npy	
+train/axial/0658.npy,train/coronal/0658.npy,train/sagittal/0658.npy	
+train/axial/0671.npy,train/coronal/0671.npy,train/sagittal/0671.npy	
+train/axial/0674.npy,train/coronal/0674.npy,train/sagittal/0674.npy	
+train/axial/0675.npy,train/coronal/0675.npy,train/sagittal/0675.npy	
+train/axial/0689.npy,train/coronal/0689.npy,train/sagittal/0689.npy	
+train/axial/0703.npy,train/coronal/0703.npy,train/sagittal/0703.npy	
+train/axial/0711.npy,train/coronal/0711.npy,train/sagittal/0711.npy	
+train/axial/0712.npy,train/coronal/0712.npy,train/sagittal/0712.npy	
+train/axial/0727.npy,train/coronal/0727.npy,train/sagittal/0727.npy	
+train/axial/0744.npy,train/coronal/0744.npy,train/sagittal/0744.npy	
+train/axial/0759.npy,train/coronal/0759.npy,train/sagittal/0759.npy	
+train/axial/0772.npy,train/coronal/0772.npy,train/sagittal/0772.npy	
+train/axial/0777.npy,train/coronal/0777.npy,train/sagittal/0777.npy	
+train/axial/0786.npy,train/coronal/0786.npy,train/sagittal/0786.npy	
+train/axial/0788.npy,train/coronal/0788.npy,train/sagittal/0788.npy	
+train/axial/0797.npy,train/coronal/0797.npy,train/sagittal/0797.npy	
+train/axial/0799.npy,train/coronal/0799.npy,train/sagittal/0799.npy	
+train/axial/0802.npy,train/coronal/0802.npy,train/sagittal/0802.npy	
+train/axial/0806.npy,train/coronal/0806.npy,train/sagittal/0806.npy	
+train/axial/0807.npy,train/coronal/0807.npy,train/sagittal/0807.npy	
+train/axial/0808.npy,train/coronal/0808.npy,train/sagittal/0808.npy	
+train/axial/0818.npy,train/coronal/0818.npy,train/sagittal/0818.npy	
+train/axial/0821.npy,train/coronal/0821.npy,train/sagittal/0821.npy	
+train/axial/0823.npy,train/coronal/0823.npy,train/sagittal/0823.npy	
+train/axial/0824.npy,train/coronal/0824.npy,train/sagittal/0824.npy	
+train/axial/0845.npy,train/coronal/0845.npy,train/sagittal/0845.npy	
+train/axial/0858.npy,train/coronal/0858.npy,train/sagittal/0858.npy	
+train/axial/0859.npy,train/coronal/0859.npy,train/sagittal/0859.npy	
+train/axial/0860.npy,train/coronal/0860.npy,train/sagittal/0860.npy	
+train/axial/0866.npy,train/coronal/0866.npy,train/sagittal/0866.npy	
+train/axial/0867.npy,train/coronal/0867.npy,train/sagittal/0867.npy	
+train/axial/0868.npy,train/coronal/0868.npy,train/sagittal/0868.npy	
+train/axial/0872.npy,train/coronal/0872.npy,train/sagittal/0872.npy	
+train/axial/0874.npy,train/coronal/0874.npy,train/sagittal/0874.npy	
+train/axial/0878.npy,train/coronal/0878.npy,train/sagittal/0878.npy	
+train/axial/0879.npy,train/coronal/0879.npy,train/sagittal/0879.npy	
+train/axial/0883.npy,train/coronal/0883.npy,train/sagittal/0883.npy	
+train/axial/0886.npy,train/coronal/0886.npy,train/sagittal/0886.npy	
+train/axial/0894.npy,train/coronal/0894.npy,train/sagittal/0894.npy	
+train/axial/0904.npy,train/coronal/0904.npy,train/sagittal/0904.npy	
+train/axial/0924.npy,train/coronal/0924.npy,train/sagittal/0924.npy	
+train/axial/0926.npy,train/coronal/0926.npy,train/sagittal/0926.npy	
+train/axial/0934.npy,train/coronal/0934.npy,train/sagittal/0934.npy	
+train/axial/0944.npy,train/coronal/0944.npy,train/sagittal/0944.npy	
+train/axial/0947.npy,train/coronal/0947.npy,train/sagittal/0947.npy	
+train/axial/0959.npy,train/coronal/0959.npy,train/sagittal/0959.npy	
+train/axial/0960.npy,train/coronal/0960.npy,train/sagittal/0960.npy	
+train/axial/0983.npy,train/coronal/0983.npy,train/sagittal/0983.npy	
+train/axial/0984.npy,train/coronal/0984.npy,train/sagittal/0984.npy	
+train/axial/0992.npy,train/coronal/0992.npy,train/sagittal/0992.npy	
+train/axial/0997.npy,train/coronal/0997.npy,train/sagittal/0997.npy	
+train/axial/0998.npy,train/coronal/0998.npy,train/sagittal/0998.npy	
+train/axial/1000.npy,train/coronal/1000.npy,train/sagittal/1000.npy	
+train/axial/1003.npy,train/coronal/1003.npy,train/sagittal/1003.npy	
+train/axial/1005.npy,train/coronal/1005.npy,train/sagittal/1005.npy	
+train/axial/1006.npy,train/coronal/1006.npy,train/sagittal/1006.npy	
+train/axial/1011.npy,train/coronal/1011.npy,train/sagittal/1011.npy	
+train/axial/1019.npy,train/coronal/1019.npy,train/sagittal/1019.npy	
+train/axial/1020.npy,train/coronal/1020.npy,train/sagittal/1020.npy	
+train/axial/1021.npy,train/coronal/1021.npy,train/sagittal/1021.npy	
+train/axial/1024.npy,train/coronal/1024.npy,train/sagittal/1024.npy	
+train/axial/1027.npy,train/coronal/1027.npy,train/sagittal/1027.npy	
+train/axial/1034.npy,train/coronal/1034.npy,train/sagittal/1034.npy	
+train/axial/1049.npy,train/coronal/1049.npy,train/sagittal/1049.npy	
+train/axial/1052.npy,train/coronal/1052.npy,train/sagittal/1052.npy	
+train/axial/1064.npy,train/coronal/1064.npy,train/sagittal/1064.npy	
+train/axial/1070.npy,train/coronal/1070.npy,train/sagittal/1070.npy	
+train/axial/1071.npy,train/coronal/1071.npy,train/sagittal/1071.npy	
+train/axial/1072.npy,train/coronal/1072.npy,train/sagittal/1072.npy	
+train/axial/1081.npy,train/coronal/1081.npy,train/sagittal/1081.npy	
+train/axial/1082.npy,train/coronal/1082.npy,train/sagittal/1082.npy	
+train/axial/1086.npy,train/coronal/1086.npy,train/sagittal/1086.npy	
+train/axial/1115.npy,train/coronal/1115.npy,train/sagittal/1115.npy	
+train/axial/1119.npy,train/coronal/1119.npy,train/sagittal/1119.npy	
+train/axial/1127.npy,train/coronal/1127.npy,train/sagittal/1127.npy	
+train/axial/0012.npy,train/coronal/0012.npy,train/sagittal/0012.npy	
+train/axial/0014.npy,train/coronal/0014.npy,train/sagittal/0014.npy	
+train/axial/0021.npy,train/coronal/0021.npy,train/sagittal/0021.npy	
+train/axial/0023.npy,train/coronal/0023.npy,train/sagittal/0023.npy	
+train/axial/0025.npy,train/coronal/0025.npy,train/sagittal/0025.npy	
+train/axial/0026.npy,train/coronal/0026.npy,train/sagittal/0026.npy	
+train/axial/0040.npy,train/coronal/0040.npy,train/sagittal/0040.npy	
+train/axial/0044.npy,train/coronal/0044.npy,train/sagittal/0044.npy	
+train/axial/0048.npy,train/coronal/0048.npy,train/sagittal/0048.npy	
+train/axial/0053.npy,train/coronal/0053.npy,train/sagittal/0053.npy	
+train/axial/0060.npy,train/coronal/0060.npy,train/sagittal/0060.npy	
+train/axial/0066.npy,train/coronal/0066.npy,train/sagittal/0066.npy	
+train/axial/0074.npy,train/coronal/0074.npy,train/sagittal/0074.npy	
+train/axial/0082.npy,train/coronal/0082.npy,train/sagittal/0082.npy	
+train/axial/0096.npy,train/coronal/0096.npy,train/sagittal/0096.npy	
+train/axial/0099.npy,train/coronal/0099.npy,train/sagittal/0099.npy	
+train/axial/0106.npy,train/coronal/0106.npy,train/sagittal/0106.npy	
+train/axial/0110.npy,train/coronal/0110.npy,train/sagittal/0110.npy	
+train/axial/0117.npy,train/coronal/0117.npy,train/sagittal/0117.npy	
+train/axial/0118.npy,train/coronal/0118.npy,train/sagittal/0118.npy	
+train/axial/0120.npy,train/coronal/0120.npy,train/sagittal/0120.npy	
+train/axial/0122.npy,train/coronal/0122.npy,train/sagittal/0122.npy	
+train/axial/0123.npy,train/coronal/0123.npy,train/sagittal/0123.npy	
+train/axial/0127.npy,train/coronal/0127.npy,train/sagittal/0127.npy	
+train/axial/0128.npy,train/coronal/0128.npy,train/sagittal/0128.npy	
+train/axial/0143.npy,train/coronal/0143.npy,train/sagittal/0143.npy	
+train/axial/0144.npy,train/coronal/0144.npy,train/sagittal/0144.npy	
+train/axial/0149.npy,train/coronal/0149.npy,train/sagittal/0149.npy	
+train/axial/0153.npy,train/coronal/0153.npy,train/sagittal/0153.npy	
+train/axial/0170.npy,train/coronal/0170.npy,train/sagittal/0170.npy	
+train/axial/0177.npy,train/coronal/0177.npy,train/sagittal/0177.npy	
+train/axial/0181.npy,train/coronal/0181.npy,train/sagittal/0181.npy	
+train/axial/0214.npy,train/coronal/0214.npy,train/sagittal/0214.npy	
+train/axial/0222.npy,train/coronal/0222.npy,train/sagittal/0222.npy	
+train/axial/0225.npy,train/coronal/0225.npy,train/sagittal/0225.npy	
+train/axial/0227.npy,train/coronal/0227.npy,train/sagittal/0227.npy	
+train/axial/0228.npy,train/coronal/0228.npy,train/sagittal/0228.npy	
+train/axial/0230.npy,train/coronal/0230.npy,train/sagittal/0230.npy	
+train/axial/0238.npy,train/coronal/0238.npy,train/sagittal/0238.npy	
+train/axial/0243.npy,train/coronal/0243.npy,train/sagittal/0243.npy	
+train/axial/0244.npy,train/coronal/0244.npy,train/sagittal/0244.npy	
+train/axial/0245.npy,train/coronal/0245.npy,train/sagittal/0245.npy	
+train/axial/0252.npy,train/coronal/0252.npy,train/sagittal/0252.npy	
+train/axial/0258.npy,train/coronal/0258.npy,train/sagittal/0258.npy	
+train/axial/0267.npy,train/coronal/0267.npy,train/sagittal/0267.npy	
+train/axial/0268.npy,train/coronal/0268.npy,train/sagittal/0268.npy	
+train/axial/0272.npy,train/coronal/0272.npy,train/sagittal/0272.npy	
+train/axial/0283.npy,train/coronal/0283.npy,train/sagittal/0283.npy	
+train/axial/0291.npy,train/coronal/0291.npy,train/sagittal/0291.npy	
+train/axial/0296.npy,train/coronal/0296.npy,train/sagittal/0296.npy	
+train/axial/0299.npy,train/coronal/0299.npy,train/sagittal/0299.npy	
+train/axial/0306.npy,train/coronal/0306.npy,train/sagittal/0306.npy	
+train/axial/0337.npy,train/coronal/0337.npy,train/sagittal/0337.npy	
+train/axial/0342.npy,train/coronal/0342.npy,train/sagittal/0342.npy	
+train/axial/0362.npy,train/coronal/0362.npy,train/sagittal/0362.npy	
+train/axial/0363.npy,train/coronal/0363.npy,train/sagittal/0363.npy	
+train/axial/0372.npy,train/coronal/0372.npy,train/sagittal/0372.npy	
+train/axial/0377.npy,train/coronal/0377.npy,train/sagittal/0377.npy	
+train/axial/0381.npy,train/coronal/0381.npy,train/sagittal/0381.npy	
+train/axial/0384.npy,train/coronal/0384.npy,train/sagittal/0384.npy	
+train/axial/0387.npy,train/coronal/0387.npy,train/sagittal/0387.npy	
+train/axial/0400.npy,train/coronal/0400.npy,train/sagittal/0400.npy	
+train/axial/0404.npy,train/coronal/0404.npy,train/sagittal/0404.npy	
+train/axial/0409.npy,train/coronal/0409.npy,train/sagittal/0409.npy	
+train/axial/0410.npy,train/coronal/0410.npy,train/sagittal/0410.npy	
+train/axial/0415.npy,train/coronal/0415.npy,train/sagittal/0415.npy	
+train/axial/0420.npy,train/coronal/0420.npy,train/sagittal/0420.npy	
+train/axial/0428.npy,train/coronal/0428.npy,train/sagittal/0428.npy	
+train/axial/0430.npy,train/coronal/0430.npy,train/sagittal/0430.npy	
+train/axial/0434.npy,train/coronal/0434.npy,train/sagittal/0434.npy	
+train/axial/0435.npy,train/coronal/0435.npy,train/sagittal/0435.npy	
+train/axial/0442.npy,train/coronal/0442.npy,train/sagittal/0442.npy	
+train/axial/0450.npy,train/coronal/0450.npy,train/sagittal/0450.npy	
+train/axial/0460.npy,train/coronal/0460.npy,train/sagittal/0460.npy	
+train/axial/0461.npy,train/coronal/0461.npy,train/sagittal/0461.npy	
+train/axial/0462.npy,train/coronal/0462.npy,train/sagittal/0462.npy	
+train/axial/0465.npy,train/coronal/0465.npy,train/sagittal/0465.npy	
+train/axial/0466.npy,train/coronal/0466.npy,train/sagittal/0466.npy	
+train/axial/0467.npy,train/coronal/0467.npy,train/sagittal/0467.npy	
+train/axial/0472.npy,train/coronal/0472.npy,train/sagittal/0472.npy	
+train/axial/0473.npy,train/coronal/0473.npy,train/sagittal/0473.npy	
+train/axial/0475.npy,train/coronal/0475.npy,train/sagittal/0475.npy	
+train/axial/0476.npy,train/coronal/0476.npy,train/sagittal/0476.npy	
+train/axial/0477.npy,train/coronal/0477.npy,train/sagittal/0477.npy	
+train/axial/0492.npy,train/coronal/0492.npy,train/sagittal/0492.npy	
+train/axial/0495.npy,train/coronal/0495.npy,train/sagittal/0495.npy	
+train/axial/0499.npy,train/coronal/0499.npy,train/sagittal/0499.npy	
+train/axial/0503.npy,train/coronal/0503.npy,train/sagittal/0503.npy	
+train/axial/0504.npy,train/coronal/0504.npy,train/sagittal/0504.npy	
+train/axial/0509.npy,train/coronal/0509.npy,train/sagittal/0509.npy	
+train/axial/0515.npy,train/coronal/0515.npy,train/sagittal/0515.npy	
+train/axial/0525.npy,train/coronal/0525.npy,train/sagittal/0525.npy	
+train/axial/0532.npy,train/coronal/0532.npy,train/sagittal/0532.npy	
+train/axial/0533.npy,train/coronal/0533.npy,train/sagittal/0533.npy	
+train/axial/0542.npy,train/coronal/0542.npy,train/sagittal/0542.npy	
+train/axial/0548.npy,train/coronal/0548.npy,train/sagittal/0548.npy	
+train/axial/0549.npy,train/coronal/0549.npy,train/sagittal/0549.npy	
+train/axial/0558.npy,train/coronal/0558.npy,train/sagittal/0558.npy	
+train/axial/0565.npy,train/coronal/0565.npy,train/sagittal/0565.npy	
+train/axial/0580.npy,train/coronal/0580.npy,train/sagittal/0580.npy	
+train/axial/0583.npy,train/coronal/0583.npy,train/sagittal/0583.npy	
+train/axial/0588.npy,train/coronal/0588.npy,train/sagittal/0588.npy	
+train/axial/0597.npy,train/coronal/0597.npy,train/sagittal/0597.npy	
+train/axial/0599.npy,train/coronal/0599.npy,train/sagittal/0599.npy	
+train/axial/0600.npy,train/coronal/0600.npy,train/sagittal/0600.npy	
+train/axial/0608.npy,train/coronal/0608.npy,train/sagittal/0608.npy	
+train/axial/0621.npy,train/coronal/0621.npy,train/sagittal/0621.npy	
+train/axial/0625.npy,train/coronal/0625.npy,train/sagittal/0625.npy	
+train/axial/0634.npy,train/coronal/0634.npy,train/sagittal/0634.npy	
+train/axial/0637.npy,train/coronal/0637.npy,train/sagittal/0637.npy	
+train/axial/0641.npy,train/coronal/0641.npy,train/sagittal/0641.npy	
+train/axial/0644.npy,train/coronal/0644.npy,train/sagittal/0644.npy	
+train/axial/0658.npy,train/coronal/0658.npy,train/sagittal/0658.npy	
+train/axial/0671.npy,train/coronal/0671.npy,train/sagittal/0671.npy	
+train/axial/0674.npy,train/coronal/0674.npy,train/sagittal/0674.npy	
+train/axial/0675.npy,train/coronal/0675.npy,train/sagittal/0675.npy	
+train/axial/0689.npy,train/coronal/0689.npy,train/sagittal/0689.npy	
+train/axial/0703.npy,train/coronal/0703.npy,train/sagittal/0703.npy	
+train/axial/0711.npy,train/coronal/0711.npy,train/sagittal/0711.npy	
+train/axial/0712.npy,train/coronal/0712.npy,train/sagittal/0712.npy	
+train/axial/0727.npy,train/coronal/0727.npy,train/sagittal/0727.npy	
+train/axial/0744.npy,train/coronal/0744.npy,train/sagittal/0744.npy	
+train/axial/0759.npy,train/coronal/0759.npy,train/sagittal/0759.npy	
+train/axial/0772.npy,train/coronal/0772.npy,train/sagittal/0772.npy	
+train/axial/0777.npy,train/coronal/0777.npy,train/sagittal/0777.npy	
+train/axial/0786.npy,train/coronal/0786.npy,train/sagittal/0786.npy	
+train/axial/0788.npy,train/coronal/0788.npy,train/sagittal/0788.npy	
+train/axial/0797.npy,train/coronal/0797.npy,train/sagittal/0797.npy	
+train/axial/0799.npy,train/coronal/0799.npy,train/sagittal/0799.npy	
+train/axial/0802.npy,train/coronal/0802.npy,train/sagittal/0802.npy	
+train/axial/0806.npy,train/coronal/0806.npy,train/sagittal/0806.npy	
+train/axial/0807.npy,train/coronal/0807.npy,train/sagittal/0807.npy	
+train/axial/0808.npy,train/coronal/0808.npy,train/sagittal/0808.npy	
+train/axial/0818.npy,train/coronal/0818.npy,train/sagittal/0818.npy	
+train/axial/0821.npy,train/coronal/0821.npy,train/sagittal/0821.npy	
+train/axial/0823.npy,train/coronal/0823.npy,train/sagittal/0823.npy	
+train/axial/0824.npy,train/coronal/0824.npy,train/sagittal/0824.npy	
+train/axial/0845.npy,train/coronal/0845.npy,train/sagittal/0845.npy	
+train/axial/0858.npy,train/coronal/0858.npy,train/sagittal/0858.npy	
+train/axial/0859.npy,train/coronal/0859.npy,train/sagittal/0859.npy	
+train/axial/0860.npy,train/coronal/0860.npy,train/sagittal/0860.npy	
+train/axial/0866.npy,train/coronal/0866.npy,train/sagittal/0866.npy	
+train/axial/0867.npy,train/coronal/0867.npy,train/sagittal/0867.npy	
+train/axial/0868.npy,train/coronal/0868.npy,train/sagittal/0868.npy	
+train/axial/0872.npy,train/coronal/0872.npy,train/sagittal/0872.npy	
+train/axial/0874.npy,train/coronal/0874.npy,train/sagittal/0874.npy	
+train/axial/0878.npy,train/coronal/0878.npy,train/sagittal/0878.npy	
+train/axial/0879.npy,train/coronal/0879.npy,train/sagittal/0879.npy	
+train/axial/0883.npy,train/coronal/0883.npy,train/sagittal/0883.npy	
+train/axial/0886.npy,train/coronal/0886.npy,train/sagittal/0886.npy	
+train/axial/0894.npy,train/coronal/0894.npy,train/sagittal/0894.npy	
+train/axial/0904.npy,train/coronal/0904.npy,train/sagittal/0904.npy	
+train/axial/0924.npy,train/coronal/0924.npy,train/sagittal/0924.npy	
+train/axial/0926.npy,train/coronal/0926.npy,train/sagittal/0926.npy	
+train/axial/0934.npy,train/coronal/0934.npy,train/sagittal/0934.npy	
+train/axial/0944.npy,train/coronal/0944.npy,train/sagittal/0944.npy	
+train/axial/0947.npy,train/coronal/0947.npy,train/sagittal/0947.npy	
+train/axial/0959.npy,train/coronal/0959.npy,train/sagittal/0959.npy	
+train/axial/0960.npy,train/coronal/0960.npy,train/sagittal/0960.npy	
+train/axial/0983.npy,train/coronal/0983.npy,train/sagittal/0983.npy	
+train/axial/0984.npy,train/coronal/0984.npy,train/sagittal/0984.npy	
+train/axial/0992.npy,train/coronal/0992.npy,train/sagittal/0992.npy	
+train/axial/0997.npy,train/coronal/0997.npy,train/sagittal/0997.npy	
+train/axial/0998.npy,train/coronal/0998.npy,train/sagittal/0998.npy	
+train/axial/1000.npy,train/coronal/1000.npy,train/sagittal/1000.npy	
+train/axial/1003.npy,train/coronal/1003.npy,train/sagittal/1003.npy	
+train/axial/1005.npy,train/coronal/1005.npy,train/sagittal/1005.npy	
+train/axial/1006.npy,train/coronal/1006.npy,train/sagittal/1006.npy	
+train/axial/1011.npy,train/coronal/1011.npy,train/sagittal/1011.npy	
+train/axial/1019.npy,train/coronal/1019.npy,train/sagittal/1019.npy	
+train/axial/1020.npy,train/coronal/1020.npy,train/sagittal/1020.npy	
+train/axial/1021.npy,train/coronal/1021.npy,train/sagittal/1021.npy	
+train/axial/1024.npy,train/coronal/1024.npy,train/sagittal/1024.npy	
+train/axial/1027.npy,train/coronal/1027.npy,train/sagittal/1027.npy	
+train/axial/1034.npy,train/coronal/1034.npy,train/sagittal/1034.npy	
+train/axial/1049.npy,train/coronal/1049.npy,train/sagittal/1049.npy	
+train/axial/1052.npy,train/coronal/1052.npy,train/sagittal/1052.npy	
+train/axial/1064.npy,train/coronal/1064.npy,train/sagittal/1064.npy	
+train/axial/1070.npy,train/coronal/1070.npy,train/sagittal/1070.npy	
+train/axial/1071.npy,train/coronal/1071.npy,train/sagittal/1071.npy	
+train/axial/1072.npy,train/coronal/1072.npy,train/sagittal/1072.npy	
+train/axial/1081.npy,train/coronal/1081.npy,train/sagittal/1081.npy	
+train/axial/1082.npy,train/coronal/1082.npy,train/sagittal/1082.npy	
+train/axial/1086.npy,train/coronal/1086.npy,train/sagittal/1086.npy	
+train/axial/1115.npy,train/coronal/1115.npy,train/sagittal/1115.npy	
+train/axial/1119.npy,train/coronal/1119.npy,train/sagittal/1119.npy	
+train/axial/1127.npy,train/coronal/1127.npy,train/sagittal/1127.npy	
+train/axial/0012.npy,train/coronal/0012.npy,train/sagittal/0012.npy	
+train/axial/0014.npy,train/coronal/0014.npy,train/sagittal/0014.npy	
+train/axial/0021.npy,train/coronal/0021.npy,train/sagittal/0021.npy	
+train/axial/0023.npy,train/coronal/0023.npy,train/sagittal/0023.npy	
+train/axial/0025.npy,train/coronal/0025.npy,train/sagittal/0025.npy	
+train/axial/0026.npy,train/coronal/0026.npy,train/sagittal/0026.npy	
+train/axial/0040.npy,train/coronal/0040.npy,train/sagittal/0040.npy	
+train/axial/0044.npy,train/coronal/0044.npy,train/sagittal/0044.npy	
+train/axial/0048.npy,train/coronal/0048.npy,train/sagittal/0048.npy	
+train/axial/0053.npy,train/coronal/0053.npy,train/sagittal/0053.npy	
+train/axial/0060.npy,train/coronal/0060.npy,train/sagittal/0060.npy	
+train/axial/0066.npy,train/coronal/0066.npy,train/sagittal/0066.npy	
+train/axial/0074.npy,train/coronal/0074.npy,train/sagittal/0074.npy	
+train/axial/0082.npy,train/coronal/0082.npy,train/sagittal/0082.npy	
+train/axial/0096.npy,train/coronal/0096.npy,train/sagittal/0096.npy	
+train/axial/0099.npy,train/coronal/0099.npy,train/sagittal/0099.npy	
+train/axial/0106.npy,train/coronal/0106.npy,train/sagittal/0106.npy	
+train/axial/0110.npy,train/coronal/0110.npy,train/sagittal/0110.npy	
+train/axial/0117.npy,train/coronal/0117.npy,train/sagittal/0117.npy	
+train/axial/0118.npy,train/coronal/0118.npy,train/sagittal/0118.npy	
+train/axial/0120.npy,train/coronal/0120.npy,train/sagittal/0120.npy	
+train/axial/0122.npy,train/coronal/0122.npy,train/sagittal/0122.npy	
+train/axial/0123.npy,train/coronal/0123.npy,train/sagittal/0123.npy	
+train/axial/0127.npy,train/coronal/0127.npy,train/sagittal/0127.npy	
+train/axial/0128.npy,train/coronal/0128.npy,train/sagittal/0128.npy	
+train/axial/0143.npy,train/coronal/0143.npy,train/sagittal/0143.npy	
+train/axial/0144.npy,train/coronal/0144.npy,train/sagittal/0144.npy	
+train/axial/0149.npy,train/coronal/0149.npy,train/sagittal/0149.npy	
+train/axial/0153.npy,train/coronal/0153.npy,train/sagittal/0153.npy	
+train/axial/0170.npy,train/coronal/0170.npy,train/sagittal/0170.npy	
+train/axial/0177.npy,train/coronal/0177.npy,train/sagittal/0177.npy	
+train/axial/0181.npy,train/coronal/0181.npy,train/sagittal/0181.npy	
+train/axial/0214.npy,train/coronal/0214.npy,train/sagittal/0214.npy	
+train/axial/0222.npy,train/coronal/0222.npy,train/sagittal/0222.npy	
+train/axial/0225.npy,train/coronal/0225.npy,train/sagittal/0225.npy	
+train/axial/0227.npy,train/coronal/0227.npy,train/sagittal/0227.npy	
+train/axial/0228.npy,train/coronal/0228.npy,train/sagittal/0228.npy	
+train/axial/0230.npy,train/coronal/0230.npy,train/sagittal/0230.npy	
+train/axial/0238.npy,train/coronal/0238.npy,train/sagittal/0238.npy	
+train/axial/0243.npy,train/coronal/0243.npy,train/sagittal/0243.npy	
+train/axial/0244.npy,train/coronal/0244.npy,train/sagittal/0244.npy	
+train/axial/0245.npy,train/coronal/0245.npy,train/sagittal/0245.npy	
+train/axial/0252.npy,train/coronal/0252.npy,train/sagittal/0252.npy	
+train/axial/0258.npy,train/coronal/0258.npy,train/sagittal/0258.npy	
+train/axial/0267.npy,train/coronal/0267.npy,train/sagittal/0267.npy	
+train/axial/0268.npy,train/coronal/0268.npy,train/sagittal/0268.npy	
+train/axial/0272.npy,train/coronal/0272.npy,train/sagittal/0272.npy	
+train/axial/0283.npy,train/coronal/0283.npy,train/sagittal/0283.npy	
+train/axial/0291.npy,train/coronal/0291.npy,train/sagittal/0291.npy	
+train/axial/0296.npy,train/coronal/0296.npy,train/sagittal/0296.npy	
+train/axial/0299.npy,train/coronal/0299.npy,train/sagittal/0299.npy	
+train/axial/0306.npy,train/coronal/0306.npy,train/sagittal/0306.npy	
+train/axial/0337.npy,train/coronal/0337.npy,train/sagittal/0337.npy	
+train/axial/0342.npy,train/coronal/0342.npy,train/sagittal/0342.npy	
+train/axial/0362.npy,train/coronal/0362.npy,train/sagittal/0362.npy	
+train/axial/0363.npy,train/coronal/0363.npy,train/sagittal/0363.npy	
+train/axial/0372.npy,train/coronal/0372.npy,train/sagittal/0372.npy	
+train/axial/0377.npy,train/coronal/0377.npy,train/sagittal/0377.npy	
+train/axial/0381.npy,train/coronal/0381.npy,train/sagittal/0381.npy	
+train/axial/0384.npy,train/coronal/0384.npy,train/sagittal/0384.npy	
+train/axial/0387.npy,train/coronal/0387.npy,train/sagittal/0387.npy	
+train/axial/0400.npy,train/coronal/0400.npy,train/sagittal/0400.npy	
+train/axial/0404.npy,train/coronal/0404.npy,train/sagittal/0404.npy	
+train/axial/0409.npy,train/coronal/0409.npy,train/sagittal/0409.npy	
+train/axial/0410.npy,train/coronal/0410.npy,train/sagittal/0410.npy	
+train/axial/0415.npy,train/coronal/0415.npy,train/sagittal/0415.npy	
+train/axial/0420.npy,train/coronal/0420.npy,train/sagittal/0420.npy	
+train/axial/0428.npy,train/coronal/0428.npy,train/sagittal/0428.npy	
+train/axial/0430.npy,train/coronal/0430.npy,train/sagittal/0430.npy	
+train/axial/0434.npy,train/coronal/0434.npy,train/sagittal/0434.npy	
+train/axial/0435.npy,train/coronal/0435.npy,train/sagittal/0435.npy	
+train/axial/0442.npy,train/coronal/0442.npy,train/sagittal/0442.npy	
+train/axial/0450.npy,train/coronal/0450.npy,train/sagittal/0450.npy	
+train/axial/0460.npy,train/coronal/0460.npy,train/sagittal/0460.npy	
+train/axial/0461.npy,train/coronal/0461.npy,train/sagittal/0461.npy	
+train/axial/0462.npy,train/coronal/0462.npy,train/sagittal/0462.npy	
+train/axial/0465.npy,train/coronal/0465.npy,train/sagittal/0465.npy	
+train/axial/0466.npy,train/coronal/0466.npy,train/sagittal/0466.npy	
+train/axial/0467.npy,train/coronal/0467.npy,train/sagittal/0467.npy	
+train/axial/0472.npy,train/coronal/0472.npy,train/sagittal/0472.npy	
+train/axial/0473.npy,train/coronal/0473.npy,train/sagittal/0473.npy	
+train/axial/0475.npy,train/coronal/0475.npy,train/sagittal/0475.npy	
+train/axial/0476.npy,train/coronal/0476.npy,train/sagittal/0476.npy	
+train/axial/0477.npy,train/coronal/0477.npy,train/sagittal/0477.npy	
+train/axial/0492.npy,train/coronal/0492.npy,train/sagittal/0492.npy	
+train/axial/0495.npy,train/coronal/0495.npy,train/sagittal/0495.npy	
+train/axial/0499.npy,train/coronal/0499.npy,train/sagittal/0499.npy	
+train/axial/0503.npy,train/coronal/0503.npy,train/sagittal/0503.npy	
+train/axial/0504.npy,train/coronal/0504.npy,train/sagittal/0504.npy	
+train/axial/0509.npy,train/coronal/0509.npy,train/sagittal/0509.npy	
+train/axial/0515.npy,train/coronal/0515.npy,train/sagittal/0515.npy	
+train/axial/0525.npy,train/coronal/0525.npy,train/sagittal/0525.npy	
+train/axial/0532.npy,train/coronal/0532.npy,train/sagittal/0532.npy	
+train/axial/0533.npy,train/coronal/0533.npy,train/sagittal/0533.npy	
+train/axial/0542.npy,train/coronal/0542.npy,train/sagittal/0542.npy	
+train/axial/0548.npy,train/coronal/0548.npy,train/sagittal/0548.npy	
+train/axial/0549.npy,train/coronal/0549.npy,train/sagittal/0549.npy	
+train/axial/0558.npy,train/coronal/0558.npy,train/sagittal/0558.npy	
+train/axial/0565.npy,train/coronal/0565.npy,train/sagittal/0565.npy	
+train/axial/0580.npy,train/coronal/0580.npy,train/sagittal/0580.npy	
+train/axial/0583.npy,train/coronal/0583.npy,train/sagittal/0583.npy	
+train/axial/0588.npy,train/coronal/0588.npy,train/sagittal/0588.npy	
+train/axial/0597.npy,train/coronal/0597.npy,train/sagittal/0597.npy	
+train/axial/0599.npy,train/coronal/0599.npy,train/sagittal/0599.npy	
+train/axial/0600.npy,train/coronal/0600.npy,train/sagittal/0600.npy	
+train/axial/0608.npy,train/coronal/0608.npy,train/sagittal/0608.npy	
+train/axial/0621.npy,train/coronal/0621.npy,train/sagittal/0621.npy	
+train/axial/0625.npy,train/coronal/0625.npy,train/sagittal/0625.npy	
+train/axial/0634.npy,train/coronal/0634.npy,train/sagittal/0634.npy	
+train/axial/0637.npy,train/coronal/0637.npy,train/sagittal/0637.npy	
+train/axial/0641.npy,train/coronal/0641.npy,train/sagittal/0641.npy	
+train/axial/0644.npy,train/coronal/0644.npy,train/sagittal/0644.npy	
+train/axial/0658.npy,train/coronal/0658.npy,train/sagittal/0658.npy	
+train/axial/0671.npy,train/coronal/0671.npy,train/sagittal/0671.npy	
+train/axial/0674.npy,train/coronal/0674.npy,train/sagittal/0674.npy	
+train/axial/0675.npy,train/coronal/0675.npy,train/sagittal/0675.npy	
+train/axial/0689.npy,train/coronal/0689.npy,train/sagittal/0689.npy	
+train/axial/0703.npy,train/coronal/0703.npy,train/sagittal/0703.npy	
+train/axial/0711.npy,train/coronal/0711.npy,train/sagittal/0711.npy	
+train/axial/0712.npy,train/coronal/0712.npy,train/sagittal/0712.npy	
+train/axial/0727.npy,train/coronal/0727.npy,train/sagittal/0727.npy	
+train/axial/0744.npy,train/coronal/0744.npy,train/sagittal/0744.npy	
+train/axial/0759.npy,train/coronal/0759.npy,train/sagittal/0759.npy	
+train/axial/0772.npy,train/coronal/0772.npy,train/sagittal/0772.npy	
+train/axial/0777.npy,train/coronal/0777.npy,train/sagittal/0777.npy	
+train/axial/0786.npy,train/coronal/0786.npy,train/sagittal/0786.npy	
+train/axial/0788.npy,train/coronal/0788.npy,train/sagittal/0788.npy	
+train/axial/0797.npy,train/coronal/0797.npy,train/sagittal/0797.npy	
+train/axial/0799.npy,train/coronal/0799.npy,train/sagittal/0799.npy	
+train/axial/0802.npy,train/coronal/0802.npy,train/sagittal/0802.npy	
+train/axial/0806.npy,train/coronal/0806.npy,train/sagittal/0806.npy	
+train/axial/0807.npy,train/coronal/0807.npy,train/sagittal/0807.npy	
+train/axial/0808.npy,train/coronal/0808.npy,train/sagittal/0808.npy	
+train/axial/0818.npy,train/coronal/0818.npy,train/sagittal/0818.npy	
+train/axial/0821.npy,train/coronal/0821.npy,train/sagittal/0821.npy	
+train/axial/0823.npy,train/coronal/0823.npy,train/sagittal/0823.npy	
+train/axial/0824.npy,train/coronal/0824.npy,train/sagittal/0824.npy	
+train/axial/0845.npy,train/coronal/0845.npy,train/sagittal/0845.npy	
+train/axial/0858.npy,train/coronal/0858.npy,train/sagittal/0858.npy	
+train/axial/0859.npy,train/coronal/0859.npy,train/sagittal/0859.npy	
+train/axial/0860.npy,train/coronal/0860.npy,train/sagittal/0860.npy	
+train/axial/0866.npy,train/coronal/0866.npy,train/sagittal/0866.npy	
+train/axial/0867.npy,train/coronal/0867.npy,train/sagittal/0867.npy	
+train/axial/0868.npy,train/coronal/0868.npy,train/sagittal/0868.npy	
+train/axial/0872.npy,train/coronal/0872.npy,train/sagittal/0872.npy	
+train/axial/0874.npy,train/coronal/0874.npy,train/sagittal/0874.npy	
+train/axial/0878.npy,train/coronal/0878.npy,train/sagittal/0878.npy	
+train/axial/0879.npy,train/coronal/0879.npy,train/sagittal/0879.npy	
+train/axial/0883.npy,train/coronal/0883.npy,train/sagittal/0883.npy	
+train/axial/0886.npy,train/coronal/0886.npy,train/sagittal/0886.npy	
+train/axial/0894.npy,train/coronal/0894.npy,train/sagittal/0894.npy	
+train/axial/0904.npy,train/coronal/0904.npy,train/sagittal/0904.npy	
+train/axial/0924.npy,train/coronal/0924.npy,train/sagittal/0924.npy	
+train/axial/0926.npy,train/coronal/0926.npy,train/sagittal/0926.npy	
+train/axial/0934.npy,train/coronal/0934.npy,train/sagittal/0934.npy	
+train/axial/0944.npy,train/coronal/0944.npy,train/sagittal/0944.npy	
+train/axial/0947.npy,train/coronal/0947.npy,train/sagittal/0947.npy	
+train/axial/0959.npy,train/coronal/0959.npy,train/sagittal/0959.npy	
+train/axial/0960.npy,train/coronal/0960.npy,train/sagittal/0960.npy	
+train/axial/0983.npy,train/coronal/0983.npy,train/sagittal/0983.npy	
+train/axial/0984.npy,train/coronal/0984.npy,train/sagittal/0984.npy	
+train/axial/0992.npy,train/coronal/0992.npy,train/sagittal/0992.npy	
+train/axial/0997.npy,train/coronal/0997.npy,train/sagittal/0997.npy	
+train/axial/0998.npy,train/coronal/0998.npy,train/sagittal/0998.npy	
+train/axial/1000.npy,train/coronal/1000.npy,train/sagittal/1000.npy	
+train/axial/1003.npy,train/coronal/1003.npy,train/sagittal/1003.npy	
+train/axial/1005.npy,train/coronal/1005.npy,train/sagittal/1005.npy	
+train/axial/1006.npy,train/coronal/1006.npy,train/sagittal/1006.npy	
+train/axial/1011.npy,train/coronal/1011.npy,train/sagittal/1011.npy	
+train/axial/1019.npy,train/coronal/1019.npy,train/sagittal/1019.npy	
+train/axial/1020.npy,train/coronal/1020.npy,train/sagittal/1020.npy	
+train/axial/1021.npy,train/coronal/1021.npy,train/sagittal/1021.npy	
+train/axial/1024.npy,train/coronal/1024.npy,train/sagittal/1024.npy	
+train/axial/1027.npy,train/coronal/1027.npy,train/sagittal/1027.npy	
+train/axial/1034.npy,train/coronal/1034.npy,train/sagittal/1034.npy	
+train/axial/1049.npy,train/coronal/1049.npy,train/sagittal/1049.npy	
+train/axial/1052.npy,train/coronal/1052.npy,train/sagittal/1052.npy	
+train/axial/1064.npy,train/coronal/1064.npy,train/sagittal/1064.npy	
+train/axial/1070.npy,train/coronal/1070.npy,train/sagittal/1070.npy	
+train/axial/1071.npy,train/coronal/1071.npy,train/sagittal/1071.npy	
+train/axial/1072.npy,train/coronal/1072.npy,train/sagittal/1072.npy	
+train/axial/1081.npy,train/coronal/1081.npy,train/sagittal/1081.npy	
+train/axial/1082.npy,train/coronal/1082.npy,train/sagittal/1082.npy	
+train/axial/1086.npy,train/coronal/1086.npy,train/sagittal/1086.npy	
+train/axial/1115.npy,train/coronal/1115.npy,train/sagittal/1115.npy	
+train/axial/1119.npy,train/coronal/1119.npy,train/sagittal/1119.npy	
+train/axial/1127.npy,train/coronal/1127.npy,train/sagittal/1127.npy	
+train/axial/0788.npy,train/coronal/0788.npy,train/sagittal/0788.npy	
+train/axial/0703.npy,train/coronal/0703.npy,train/sagittal/0703.npy	
+train/axial/0625.npy,train/coronal/0625.npy,train/sagittal/0625.npy	
+train/axial/0499.npy,train/coronal/0499.npy,train/sagittal/0499.npy	
+train/axial/0021.npy,train/coronal/0021.npy,train/sagittal/0021.npy	
+train/axial/1119.npy,train/coronal/1119.npy,train/sagittal/1119.npy	
+train/axial/1005.npy,train/coronal/1005.npy,train/sagittal/1005.npy	
+train/axial/0053.npy,train/coronal/0053.npy,train/sagittal/0053.npy	
+train/axial/0515.npy,train/coronal/0515.npy,train/sagittal/0515.npy	
+train/axial/0467.npy,train/coronal/0467.npy,train/sagittal/0467.npy	
+train/axial/0934.npy,train/coronal/0934.npy,train/sagittal/0934.npy	
+train/axial/0997.npy,train/coronal/0997.npy,train/sagittal/0997.npy	
+train/axial/0886.npy,train/coronal/0886.npy,train/sagittal/0886.npy	
+train/axial/0428.npy,train/coronal/0428.npy,train/sagittal/0428.npy	
+train/axial/0492.npy,train/coronal/0492.npy,train/sagittal/0492.npy	
+train/axial/0120.npy,train/coronal/0120.npy,train/sagittal/0120.npy	
+train/axial/0377.npy,train/coronal/0377.npy,train/sagittal/0377.npy	
+train/axial/0153.npy,train/coronal/0153.npy,train/sagittal/0153.npy	
+train/axial/1000.npy,train/coronal/1000.npy,train/sagittal/1000.npy	
+train/axial/1019.npy,train/coronal/1019.npy,train/sagittal/1019.npy	
+train/axial/0583.npy,train/coronal/0583.npy,train/sagittal/0583.npy	
+train/axial/0818.npy,train/coronal/0818.npy,train/sagittal/0818.npy	
+train/axial/0023.npy,train/coronal/0023.npy,train/sagittal/0023.npy	
+train/axial/0014.npy,train/coronal/0014.npy,train/sagittal/0014.npy	
+train/axial/0947.npy,train/coronal/0947.npy,train/sagittal/0947.npy	
+train/axial/1006.npy,train/coronal/1006.npy,train/sagittal/1006.npy	
+train/axial/0711.npy,train/coronal/0711.npy,train/sagittal/0711.npy	
+train/axial/0170.npy,train/coronal/0170.npy,train/sagittal/0170.npy	
+train/axial/0924.npy,train/coronal/0924.npy,train/sagittal/0924.npy	
+train/axial/0181.npy,train/coronal/0181.npy,train/sagittal/0181.npy	
+train/axial/0549.npy,train/coronal/0549.npy,train/sagittal/0549.npy	
+train/axial/0117.npy,train/coronal/0117.npy,train/sagittal/0117.npy	
+train/axial/0533.npy,train/coronal/0533.npy,train/sagittal/0533.npy	
+train/axial/1115.npy,train/coronal/1115.npy,train/sagittal/1115.npy	
+train/axial/0110.npy,train/coronal/0110.npy,train/sagittal/0110.npy	
+train/axial/0410.npy,train/coronal/0410.npy,train/sagittal/0410.npy	
+train/axial/1082.npy,train/coronal/1082.npy,train/sagittal/1082.npy	
+train/axial/0123.npy,train/coronal/0123.npy,train/sagittal/0123.npy	
+train/axial/1027.npy,train/coronal/1027.npy,train/sagittal/1027.npy	
+train/axial/0434.npy,train/coronal/0434.npy,train/sagittal/0434.npy	
+train/axial/0926.npy,train/coronal/0926.npy,train/sagittal/0926.npy	
+train/axial/0460.npy,train/coronal/0460.npy,train/sagittal/0460.npy	
+train/axial/0744.npy,train/coronal/0744.npy,train/sagittal/0744.npy	
+train/axial/0415.npy,train/coronal/0415.npy,train/sagittal/0415.npy	
+train/axial/0342.npy,train/coronal/0342.npy,train/sagittal/0342.npy	
+train/axial/0144.npy,train/coronal/0144.npy,train/sagittal/0144.npy	
+train/axial/0878.npy,train/coronal/0878.npy,train/sagittal/0878.npy	
+train/axial/0127.npy,train/coronal/0127.npy,train/sagittal/0127.npy	
+train/axial/0409.npy,train/coronal/0409.npy,train/sagittal/0409.npy	
+train/axial/0641.npy,train/coronal/0641.npy,train/sagittal/0641.npy	
+train/axial/0096.npy,train/coronal/0096.npy,train/sagittal/0096.npy	
+train/axial/0243.npy,train/coronal/0243.npy,train/sagittal/0243.npy	
+train/axial/0658.npy,train/coronal/0658.npy,train/sagittal/0658.npy	
+train/axial/0860.npy,train/coronal/0860.npy,train/sagittal/0860.npy	
+train/axial/0291.npy,train/coronal/0291.npy,train/sagittal/0291.npy	
+train/axial/0644.npy,train/coronal/0644.npy,train/sagittal/0644.npy	
+train/axial/0634.npy,train/coronal/0634.npy,train/sagittal/0634.npy	
+train/axial/0960.npy,train/coronal/0960.npy,train/sagittal/0960.npy	
+train/axial/0797.npy,train/coronal/0797.npy,train/sagittal/0797.npy	
+train/axial/0384.npy,train/coronal/0384.npy,train/sagittal/0384.npy	
+train/axial/0387.npy,train/coronal/0387.npy,train/sagittal/0387.npy	
+train/axial/0504.npy,train/coronal/0504.npy,train/sagittal/0504.npy	
+train/axial/0588.npy,train/coronal/0588.npy,train/sagittal/0588.npy	
+train/axial/0959.npy,train/coronal/0959.npy,train/sagittal/0959.npy	
+train/axial/0082.npy,train/coronal/0082.npy,train/sagittal/0082.npy	
+train/axial/0272.npy,train/coronal/0272.npy,train/sagittal/0272.npy	
+train/axial/0944.npy,train/coronal/0944.npy,train/sagittal/0944.npy	
+train/axial/0362.npy,train/coronal/0362.npy,train/sagittal/0362.npy	
+train/axial/1071.npy,train/coronal/1071.npy,train/sagittal/1071.npy	
+train/axial/0461.npy,train/coronal/0461.npy,train/sagittal/0461.npy	
+train/axial/0118.npy,train/coronal/0118.npy,train/sagittal/0118.npy	
+train/axial/0565.npy,train/coronal/0565.npy,train/sagittal/0565.npy	
+train/axial/0046.npy,train/coronal/0046.npy,train/sagittal/0046.npy	abnormal,acl
+train/axial/0062.npy,train/coronal/0062.npy,train/sagittal/0062.npy	abnormal,acl
+train/axial/0071.npy,train/coronal/0071.npy,train/sagittal/0071.npy	abnormal,acl
+train/axial/0087.npy,train/coronal/0087.npy,train/sagittal/0087.npy	abnormal,acl
+train/axial/0101.npy,train/coronal/0101.npy,train/sagittal/0101.npy	abnormal,acl
+train/axial/0112.npy,train/coronal/0112.npy,train/sagittal/0112.npy	abnormal,acl
+train/axial/0135.npy,train/coronal/0135.npy,train/sagittal/0135.npy	abnormal,acl
+train/axial/0158.npy,train/coronal/0158.npy,train/sagittal/0158.npy	abnormal,acl
+train/axial/0166.npy,train/coronal/0166.npy,train/sagittal/0166.npy	abnormal,acl
+train/axial/0185.npy,train/coronal/0185.npy,train/sagittal/0185.npy	abnormal,acl
+train/axial/0193.npy,train/coronal/0193.npy,train/sagittal/0193.npy	abnormal,acl
+train/axial/0201.npy,train/coronal/0201.npy,train/sagittal/0201.npy	abnormal,acl
+train/axial/0205.npy,train/coronal/0205.npy,train/sagittal/0205.npy	abnormal,acl
+train/axial/0255.npy,train/coronal/0255.npy,train/sagittal/0255.npy	abnormal,acl
+train/axial/0264.npy,train/coronal/0264.npy,train/sagittal/0264.npy	abnormal,acl
+train/axial/0266.npy,train/coronal/0266.npy,train/sagittal/0266.npy	abnormal,acl
+train/axial/0275.npy,train/coronal/0275.npy,train/sagittal/0275.npy	abnormal,acl
+train/axial/0282.npy,train/coronal/0282.npy,train/sagittal/0282.npy	abnormal,acl
+train/axial/0286.npy,train/coronal/0286.npy,train/sagittal/0286.npy	abnormal,acl
+train/axial/0308.npy,train/coronal/0308.npy,train/sagittal/0308.npy	abnormal,acl
+train/axial/0309.npy,train/coronal/0309.npy,train/sagittal/0309.npy	abnormal,acl
+train/axial/0310.npy,train/coronal/0310.npy,train/sagittal/0310.npy	abnormal,acl
+train/axial/0317.npy,train/coronal/0317.npy,train/sagittal/0317.npy	abnormal,acl
+train/axial/0322.npy,train/coronal/0322.npy,train/sagittal/0322.npy	abnormal,acl
+train/axial/0366.npy,train/coronal/0366.npy,train/sagittal/0366.npy	abnormal,acl
+train/axial/0390.npy,train/coronal/0390.npy,train/sagittal/0390.npy	abnormal,acl
+train/axial/0427.npy,train/coronal/0427.npy,train/sagittal/0427.npy	abnormal,acl
+train/axial/0438.npy,train/coronal/0438.npy,train/sagittal/0438.npy	abnormal,acl
+train/axial/0448.npy,train/coronal/0448.npy,train/sagittal/0448.npy	abnormal,acl
+train/axial/0471.npy,train/coronal/0471.npy,train/sagittal/0471.npy	abnormal,acl
+train/axial/0486.npy,train/coronal/0486.npy,train/sagittal/0486.npy	abnormal,acl
+train/axial/0513.npy,train/coronal/0513.npy,train/sagittal/0513.npy	abnormal,acl
+train/axial/0520.npy,train/coronal/0520.npy,train/sagittal/0520.npy	abnormal,acl
+train/axial/0521.npy,train/coronal/0521.npy,train/sagittal/0521.npy	abnormal,acl
+train/axial/0527.npy,train/coronal/0527.npy,train/sagittal/0527.npy	abnormal,acl
+train/axial/0539.npy,train/coronal/0539.npy,train/sagittal/0539.npy	abnormal,acl
+train/axial/0555.npy,train/coronal/0555.npy,train/sagittal/0555.npy	abnormal,acl
+train/axial/0559.npy,train/coronal/0559.npy,train/sagittal/0559.npy	abnormal,acl
+train/axial/0598.npy,train/coronal/0598.npy,train/sagittal/0598.npy	abnormal,acl
+train/axial/0640.npy,train/coronal/0640.npy,train/sagittal/0640.npy	abnormal,acl
+train/axial/0651.npy,train/coronal/0651.npy,train/sagittal/0651.npy	abnormal,acl
+train/axial/0653.npy,train/coronal/0653.npy,train/sagittal/0653.npy	abnormal,acl
+train/axial/0676.npy,train/coronal/0676.npy,train/sagittal/0676.npy	abnormal,acl
+train/axial/0684.npy,train/coronal/0684.npy,train/sagittal/0684.npy	abnormal,acl
+train/axial/0697.npy,train/coronal/0697.npy,train/sagittal/0697.npy	abnormal,acl
+train/axial/0710.npy,train/coronal/0710.npy,train/sagittal/0710.npy	abnormal,acl
+train/axial/0722.npy,train/coronal/0722.npy,train/sagittal/0722.npy	abnormal,acl
+train/axial/0729.npy,train/coronal/0729.npy,train/sagittal/0729.npy	abnormal,acl
+train/axial/0735.npy,train/coronal/0735.npy,train/sagittal/0735.npy	abnormal,acl
+train/axial/0745.npy,train/coronal/0745.npy,train/sagittal/0745.npy	abnormal,acl
+train/axial/0763.npy,train/coronal/0763.npy,train/sagittal/0763.npy	abnormal,acl
+train/axial/0781.npy,train/coronal/0781.npy,train/sagittal/0781.npy	abnormal,acl
+train/axial/0789.npy,train/coronal/0789.npy,train/sagittal/0789.npy	abnormal,acl
+train/axial/0792.npy,train/coronal/0792.npy,train/sagittal/0792.npy	abnormal,acl
+train/axial/0801.npy,train/coronal/0801.npy,train/sagittal/0801.npy	abnormal,acl
+train/axial/0814.npy,train/coronal/0814.npy,train/sagittal/0814.npy	abnormal,acl
+train/axial/0819.npy,train/coronal/0819.npy,train/sagittal/0819.npy	abnormal,acl
+train/axial/0850.npy,train/coronal/0850.npy,train/sagittal/0850.npy	abnormal,acl
+train/axial/0869.npy,train/coronal/0869.npy,train/sagittal/0869.npy	abnormal,acl
+train/axial/0882.npy,train/coronal/0882.npy,train/sagittal/0882.npy	abnormal,acl
+train/axial/0911.npy,train/coronal/0911.npy,train/sagittal/0911.npy	abnormal,acl
+train/axial/0917.npy,train/coronal/0917.npy,train/sagittal/0917.npy	abnormal,acl
+train/axial/0921.npy,train/coronal/0921.npy,train/sagittal/0921.npy	abnormal,acl
+train/axial/0928.npy,train/coronal/0928.npy,train/sagittal/0928.npy	abnormal,acl
+train/axial/0933.npy,train/coronal/0933.npy,train/sagittal/0933.npy	abnormal,acl
+train/axial/0936.npy,train/coronal/0936.npy,train/sagittal/0936.npy	abnormal,acl
+train/axial/0949.npy,train/coronal/0949.npy,train/sagittal/0949.npy	abnormal,acl
+train/axial/0957.npy,train/coronal/0957.npy,train/sagittal/0957.npy	abnormal,acl
+train/axial/1009.npy,train/coronal/1009.npy,train/sagittal/1009.npy	abnormal,acl
+train/axial/1054.npy,train/coronal/1054.npy,train/sagittal/1054.npy	abnormal,acl
+train/axial/1060.npy,train/coronal/1060.npy,train/sagittal/1060.npy	abnormal,acl
+train/axial/1079.npy,train/coronal/1079.npy,train/sagittal/1079.npy	abnormal,acl
+train/axial/1129.npy,train/coronal/1129.npy,train/sagittal/1129.npy	abnormal,acl
+train/axial/0046.npy,train/coronal/0046.npy,train/sagittal/0046.npy	abnormal,acl
+train/axial/0062.npy,train/coronal/0062.npy,train/sagittal/0062.npy	abnormal,acl
+train/axial/0071.npy,train/coronal/0071.npy,train/sagittal/0071.npy	abnormal,acl
+train/axial/0087.npy,train/coronal/0087.npy,train/sagittal/0087.npy	abnormal,acl
+train/axial/0101.npy,train/coronal/0101.npy,train/sagittal/0101.npy	abnormal,acl
+train/axial/0112.npy,train/coronal/0112.npy,train/sagittal/0112.npy	abnormal,acl
+train/axial/0135.npy,train/coronal/0135.npy,train/sagittal/0135.npy	abnormal,acl
+train/axial/0158.npy,train/coronal/0158.npy,train/sagittal/0158.npy	abnormal,acl
+train/axial/0166.npy,train/coronal/0166.npy,train/sagittal/0166.npy	abnormal,acl
+train/axial/0185.npy,train/coronal/0185.npy,train/sagittal/0185.npy	abnormal,acl
+train/axial/0193.npy,train/coronal/0193.npy,train/sagittal/0193.npy	abnormal,acl
+train/axial/0201.npy,train/coronal/0201.npy,train/sagittal/0201.npy	abnormal,acl
+train/axial/0205.npy,train/coronal/0205.npy,train/sagittal/0205.npy	abnormal,acl
+train/axial/0255.npy,train/coronal/0255.npy,train/sagittal/0255.npy	abnormal,acl
+train/axial/0264.npy,train/coronal/0264.npy,train/sagittal/0264.npy	abnormal,acl
+train/axial/0266.npy,train/coronal/0266.npy,train/sagittal/0266.npy	abnormal,acl
+train/axial/0275.npy,train/coronal/0275.npy,train/sagittal/0275.npy	abnormal,acl
+train/axial/0282.npy,train/coronal/0282.npy,train/sagittal/0282.npy	abnormal,acl
+train/axial/0286.npy,train/coronal/0286.npy,train/sagittal/0286.npy	abnormal,acl
+train/axial/0308.npy,train/coronal/0308.npy,train/sagittal/0308.npy	abnormal,acl
+train/axial/0309.npy,train/coronal/0309.npy,train/sagittal/0309.npy	abnormal,acl
+train/axial/0310.npy,train/coronal/0310.npy,train/sagittal/0310.npy	abnormal,acl
+train/axial/0317.npy,train/coronal/0317.npy,train/sagittal/0317.npy	abnormal,acl
+train/axial/0322.npy,train/coronal/0322.npy,train/sagittal/0322.npy	abnormal,acl
+train/axial/0366.npy,train/coronal/0366.npy,train/sagittal/0366.npy	abnormal,acl
+train/axial/0390.npy,train/coronal/0390.npy,train/sagittal/0390.npy	abnormal,acl
+train/axial/0427.npy,train/coronal/0427.npy,train/sagittal/0427.npy	abnormal,acl
+train/axial/0438.npy,train/coronal/0438.npy,train/sagittal/0438.npy	abnormal,acl
+train/axial/0448.npy,train/coronal/0448.npy,train/sagittal/0448.npy	abnormal,acl
+train/axial/0471.npy,train/coronal/0471.npy,train/sagittal/0471.npy	abnormal,acl
+train/axial/0486.npy,train/coronal/0486.npy,train/sagittal/0486.npy	abnormal,acl
+train/axial/0513.npy,train/coronal/0513.npy,train/sagittal/0513.npy	abnormal,acl
+train/axial/0520.npy,train/coronal/0520.npy,train/sagittal/0520.npy	abnormal,acl
+train/axial/0521.npy,train/coronal/0521.npy,train/sagittal/0521.npy	abnormal,acl
+train/axial/0527.npy,train/coronal/0527.npy,train/sagittal/0527.npy	abnormal,acl
+train/axial/0539.npy,train/coronal/0539.npy,train/sagittal/0539.npy	abnormal,acl
+train/axial/0555.npy,train/coronal/0555.npy,train/sagittal/0555.npy	abnormal,acl
+train/axial/0559.npy,train/coronal/0559.npy,train/sagittal/0559.npy	abnormal,acl
+train/axial/0598.npy,train/coronal/0598.npy,train/sagittal/0598.npy	abnormal,acl
+train/axial/0640.npy,train/coronal/0640.npy,train/sagittal/0640.npy	abnormal,acl
+train/axial/0651.npy,train/coronal/0651.npy,train/sagittal/0651.npy	abnormal,acl
+train/axial/0653.npy,train/coronal/0653.npy,train/sagittal/0653.npy	abnormal,acl
+train/axial/0676.npy,train/coronal/0676.npy,train/sagittal/0676.npy	abnormal,acl
+train/axial/0684.npy,train/coronal/0684.npy,train/sagittal/0684.npy	abnormal,acl
+train/axial/0697.npy,train/coronal/0697.npy,train/sagittal/0697.npy	abnormal,acl
+train/axial/0710.npy,train/coronal/0710.npy,train/sagittal/0710.npy	abnormal,acl
+train/axial/0722.npy,train/coronal/0722.npy,train/sagittal/0722.npy	abnormal,acl
+train/axial/0729.npy,train/coronal/0729.npy,train/sagittal/0729.npy	abnormal,acl
+train/axial/0735.npy,train/coronal/0735.npy,train/sagittal/0735.npy	abnormal,acl
+train/axial/0745.npy,train/coronal/0745.npy,train/sagittal/0745.npy	abnormal,acl
+train/axial/0763.npy,train/coronal/0763.npy,train/sagittal/0763.npy	abnormal,acl
+train/axial/0781.npy,train/coronal/0781.npy,train/sagittal/0781.npy	abnormal,acl
+train/axial/0789.npy,train/coronal/0789.npy,train/sagittal/0789.npy	abnormal,acl
+train/axial/0792.npy,train/coronal/0792.npy,train/sagittal/0792.npy	abnormal,acl
+train/axial/0801.npy,train/coronal/0801.npy,train/sagittal/0801.npy	abnormal,acl
+train/axial/0814.npy,train/coronal/0814.npy,train/sagittal/0814.npy	abnormal,acl
+train/axial/0819.npy,train/coronal/0819.npy,train/sagittal/0819.npy	abnormal,acl
+train/axial/0850.npy,train/coronal/0850.npy,train/sagittal/0850.npy	abnormal,acl
+train/axial/0869.npy,train/coronal/0869.npy,train/sagittal/0869.npy	abnormal,acl
+train/axial/0882.npy,train/coronal/0882.npy,train/sagittal/0882.npy	abnormal,acl
+train/axial/0911.npy,train/coronal/0911.npy,train/sagittal/0911.npy	abnormal,acl
+train/axial/0917.npy,train/coronal/0917.npy,train/sagittal/0917.npy	abnormal,acl
+train/axial/0921.npy,train/coronal/0921.npy,train/sagittal/0921.npy	abnormal,acl
+train/axial/0928.npy,train/coronal/0928.npy,train/sagittal/0928.npy	abnormal,acl
+train/axial/0933.npy,train/coronal/0933.npy,train/sagittal/0933.npy	abnormal,acl
+train/axial/0936.npy,train/coronal/0936.npy,train/sagittal/0936.npy	abnormal,acl
+train/axial/0949.npy,train/coronal/0949.npy,train/sagittal/0949.npy	abnormal,acl
+train/axial/0957.npy,train/coronal/0957.npy,train/sagittal/0957.npy	abnormal,acl
+train/axial/1009.npy,train/coronal/1009.npy,train/sagittal/1009.npy	abnormal,acl
+train/axial/1054.npy,train/coronal/1054.npy,train/sagittal/1054.npy	abnormal,acl
+train/axial/1060.npy,train/coronal/1060.npy,train/sagittal/1060.npy	abnormal,acl
+train/axial/1079.npy,train/coronal/1079.npy,train/sagittal/1079.npy	abnormal,acl
+train/axial/1129.npy,train/coronal/1129.npy,train/sagittal/1129.npy	abnormal,acl
+train/axial/0046.npy,train/coronal/0046.npy,train/sagittal/0046.npy	abnormal,acl
+train/axial/0062.npy,train/coronal/0062.npy,train/sagittal/0062.npy	abnormal,acl
+train/axial/0071.npy,train/coronal/0071.npy,train/sagittal/0071.npy	abnormal,acl
+train/axial/0087.npy,train/coronal/0087.npy,train/sagittal/0087.npy	abnormal,acl
+train/axial/0101.npy,train/coronal/0101.npy,train/sagittal/0101.npy	abnormal,acl
+train/axial/0112.npy,train/coronal/0112.npy,train/sagittal/0112.npy	abnormal,acl
+train/axial/0135.npy,train/coronal/0135.npy,train/sagittal/0135.npy	abnormal,acl
+train/axial/0158.npy,train/coronal/0158.npy,train/sagittal/0158.npy	abnormal,acl
+train/axial/0166.npy,train/coronal/0166.npy,train/sagittal/0166.npy	abnormal,acl
+train/axial/0185.npy,train/coronal/0185.npy,train/sagittal/0185.npy	abnormal,acl
+train/axial/0193.npy,train/coronal/0193.npy,train/sagittal/0193.npy	abnormal,acl
+train/axial/0201.npy,train/coronal/0201.npy,train/sagittal/0201.npy	abnormal,acl
+train/axial/0205.npy,train/coronal/0205.npy,train/sagittal/0205.npy	abnormal,acl
+train/axial/0255.npy,train/coronal/0255.npy,train/sagittal/0255.npy	abnormal,acl
+train/axial/0264.npy,train/coronal/0264.npy,train/sagittal/0264.npy	abnormal,acl
+train/axial/0266.npy,train/coronal/0266.npy,train/sagittal/0266.npy	abnormal,acl
+train/axial/0275.npy,train/coronal/0275.npy,train/sagittal/0275.npy	abnormal,acl
+train/axial/0282.npy,train/coronal/0282.npy,train/sagittal/0282.npy	abnormal,acl
+train/axial/0286.npy,train/coronal/0286.npy,train/sagittal/0286.npy	abnormal,acl
+train/axial/0308.npy,train/coronal/0308.npy,train/sagittal/0308.npy	abnormal,acl
+train/axial/0309.npy,train/coronal/0309.npy,train/sagittal/0309.npy	abnormal,acl
+train/axial/0310.npy,train/coronal/0310.npy,train/sagittal/0310.npy	abnormal,acl
+train/axial/0317.npy,train/coronal/0317.npy,train/sagittal/0317.npy	abnormal,acl
+train/axial/0322.npy,train/coronal/0322.npy,train/sagittal/0322.npy	abnormal,acl
+train/axial/0366.npy,train/coronal/0366.npy,train/sagittal/0366.npy	abnormal,acl
+train/axial/0390.npy,train/coronal/0390.npy,train/sagittal/0390.npy	abnormal,acl
+train/axial/0427.npy,train/coronal/0427.npy,train/sagittal/0427.npy	abnormal,acl
+train/axial/0438.npy,train/coronal/0438.npy,train/sagittal/0438.npy	abnormal,acl
+train/axial/0448.npy,train/coronal/0448.npy,train/sagittal/0448.npy	abnormal,acl
+train/axial/0471.npy,train/coronal/0471.npy,train/sagittal/0471.npy	abnormal,acl
+train/axial/0486.npy,train/coronal/0486.npy,train/sagittal/0486.npy	abnormal,acl
+train/axial/0513.npy,train/coronal/0513.npy,train/sagittal/0513.npy	abnormal,acl
+train/axial/0520.npy,train/coronal/0520.npy,train/sagittal/0520.npy	abnormal,acl
+train/axial/0521.npy,train/coronal/0521.npy,train/sagittal/0521.npy	abnormal,acl
+train/axial/0527.npy,train/coronal/0527.npy,train/sagittal/0527.npy	abnormal,acl
+train/axial/0539.npy,train/coronal/0539.npy,train/sagittal/0539.npy	abnormal,acl
+train/axial/0555.npy,train/coronal/0555.npy,train/sagittal/0555.npy	abnormal,acl
+train/axial/0559.npy,train/coronal/0559.npy,train/sagittal/0559.npy	abnormal,acl
+train/axial/0598.npy,train/coronal/0598.npy,train/sagittal/0598.npy	abnormal,acl
+train/axial/0640.npy,train/coronal/0640.npy,train/sagittal/0640.npy	abnormal,acl
+train/axial/0651.npy,train/coronal/0651.npy,train/sagittal/0651.npy	abnormal,acl
+train/axial/0653.npy,train/coronal/0653.npy,train/sagittal/0653.npy	abnormal,acl
+train/axial/0676.npy,train/coronal/0676.npy,train/sagittal/0676.npy	abnormal,acl
+train/axial/0684.npy,train/coronal/0684.npy,train/sagittal/0684.npy	abnormal,acl
+train/axial/0697.npy,train/coronal/0697.npy,train/sagittal/0697.npy	abnormal,acl
+train/axial/0710.npy,train/coronal/0710.npy,train/sagittal/0710.npy	abnormal,acl
+train/axial/0722.npy,train/coronal/0722.npy,train/sagittal/0722.npy	abnormal,acl
+train/axial/0729.npy,train/coronal/0729.npy,train/sagittal/0729.npy	abnormal,acl
+train/axial/0735.npy,train/coronal/0735.npy,train/sagittal/0735.npy	abnormal,acl
+train/axial/0745.npy,train/coronal/0745.npy,train/sagittal/0745.npy	abnormal,acl
+train/axial/0763.npy,train/coronal/0763.npy,train/sagittal/0763.npy	abnormal,acl
+train/axial/0781.npy,train/coronal/0781.npy,train/sagittal/0781.npy	abnormal,acl
+train/axial/0789.npy,train/coronal/0789.npy,train/sagittal/0789.npy	abnormal,acl
+train/axial/0792.npy,train/coronal/0792.npy,train/sagittal/0792.npy	abnormal,acl
+train/axial/0801.npy,train/coronal/0801.npy,train/sagittal/0801.npy	abnormal,acl
+train/axial/0814.npy,train/coronal/0814.npy,train/sagittal/0814.npy	abnormal,acl
+train/axial/0819.npy,train/coronal/0819.npy,train/sagittal/0819.npy	abnormal,acl
+train/axial/0850.npy,train/coronal/0850.npy,train/sagittal/0850.npy	abnormal,acl
+train/axial/0869.npy,train/coronal/0869.npy,train/sagittal/0869.npy	abnormal,acl
+train/axial/0882.npy,train/coronal/0882.npy,train/sagittal/0882.npy	abnormal,acl
+train/axial/0911.npy,train/coronal/0911.npy,train/sagittal/0911.npy	abnormal,acl
+train/axial/0917.npy,train/coronal/0917.npy,train/sagittal/0917.npy	abnormal,acl
+train/axial/0921.npy,train/coronal/0921.npy,train/sagittal/0921.npy	abnormal,acl
+train/axial/0928.npy,train/coronal/0928.npy,train/sagittal/0928.npy	abnormal,acl
+train/axial/0933.npy,train/coronal/0933.npy,train/sagittal/0933.npy	abnormal,acl
+train/axial/0936.npy,train/coronal/0936.npy,train/sagittal/0936.npy	abnormal,acl
+train/axial/0949.npy,train/coronal/0949.npy,train/sagittal/0949.npy	abnormal,acl
+train/axial/0957.npy,train/coronal/0957.npy,train/sagittal/0957.npy	abnormal,acl
+train/axial/1009.npy,train/coronal/1009.npy,train/sagittal/1009.npy	abnormal,acl
+train/axial/1054.npy,train/coronal/1054.npy,train/sagittal/1054.npy	abnormal,acl
+train/axial/1060.npy,train/coronal/1060.npy,train/sagittal/1060.npy	abnormal,acl
+train/axial/1079.npy,train/coronal/1079.npy,train/sagittal/1079.npy	abnormal,acl
+train/axial/1129.npy,train/coronal/1129.npy,train/sagittal/1129.npy	abnormal,acl
+train/axial/0322.npy,train/coronal/0322.npy,train/sagittal/0322.npy	abnormal,acl
+train/axial/0653.npy,train/coronal/0653.npy,train/sagittal/0653.npy	abnormal,acl
+train/axial/0308.npy,train/coronal/0308.npy,train/sagittal/0308.npy	abnormal,acl
+train/axial/0710.npy,train/coronal/0710.npy,train/sagittal/0710.npy	abnormal,acl
+train/axial/0071.npy,train/coronal/0071.npy,train/sagittal/0071.npy	abnormal,acl
+train/axial/0309.npy,train/coronal/0309.npy,train/sagittal/0309.npy	abnormal,acl
+train/axial/0317.npy,train/coronal/0317.npy,train/sagittal/0317.npy	abnormal,acl
+train/axial/0275.npy,train/coronal/0275.npy,train/sagittal/0275.npy	abnormal,acl
+train/axial/1009.npy,train/coronal/1009.npy,train/sagittal/1009.npy	abnormal,acl
+train/axial/1129.npy,train/coronal/1129.npy,train/sagittal/1129.npy	abnormal,acl
+train/axial/0882.npy,train/coronal/0882.npy,train/sagittal/0882.npy	abnormal,acl
+train/axial/0427.npy,train/coronal/0427.npy,train/sagittal/0427.npy	abnormal,acl
+train/axial/0087.npy,train/coronal/0087.npy,train/sagittal/0087.npy	abnormal,acl
+train/axial/0185.npy,train/coronal/0185.npy,train/sagittal/0185.npy	abnormal,acl
+train/axial/0819.npy,train/coronal/0819.npy,train/sagittal/0819.npy	abnormal,acl
+train/axial/0917.npy,train/coronal/0917.npy,train/sagittal/0917.npy	abnormal,acl
+train/axial/0390.npy,train/coronal/0390.npy,train/sagittal/0390.npy	abnormal,acl
+train/axial/0166.npy,train/coronal/0166.npy,train/sagittal/0166.npy	abnormal,acl
+train/axial/0789.npy,train/coronal/0789.npy,train/sagittal/0789.npy	abnormal,acl
+train/axial/0911.npy,train/coronal/0911.npy,train/sagittal/0911.npy	abnormal,acl
+train/axial/0598.npy,train/coronal/0598.npy,train/sagittal/0598.npy	abnormal,acl
+train/axial/0555.npy,train/coronal/0555.npy,train/sagittal/0555.npy	abnormal,acl
+train/axial/0062.npy,train/coronal/0062.npy,train/sagittal/0062.npy	abnormal,acl
+train/axial/0869.npy,train/coronal/0869.npy,train/sagittal/0869.npy	abnormal,acl
+train/axial/0921.npy,train/coronal/0921.npy,train/sagittal/0921.npy	abnormal,acl
+train/axial/0520.npy,train/coronal/0520.npy,train/sagittal/0520.npy	abnormal,acl

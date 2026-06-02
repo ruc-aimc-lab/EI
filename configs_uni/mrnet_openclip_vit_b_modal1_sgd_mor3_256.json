@@ -1,0 +1,189 @@
+{
+    "paths": {
+        "image_root": "../imgdata/MRNet-v1.0",
+        "collection_root": "./datasplit",
+        "mapping_path": "./datasplit/mapping_mrnet.json",
+        "output_root": "./out"
+    },
+    "training_params": {
+        "dataset_type": "mrnet",
+        "modality_idx": [
+            1
+        ],
+        "sampling_num": 4,
+        "transfer_type": "mor",
+        "lora_params": {
+            "r": [
+                2,
+                4,
+                8
+            ],
+            "alpha": [
+                4,
+                8,
+                16
+            ],
+            "lora_layers": [
+                "mlp_fc1",
+                "mlp_fc2"
+            ],
+            "num_loras": 3
+        },
+        "img_size": 256,
+        "net": "openclip_vit_b",
+        "custom_pretrained": null,
+        "model_params": {},
+        "n_class": 3,
+        "num_workers": 8,
+        "batch_size": 8,
+        "optimizer": "SGD",
+        "lr": 1e-05,
+        "lr_schedule": "CyclicLR",
+        "schedule_params": {
+            "base_lr": 1e-05,
+            "max_lr": 0.001,
+            "scale_fn": 0.8
+        },
+        "loss_func": "bce",
+        "loss_params": {},
+        "weight_decay": 0.0001,
+        "momentum": 0.95
+    },
+    "augmentation_params": [
+        {
+            "size_h": 256,
+            "size_w": 256,
+            "rotation": true,
+            "keep_aspect_ratio": false,
+            "rotation_range": [
+                -180,
+                180
+            ],
+            "contrast": true,
+            "contrast_range": [
+                0.7,
+                1.3
+            ],
+            "brightness": true,
+            "brightness_range": [
+                0.7,
+                1.3
+            ],
+            "saturation": true,
+            "saturation_range": [
+                0.7,
+                1.3
+            ],
+            "gamma": false,
+            "gamma_options": [
+                0.5,
+                0.8,
+                1,
+                1.2,
+                1.5
+            ],
+            "flip": true,
+            "flip_prob": 0.5,
+            "crop": true,
+            "crop_prob": 0.5,
+            "crop_w": 0.1,
+            "crop_h": 0.1,
+            "zoom": false,
+            "zoom_prob": 0.5,
+            "zoom_range": [
+                0.0,
+                0.05
+            ]
+        },
+        {
+            "size_h": 256,
+            "size_w": 256,
+            "rotation": true,
+            "keep_aspect_ratio": false,
+            "rotation_range": [
+                -180,
+                180
+            ],
+            "contrast": true,
+            "contrast_range": [
+                0.7,
+                1.3
+            ],
+            "brightness": true,
+            "brightness_range": [
+                0.7,
+                1.3
+            ],
+            "saturation": true,
+            "saturation_range": [
+                0.7,
+                1.3
+            ],
+            "gamma": false,
+            "gamma_options": [
+                0.5,
+                0.8,
+                1,
+                1.2,
+                1.5
+            ],
+            "flip": true,
+            "flip_prob": 0.5,
+            "crop": true,
+            "crop_prob": 0.5,
+            "crop_w": 0.1,
+            "crop_h": 0.1,
+            "zoom": false,
+            "zoom_prob": 0.5,
+            "zoom_range": [
+                0.0,
+                0.05
+            ]
+        },
+        {
+            "size_h": 256,
+            "size_w": 256,
+            "rotation": true,
+            "keep_aspect_ratio": false,
+            "rotation_range": [
+                -180,
+                180
+            ],
+            "contrast": true,
+            "contrast_range": [
+                0.7,
+                1.3
+            ],
+            "brightness": true,
+            "brightness_range": [
+                0.7,
+                1.3
+            ],
+            "saturation": true,
+            "saturation_range": [
+                0.7,
+                1.3
+            ],
+            "gamma": false,
+            "gamma_options": [
+                0.5,
+                0.8,
+                1,
+                1.2,
+                1.5
+            ],
+            "flip": true,
+            "flip_prob": 0.5,
+            "crop": true,
+            "crop_prob": 0.5,
+            "crop_w": 0.1,
+            "crop_h": 0.1,
+            "zoom": false,
+            "zoom_prob": 0.5,
+            "zoom_range": [
+                0.0,
+                0.05
+            ]
+        }
+    ]
+}

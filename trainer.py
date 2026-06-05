@@ -24,6 +24,12 @@ class Trainer(object):
         if self.use_accelerator:
             if not ACCELERATE_AVAILABLE:
                 raise ImportError('accelerate is not installed. Run: pip install accelerate')
+            from accelerate import DistributedDataParallelKwargs
+            ddp_kwargs = DistributedDataParallelKwargs(find_unused_parameters=True)
+            # construct Accelerator up front so run_num can be broadcast across
+            # ranks before anyone scans the output directory (otherwise ranks
+            # race on os.path.exists and pick different run_num values).
+            self.accelerator = Accelerator(kwargs_handlers=[ddp_kwargs])
             self.device = [-1]
             local_rank = int(os.environ.get('LOCAL_RANK', 0))
             torch.cuda.set_device(local_rank)
@@ -31,6 +37,7 @@ class Trainer(object):
             self._original_batch_size = training_params['batch_size']
             training_params['batch_size'] = max(1, training_params['batch_size'] // world_size)
         else:
+            self.accelerator = None
             self.device = list(map(int, device.split(',')))
         self.training_params = training_params
         self.paths = paths
@@ -77,12 +84,27 @@ class Trainer(object):
 
         self.training_params['inter_val'] = self.inter_val
         
-        # output directory
-        self.run_num = 0
-        self.out = os.path.join(self.output_root, self.train_collection, 'Models', self.val_collection, self.config_name, 'runs_{}'.format(self.run_num))
-        while os.path.exists(self.out):
-            self.run_num += 1
-            self.out = os.path.join(self.output_root, self.train_collection, 'Models', self.val_collection, self.config_name, 'runs_{}'.format(self.run_num))
+        # output directory -- main rank chooses run_num by scanning existing
+        # runs_<n>/ and creates the new dir; other ranks receive the same
+        # value via broadcast so they cannot race on os.path.exists (a race
+        # here would make EI load mismatched pretrained checkpoints).
+        models_root = os.path.join(self.output_root, self.train_collection, 'Models', self.val_collection, self.config_name)
+        if self.accelerator is None or self.accelerator.is_main_process:
+            self.run_num = 0
+            self.out = os.path.join(models_root, 'runs_{}'.format(self.run_num))
+            while os.path.exists(self.out):
+                self.run_num += 1
+                self.out = os.path.join(models_root, 'runs_{}'.format(self.run_num))
+            os.makedirs(self.out, exist_ok=True)
+        else:
+            self.run_num = 0
+        if self.use_accelerator:
+            from accelerate.utils import broadcast_object_list
+            run_num_list = [self.run_num]
+            broadcast_object_list(run_num_list, from_process=0)
+            self.run_num = run_num_list[0]
+            self.out = os.path.join(models_root, 'runs_{}'.format(self.run_num))
+            self.accelerator.wait_for_everyone()
           
         self.model = build_model(model_name=training_params['net'], training_params=training_params, 
                                  training=True, dataset_type=self.dataset_type, run_num=self.run_num)
@@ -95,12 +117,8 @@ class Trainer(object):
 
         print('finish model loading')
         
-        # only main process creates output dirs and writes logs
+        # output dir was already created on the main rank during run_num assignment
         is_main = not self.use_accelerator or self.accelerator.is_main_process
-        if is_main:
-            os.makedirs(self.out, exist_ok=True)
-        if self.use_accelerator:
-            self.accelerator.wait_for_everyone()
 
         self.log_headers = ['iteration', 'train/loss',
                             'train/sensitivity', 'train/specificity', 'train/f1', 'train/auc', 'train/ap', 'train/acc',
@@ -124,15 +142,23 @@ class Trainer(object):
         print('dataset: ', self.train_collection, self.val_collection)
 
     def _setup_accelerator(self):
-        from accelerate import DistributedDataParallelKwargs
-        ddp_kwargs = DistributedDataParallelKwargs(find_unused_parameters=True)
-        self.accelerator = Accelerator(kwargs_handlers=[ddp_kwargs])
-        prepared_model, prepared_optim, prepared_scheduler, prepared_loader = self.accelerator.prepare(
-            self.model.model, self.model.opt.optim, self.model.opt.lr_schedule, self.train_loader
+        # Accelerator was constructed in __init__ so run_num could be broadcast
+        # before this point; here we only wrap the model / optimizer / loader.
+        # NOTE: deliberately do NOT prepare the lr scheduler. AcceleratedScheduler
+        # steps the underlying scheduler num_processes times per .step() call,
+        # assuming the dataloader batch was multiplied by num_processes. This
+        # codebase does the opposite -- it divides batch_size by world_size to
+        # keep the global batch (and therefore the per-epoch iteration count /
+        # inter_val) identical to single-GPU. Wrapping the scheduler would make
+        # CyclicLR cycle num_processes x too fast and significantly degrade
+        # accuracy. The raw torch scheduler shares param_groups with the prepared
+        # optimizer, so stepping it manually keeps the LR trajectory aligned with
+        # the single-GPU run.
+        prepared_model, prepared_optim, prepared_loader = self.accelerator.prepare(
+            self.model.model, self.model.opt.optim, self.train_loader
         )
         self.model.model = prepared_model
         self.model.opt.optim = prepared_optim
-        self.model.opt.lr_schedule = prepared_scheduler
         self.train_loader = prepared_loader
         self.model.accelerator = self.accelerator
         print('accelerate enabled, device:', self.accelerator.device,

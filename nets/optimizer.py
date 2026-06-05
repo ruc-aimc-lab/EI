@@ -50,7 +50,9 @@ class _CosineWithWarmup(optim.lr_scheduler.LambdaLR):
         def lr_lambda(step):
             if step < warmup_steps:
                 return float(step) / max(1, warmup_steps)
-            progress = float(step - warmup_steps) / max(1, total_steps - warmup_steps)
+            # clamp progress so that once step exceeds total_steps the LR stays
+            # at eta_min instead of cycling back up toward the peak.
+            progress = min(1.0, float(step - warmup_steps) / max(1, total_steps - warmup_steps))
             cosine_val = 0.5 * (1.0 + math.cos(math.pi * progress))
             return eta_min_ratio + (1.0 - eta_min_ratio) * cosine_val
         super().__init__(optimizer, lr_lambda, last_epoch)

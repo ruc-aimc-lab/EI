@@ -37,6 +37,7 @@ class MoR_Linear(nn.Module):
         for i in range(len(self.lora_as)):
             nn.init.kaiming_uniform_(self.lora_as[i].weight, a=2.236)  # sqrt(5)=2.236
             nn.init.zeros_(self.lora_bs[i].weight)
+            # nn.init.kaiming_uniform_(self.lora_bs[i].weight)
         
     def load_weight(self, raw_linear):
         with torch.no_grad():
@@ -114,14 +115,17 @@ class MoR_qkv(nn.Module):
             for i in range(len(self.lora_as_q)):
                 nn.init.kaiming_uniform_(self.lora_as_q[i].weight, a=2.236)  # a=sqrt(5)
                 nn.init.zeros_(self.lora_bs_q[i].weight)
+                #nn.init.kaiming_uniform_(self.lora_bs_q[i].weight)
         if self.lora_k:
             for i in range(len(self.lora_as_k)):
                 nn.init.kaiming_uniform_(self.lora_as_k[i].weight, a=2.236)  # a=sqrt(5)
                 nn.init.zeros_(self.lora_bs_k[i].weight)
+                #nn.init.kaiming_uniform_(self.lora_bs_k[i].weight)
         if self.lora_v:
             for i in range(len(self.lora_as_v)):
                 nn.init.kaiming_uniform_(self.lora_as_v[i].weight, a=2.236)  # a=sqrt(5)
                 nn.init.zeros_(self.lora_bs_v[i].weight)
+                #nn.init.kaiming_uniform_(self.lora_bs_v[i].weight)
 
     def load_weight(self, raw_linear):
         with torch.no_grad():

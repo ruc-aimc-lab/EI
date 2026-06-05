@@ -22,10 +22,10 @@ for ((run=1; run<=repeats; run++)); do
     IFS=',' read -ra GPUARR <<< "$gpu"
     NGPU=${#GPUARR[@]}
     if [ $NGPU -gt 1 ]; then
-        PORT=$(python -c "import socket; s=socket.socket(); s.bind(('',0)); p=s.getsockname()[1]; s.close(); print(p)")
-        python -m accelerate.commands.launch --num_processes=$NGPU --gpu_ids=$gpu --main_process_port=$PORT main.py "$train_set" "$val_set" "$config" "$test_set" -1
+        PORT=$(python3 -c "import socket; s=socket.socket(); s.bind(('',0)); p=s.getsockname()[1]; s.close(); print(p)")
+        python3 -m accelerate.commands.launch --num_processes=$NGPU --gpu_ids=$gpu --main_process_port=$PORT main.py "$train_set" "$val_set" "$config" "$test_set" -1
     else
-        python main.py "$train_set" "$val_set" "$config" "$test_set" "$gpu"
+        python3 main.py "$train_set" "$val_set" "$config" "$test_set" "$gpu"
     fi
 done
 

@@ -16,12 +16,12 @@
         "custom_pretrained": null,
         "model_params": {
             "pretrained_configs": [
-                "configs_uni/derm_openclip_vit_b_modal0_sgd_mor3_512.json",
-                "configs_uni/derm_openclip_vit_b_modal1_sgd_mor3_512.json"
+                "configs_uni/derm_openclip_vit_b_modal0_sgd_mor3_512_cosine.json",
+                "configs_uni/derm_openclip_vit_b_modal1_sgd_mor3_512_cosine.json"
             ],
             "pretrained_ckpts": [
-                "out/derm7pt_train_balance/Models/derm7pt_val/derm_openclip_vit_b_modal0_sgd_mor3_512.json",
-                "out/derm7pt_train_balance/Models/derm7pt_val/derm_openclip_vit_b_modal1_sgd_mor3_512.json"
+                "out/derm7pt_train_balance/Models/derm7pt_val/derm_openclip_vit_b_modal0_sgd_mor3_512_cosine.json",
+                "out/derm7pt_train_balance/Models/derm7pt_val/derm_openclip_vit_b_modal1_sgd_mor3_512_cosine.json"
             ]
         },
         "mm_loss_weight": 1,
@@ -38,12 +38,12 @@
         "num_workers": 8,
         "batch_size": 8,
         "optimizer": "SGD",
-        "lr": 1e-05,
-        "lr_schedule": "CyclicLR",
+        "lr": 0.001,
+        "lr_schedule": "CosineWithWarmup",
         "schedule_params": {
-            "base_lr": 1e-05,
-            "max_lr": 0.001,
-            "scale_fn": 0.8
+            "warmup_epochs": 1,
+            "total_epochs": 50,
+            "eta_min": 1e-07
         },
         "loss_func": "ce",
         "loss_params": {},

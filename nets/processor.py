@@ -175,7 +175,9 @@ class ProcessorEI(BasicProcessor):
             elif self.route_sup == 'decision':
                 pass
 
-            loss = F.cross_entropy(route_weight, route_target) * self.route_sup_loss_weight
+            # route_weight is already softmaxed by EIFusion; use nll_loss on log(prob)
+            # so we don't double-softmax (F.cross_entropy would).
+            loss = F.nll_loss(torch.log(route_weight + 1e-8), route_target) * self.route_sup_loss_weight
             if self.score_sup:
                 loss += self.crit(scores, ys) * self.mm_loss_weight
 

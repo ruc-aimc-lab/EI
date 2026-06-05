@@ -82,7 +82,7 @@ Multi-GPU is supported via `accelerate`: pass `"0,1"` for the gpu argument in th
 @inproceedings{wei2026ei,
   title     = {{EI}: Early Intervention for Multimodal Imaging based Disease Recognition},
   author    = {Wei, Qijie and Lin, Hailan and Li, Xirong},
-  booktitle = {Findings of CVPR},
+  booktitle = {CVPR Findings},
   year      = {2026}
 }
 ```

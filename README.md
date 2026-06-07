@@ -34,12 +34,12 @@ The example below walks through the full Derm7pt workflow with the DINOv2-B back
 ### Step 1. Single-modal MoR, one config per modality
 
 ```bash
-# modality 0 (dermoscopic)
+# modality 0 (clinical)
 python main.py derm7pt_train_balance derm7pt_val \
     configs_uni/derm_dinov2_b_modal0_sgd_mor3_512.json \
     derm7pt_test 0
 
-# modality 1 (clinical)
+# modality 1 (dermoscopic)
 python main.py derm7pt_train_balance derm7pt_val \
     configs_uni/derm_dinov2_b_modal1_sgd_mor3_512.json \
     derm7pt_test 0
